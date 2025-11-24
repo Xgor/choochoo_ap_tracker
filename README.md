@@ -1,4 +1,4 @@
-# Archipelago A Short Hike Poptracker
+# Archipelago Choo Choo Charles Poptracker
 
-This is a Poptracker pack designed for use in tracking the Archipelago implementation of A Short Hike.
+This is a Poptracker pack designed for use in tracking the Archipelago implementation of Choo Choo Charles.
 Install from the Releases tab into a Poptracker instance.
