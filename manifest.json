@@ -1,0 +1,17 @@
+﻿{
+    "name": "Choo Choo Charles" ,
+    "game_name": "Choo Choo Charles Archipelago",
+    "package_version": "0.1",
+    "package_uid": "choochoo_xgor",
+    "platform": "pc",
+    "author": "Xgor",
+    "variants": {
+        "standard": {
+            "display_name": "Map Tracker",
+            "flags": [
+                "ap"
+            ]
+        }
+    },
+    "min_poptracker_version": "0.25.3"
+}

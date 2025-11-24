@@ -1,0 +1,51 @@
+[
+
+  {
+    "name": "aranearum",
+    "location_size": 30,
+    "location_border_thickness": 4,
+    "img": "images/maps/aranearum.png"
+  },
+  {
+    "name": "junkyard_area",
+    "location_size": 30,
+    "location_border_thickness": 4,
+    "img": "images/maps/south/junkyard_area.png"
+  },
+  {
+    "name": "junkyard_shed",
+    "location_size": 30,
+    "location_border_thickness": 4,
+    "img": "images/maps/south/junkyard_shed.png"
+  },
+  {
+    "name": "military_base",
+    "location_size": 30,
+    "location_border_thickness": 4,
+    "img": "images/maps/south/military_base.png"
+  },
+  {
+    "name": "south_house",
+    "location_size": 30,
+    "location_border_thickness": 4,
+    "img": "images/maps/south/south_house.png"
+  },
+  {
+    "name": "south_mine_outside",
+    "location_size": 30,
+    "location_border_thickness": 4,
+    "img": "images/maps/south/south_mine_outside.png"
+  },
+  {
+    "name": "start_camp",
+    "location_size": 30,
+    "location_border_thickness": 4,
+    "img": "images/maps/south/start_camp.jpg"
+  },
+  {
+    "name": "south_mine_outside",
+    "location_size": 30,
+    "location_border_thickness": 4,
+    "img": "images/maps/south/swamp.png"
+  }
+]

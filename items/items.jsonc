@@ -1,0 +1,70 @@
+[
+  //more info: https://github.com/black-sliver/PopTracker/blob/master/doc/PACKS.md#items
+  {
+    "name": "Green Egg",
+    "type": "toggle",
+    "img": "images/items/green.png",
+    "codes": "green_egg"
+  },
+  {
+    "name": "Blue Egg",
+    "type": "toggle",
+    "img": "images/items/blue.png",
+    "codes": "blue_egg"
+  },
+  {
+    "name": "Red Egg",
+    "type": "toggle",
+    "img": "images/items/red.png",
+    "codes": "red_egg"
+  },
+  {
+    "name": "Lockpicks",
+    "type": "toggle",
+    "img": "images/items/lockpicks.png",
+    "codes": "lockpicks"
+  },
+  {
+    "name": "Temple key",
+    "type": "toggle",
+    "img": "images/items/templekey.png",
+    "codes": "temple_key"
+  },
+  {
+    "name": "south_mine_key",
+    "type": "toggle",
+    "img": "images/items/key.png",
+    "codes": "south_mine_key"
+  },
+  {
+    "name": "north_mine_key",
+    "type": "toggle",
+    "img": "images/items/key.png",
+    "codes": "north_mine_key"
+  },
+  {
+    "name": "mountain_ruin_key",
+    "type": "toggle",
+    "img": "images/items/key.png",
+    "codes": "mountain_ruin_key"
+  },
+  {
+    "name": "barn_key",
+    "type": "toggle",
+    "img": "images/items/key.png",
+    "codes": "barn_key"
+  },
+  {
+    "name": "candice_key",
+    "type": "toggle",
+    "img": "images/items/key.png",
+    "codes": "candice_key"
+  },
+  {
+    "name": "mob_camp_key",
+    "type": "toggle",
+    "img": "images/items/key.png",
+    "codes": "mob_camp_key"
+  }
+
+]

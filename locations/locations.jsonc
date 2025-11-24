@@ -1,0 +1,1043 @@
+
+[
+  {
+    "name": "Aranerarum",
+    "children": [
+      {
+        "name": "Start Camp",
+        "access_rules": [
+        ],
+        "sections": [
+          {
+            "name": "scrap 1",
+            "item_count": 1
+          },
+          {
+            "name": "scrap 2",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "aranearum",
+            "x": 500,
+            "y": 750
+          }
+        ]
+      },
+      {
+        "name": "South House",
+        "access_rules": [
+
+        ],
+        "sections": [
+          {
+            "item_count": 12
+          },
+          {
+            "name": "Chest",
+            "item_count": 6,
+            "access_rules": ["lockpicks"]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "aranearum",
+            "x": 740,
+            "y": 950
+          }
+        ]
+      },
+      {
+        "name": "Barn",
+        "access_rules": [
+
+        ],
+        "sections": [
+          {
+            "name": "Tony Tiddle",
+            "item_count": 1
+          },
+          {
+            "name": "Inside",
+            "item_count": 9,
+            "access_rules": ["barn_key"]
+          }
+
+          
+        ],
+        "map_locations": [
+          {
+            "map": "aranearum",
+            "x": 690,
+            "y": 730
+          }
+        ]
+      },
+      {
+        "name": "Tutorial House",
+        "access_rules": [
+
+        ],
+        "sections": [
+          {
+            "name": "Candice",
+            "item_count": 1
+          },
+          {
+            "name": "House",
+            "item_count": 9,
+            "access_rules": ["candice_key"]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "aranearum",
+            "x": 725,
+            "y": 810
+          }
+        ]
+      },
+      {
+        "name": "Junkyard Area",
+        "access_rules": [
+
+        ],
+        "sections": [
+          {
+            "item_count": 8
+          },
+          {
+            "name": "Chest",
+            "item_count": 1,
+            "access_rules": ["lockpicks"]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "aranearum",
+            "x": 775,
+            "y": 890
+          }
+        ]
+      },
+      {
+        "name": "Junkyard Shed",
+        "access_rules": [
+
+        ],
+        "sections": [
+          {
+            "item_count": 8
+          },
+          {
+            "name": "Helen",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "aranearum",
+            "x": 810,
+            "y": 825
+          }
+        ]
+      },
+      {
+        "name": "Military Base",
+        "access_rules": [
+
+        ],
+        "sections": [
+          {
+            "item_count": 12
+          },
+          {
+            "name": "Daryl Mission Start",
+            "item_count": 1
+          },
+          {
+            "name": "Daryl Mission End",
+            "item_count": 1,
+            "access_rules": ["tablet"]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "aranearum",
+            "x": 875,
+            "y": 835
+          }
+        ]
+      },
+      {
+        "name": "Swamp",
+        "access_rules": [
+
+        ],
+        "sections": [
+          {
+            "name": "Edges",
+            "item_count": 32
+          },
+          {
+            "name": "Shack",
+            "item_count": 3
+          },
+          {
+            "name": "Islet",
+            "item_count": 2
+          },
+          {
+            "name": "Dead Fish",
+            "item_count": 1
+          },
+          {
+            "name": "Swamp Lizbeth",
+            "item_count": 1,
+            "access_rules": ["fish"]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "aranearum",
+            "x": 750,
+            "y": 750
+          }
+        ]
+      },
+      {
+        "name": "South Mine",
+        "access_rules": [
+        ],
+        "sections": [
+          {
+            "name": "Outside",
+            "item_count": 7
+          },
+          {
+            "name": "Inside",
+            "item_count": 9,
+            "access_rules": ["south_mine_key"]
+          },
+          {
+            "name": "Paint Can",
+            "item_count": 1,
+            "access_rules": ["south_mine_key | lockpicks"] // TODO FIX
+          },
+          {
+            "name": "Green Egg",
+            "item_count": 1,
+            "access_rules": ["south_mine_key"]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "aranearum",
+            "x": 835,
+            "y": 735
+          }
+        ]
+      },
+      {
+        "name": "Pickle Val",
+        "access_rules": [
+        ],
+        "sections": [
+          {
+            "name": "Scrap",
+            "item_count": 23
+          },
+          {
+            "name": "Paint Can",
+            "item_count": 1
+          },
+          {
+            "name": "Jar of Pickles",
+            "item_count": 1,
+            "access_rules": ["lockpicks"]
+          },
+          {
+            "name": "Pickle Lady",
+            "item_count": 1,
+            "access_rules": ["pickles"]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "aranearum",
+            "x": 600,
+            "y": 600
+          }
+        ]
+      },
+      {
+        "name": "Canyon",
+        "access_rules": [
+        ],
+        "sections": [
+          {
+            "name": "Scrap",
+            "item_count": 17
+          },
+          {
+            "name": "Blue Box",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "aranearum",
+            "x": 460,
+            "y": 600
+          }
+        ]
+      },
+      {
+        "name": "Middle Station",
+        "access_rules": [
+        ],
+        "sections": [
+          {
+            "name": "Scrap",
+            "item_count": 20
+          },
+          {
+            "name": "Theodore",
+            "item_count": 1,
+            "access_rules": ["blue_box"]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "aranearum",
+            "x": 530,
+            "y": 510
+          }
+        ]
+      },
+      {
+        "name": "Watchtower",
+        "access_rules": [
+        ],
+        "sections": [
+          {
+            "name": "Scrap",
+            "item_count": 10
+          },
+          {
+            "name": "Paint Can",
+            "item_count": 1,
+            "access_rules": ["lockpicks"]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "aranearum",
+            "x": 540,
+            "y": 440
+          }
+        ]
+      },
+      {
+        "name": "Boulder Field",
+        "access_rules": [
+        ],
+        "sections": [
+          {
+            "name": "Scrap",
+            "item_count": 18
+          },
+          {
+            "name": "Pages",
+            "item_count": 8
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "aranearum",
+            "x": 600,
+            "y": 450
+          }
+        ]
+      },
+      {
+        "name": "Haunted House",
+        "access_rules": [
+        ],
+        "sections": [
+          {
+            "name": "Scrap",
+            "item_count": 8
+          },
+          {
+            "name": "Sasha Mission",
+            "item_count": 1,
+            "access_rules": ["page"]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "aranearum",
+            "x": 590,
+            "y": 390
+          }
+        ]
+      },
+      {
+        "name": "Port",
+        "access_rules": [
+        ],
+        "sections": [
+          {
+            "name": "Scrap",
+            "item_count": 19
+          },
+          {
+            "name": "Paint Can",
+            "item_count": 1
+          },
+          {
+            "name": "Sasha Mission",
+            "item_count": 1,
+            "access_rules": ["journal"]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "aranearum",
+            "x": 700,
+            "y": 490
+          }
+        ]
+      },
+      {
+        "name": "Santiago House",
+        "access_rules": [
+        ],
+        "sections": [
+          {
+            "name": "Scrap",
+            "item_count": 10
+          },
+          {
+            "name": "Journal",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "aranearum",
+            "x": 550,
+            "y": 360
+          }
+        ]
+      },
+      {
+        "name": "Lost Stairs",
+        "access_rules": [
+        ],
+        "sections": [
+          {
+            "name": "Scrap",
+            "item_count": 2
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "aranearum",
+            "x": 600,
+            "y": 340
+          }
+        ]
+      },
+      {
+        "name": "Doll Woods",
+        "access_rules": [
+        ],
+        "sections": [
+          {
+            "name": "Scrap",
+            "item_count": 10
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "aranearum",
+            "x": 655,
+            "y": 340
+          }
+        ]
+      },
+      {
+        "name": "Trench House",
+        "access_rules": [
+        ],
+        "sections": [
+          {
+            "name": "Scrap",
+            "item_count": 18
+          },
+          {
+            "name": "Chest",
+            "item_count": 6,
+            "access_rules": ["lockpicks"]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "aranearum",
+            "x": 700,
+            "y": 340
+          }
+        ]
+      },
+      {
+        "name": "Rockets Testing",
+        "access_rules": [
+        ],
+        "sections": [
+          {
+            "name": "Ground Scrap",
+            "item_count": 10
+          },
+          {
+            "name": "Dynamite",
+            "item_count": 1
+          },
+          {
+            "name": "Bunker Scrap",
+            "item_count": 2,
+            "access_rules": ["dynamite"]
+          },
+          {
+            "name": "Rockets",
+            "item_count": 1,
+            "access_rules": ["dynamite"]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "aranearum",
+            "x": 725,
+            "y": 300
+          }
+        ]
+      },
+      {
+        "name": "Workshop",
+        "access_rules": [
+        ],
+        "sections": [
+          {
+            "name": "Scrap",
+            "item_count": 6
+          },
+          {
+            "name": "John Smith",
+            "item_count": 1,
+            "access_rules": ["rockets"]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "aranearum",
+            "x": 780,
+            "y": 300
+          }
+        ]
+      },
+      {
+        "name": "East House",
+        "access_rules": [
+        ],
+        "sections": [
+          {
+            "name": "Scrap",
+            "item_count": 14
+          },
+          {
+            "name": "Chest",
+            "item_count": 5,
+            "access_rules": ["lockpicks"]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "aranearum",
+            "x": 845,
+            "y": 330
+          }
+        ]
+      },
+      {
+        "name": "East Tower",
+        "access_rules": [
+        ],
+        "sections": [
+          {
+            "name": "Scrap",
+            "item_count": 6
+          },
+          {
+            "name": "Greg",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "aranearum",
+            "x": 800,
+            "y": 280
+          }
+        ]
+      },
+      {
+        "name": "Lighthouse",
+        "access_rules": [
+        ],
+        "sections": [
+          {
+            "name": "Scrap",
+            "item_count": 18
+          },
+          {
+            "name": "Breaker",
+            "item_count": 4
+          },
+          {
+            "name": "Claire",
+            "item_count": 1,
+            "access_rules": ["breakers"]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "aranearum",
+            "x": 850,
+            "y": 250
+          }
+        ]
+      },
+      {
+        "name": "Prism Temple",
+        "access_rules": [
+        ],
+        "sections": [
+          {
+            "name": "Scrap",
+            "item_count": 34
+          },
+          {
+            "name": "Chest",
+            "item_count": 3,
+            "access_rules": ["lockpicks"]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "aranearum",
+            "x": 440,
+            "y": 450
+          }
+        ]
+      },
+      {
+        "name": "Shrine",
+        "access_rules": [
+        ],
+        "sections": [
+          {
+            "name": "Scrap",
+            "item_count": 3
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "aranearum",
+            "x": 370,
+            "y": 460
+          }
+        ]
+      },
+      {
+        "name": "Towers",
+        "access_rules": [
+        ],
+        "sections": [
+          {
+            "name": "Scrap",
+            "item_count": 27
+          },
+          {
+            "name": "Ronny",
+            "item_count": 1,
+            "access_rules": ["contracts"]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "aranearum",
+            "x": 300,
+            "y": 440
+          }
+        ]
+      },
+      {
+        "name": "Trailer Cabin",
+        "access_rules": [
+        ],
+        "sections": [
+          {
+            "name": "Scrap",
+            "item_count": 6
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "aranearum",
+            "x": 170,
+            "y": 430
+          }
+        ]
+      },
+      {
+        "name": "Caravan",
+        "access_rules": [
+        ],
+        "sections": [
+          {
+            "name": "Scrap",
+            "item_count": 14
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "aranearum",
+            "x": 190,
+            "y": 380
+          }
+        ]
+      },
+      {
+        "name": "Mine Elevator Exit",
+        "access_rules": [
+        ],
+        "sections": [
+          {
+            "name": "Scrap",
+            "item_count": 9
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "aranearum",
+            "x": 265,
+            "y": 385
+          }
+        ]
+      },
+      {
+        "name": "Mine Elevator Exit",
+        "access_rules": [
+        ],
+        "sections": [
+          {
+            "name": "Scrap",
+            "item_count": 9
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "aranearum",
+            "x": 265,
+            "y": 385
+          }
+        ]
+      },
+      {
+        "name": "Mountain Ruin",
+        "access_rules": [
+        ],
+        "sections": [
+          {
+            "name": "Scrap Outside",
+            "item_count": 17
+          },
+          {
+            "name": "Scrap Inside",
+            "item_count": 17,
+            "access_rules": ["mountain_ruin_key"]
+          },
+          {
+            "name": "Paint Can",
+            "item_count": 1,
+            "access_rules": ["mountain_ruin_key|lockpicks"]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "aranearum",
+            "x": 355,
+            "y": 345
+          }
+        ]
+      },
+      {
+        "name": "Mob Camp",
+        "access_rules": [
+        ],
+        "sections": [
+          {
+            "name": "Scrap",
+            "item_count": 16
+          },
+          {
+            "name": "Locked Room",
+            "item_count": 2,
+            "access_rules": ["mob_camp_key"]
+          },
+          {
+            "name": "Broken Bob",
+            "item_count": 1,
+            "access_rules": ["mob_camp_key|bob"]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "aranearum",
+            "x": 255,
+            "y": 325
+          }
+        ]
+      },
+      {
+        "name": "West Cottage",
+        "access_rules": [
+        ],
+        "sections": [
+          {
+            "name": "Scrap",
+            "item_count": 5
+          },
+          {
+            "name": "Gale",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "aranearum",
+            "x": 105,
+            "y": 325
+          }
+        ]
+      },
+      {
+        "name": "Church",
+        "access_rules": [
+        ],
+        "sections": [
+          {
+            "name": "Scrap",
+            "item_count": 12
+          },
+          {
+            "name": "Paint Can",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "aranearum",
+            "x": 135,
+            "y": 285
+          }
+        ]
+      },
+      {
+        "name": "Barbed Shelter",
+        "access_rules": [
+        ],
+        "sections": [
+          {
+            "name": "Scrap",
+            "item_count": 5
+          },
+          {
+            "name": "Gertrude",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "aranearum",
+            "x": 80,
+            "y": 275
+          }
+        ]
+      },
+      {
+        "name": "West Beach",
+        "access_rules": [
+        ],
+        "sections": [
+          {
+            "name": "Scrap",
+            "item_count": 8
+          },
+          {
+            "name": "Chest",
+            "item_count": 6,
+            "access_rules": ["lockpicks"]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "aranearum",
+            "x": 50,
+            "y": 245
+          }
+        ]
+      },
+      {
+        "name": "North Beach",
+        "access_rules": [
+        ],
+        "sections": [
+          {
+            "name": "Scrap",
+            "item_count": 15
+          },
+          {
+            "name": "Paint Can",
+            "item_count": 1
+          },
+          {
+            "name": "Chest",
+            "item_count": 4,
+            "access_rules": ["lockpicks"]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "aranearum",
+            "x": 50,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Wood Bridge",
+        "access_rules": [
+        ],
+        "sections": [
+          {
+            "name": "Scrap",
+            "item_count": 13
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "aranearum",
+            "x": 75,
+            "y": 150
+          }
+        ]
+      },
+      {
+        "name": "Museum",
+        "access_rules": [
+        ],
+        "sections": [
+          {
+            "name": "Scrap",
+            "item_count": 12
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "aranearum",
+            "x": 105,
+            "y": 180
+          }
+        ]
+      },
+      {
+        "name": "Morse Bunker",
+        "access_rules": [
+        ],
+        "sections": [
+          {
+            "name": "Scrap Outside",
+            "item_count": 14
+          },
+          {
+            "name": "Scrap Inside",
+            "item_count": 5,
+            "access_rules": ["lockpicks"]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "aranearum",
+            "x": 180,
+            "y": 240
+          }
+        ]
+      },
+      {
+        "name": "North Mine",
+        "access_rules": [
+        ],
+        "sections": [
+          {
+            "name": "Outside",
+            "item_count": 13
+          },
+          {
+            "name": "Inside",
+            "item_count": 13,
+            "access_rules": ["north_mine_key"]
+          },
+          {
+            "name": "Paint Can",
+            "item_count": 1,
+            "access_rules": ["north_mine_key|lockpicks"]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "aranearum",
+            "x": 160,
+            "y": 140
+          }
+        ]
+      },
+      {
+        "name": "Mine Shaft",
+        "access_rules": [
+        ],
+        "sections": [
+          {
+            "name": "Scrap",
+            "item_count": 14
+          },
+          {
+            "name": "Chest",
+            "item_count": 7,
+            "access_rules": ["lockpicks"]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "aranearum",
+            "x": 305,
+            "y": 240
+          }
+        ]
+      }
+
+    ]
+  }
+]
