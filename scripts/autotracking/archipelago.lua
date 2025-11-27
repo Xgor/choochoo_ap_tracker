@@ -163,7 +163,10 @@ function onClear(slot_data)
 	apply_slot_data(slot_data)
 	LOCAL_ITEMS = {}
 	GLOBAL_ITEMS = {}
-
+	-- manually run snes interface functions after onClear in case we need to update them (i.e. because they need slot_data)
+	if PopVersion < "0.20.1" or AutoTracker:GetConnectionState("SNES") == 3 then
+		-- add snes interface functions here
+	end
 	-- setup data storage tracking for hint tracking
 	local data_strorage_keys = {}
 	if PopVersion >= "0.32.0" then
@@ -191,6 +194,7 @@ function onItem(index, item_id, item_name, player_number)
 	end
 	local is_local = player_number == Archipelago.PlayerNumber
 	CUR_INDEX = index
+	print(item_id)
 	local mapping_entry = ITEM_MAPPING[item_id]
 	if not mapping_entry then
 		if AUTOTRACKER_ENABLE_DEBUG_LOGGING_AP then
@@ -230,7 +234,10 @@ function onItem(index, item_id, item_name, player_number)
 		print(string.format("local items: %s", dump_table(LOCAL_ITEMS)))
 		print(string.format("global items: %s", dump_table(GLOBAL_ITEMS)))
 	end
-
+	-- track local items via snes interface
+	if PopVersion < "0.20.1" or AutoTracker:GetConnectionState("SNES") == 3 then
+		-- add snes interface functions for local item tracking here
+	end
 end
 
 -- called when a location gets cleared
