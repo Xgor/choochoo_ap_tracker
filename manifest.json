@@ -1,18 +1,22 @@
-﻿{
-    "name": "Choo Choo Charles" ,
-    "game_name": "Choo Choo Charles Archipelago",
-    "package_version": "Alpha",
-    "package_uid": "choochoo_xgor",
-    "platform": "pc",
-    "author": "Xgor",
-    "target_poptracker_version": "0.32.1",
+{
+    "name": "Choo-Choo Charles Archipelago",
+    "game_name": "Choo-Choo Charles",
+    "package_version": "0.0.1",
+    "package_uid": "choo-choo charles_ap",
+    "author": "builder_script",
     "variants": {
-        "standard": {
+        "Map Tracker": {
             "display_name": "Map Tracker",
+            "flags": [
+                "ap"
+            ]
+        },
+        "Items Only": {
+            "display_name": "Items Only",
             "flags": [
                 "ap"
             ]
         }
     },
-    "min_poptracker_version": "0.25.9"
+    "min_poptracker_version": "0.31.0"
 }

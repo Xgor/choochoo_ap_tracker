@@ -105,12 +105,21 @@
         ],
         "sections": [
           {
-            "item_count": 8
+            "item_count": 10
           },
           {
-            "name": "Chest",
+            "name": "Daryl Mission Start",
+            "item_count": 1
+          },
+          {
+            "name": "Tablet",
             "item_count": 1,
             "access_rules": ["lockpicks"]
+          },
+          {
+            "name": "Daryl Mission End",
+            "item_count": 1,
+            "access_rules": ["tablet"]
           }
         ],
         "map_locations": [
@@ -153,13 +162,7 @@
             "item_count": 12
           },
           {
-            "name": "Daryl Mission Start",
-            "item_count": 1
-          },
-          {
-            "name": "Daryl Mission End",
-            "item_count": 1,
-            "access_rules": ["tablet"]
+            "name": "Paint Can"
           }
         ],
         "map_locations": [
@@ -182,18 +185,18 @@
           },
           {
             "name": "Shack",
-            "item_count": 3
+            "item_count": 2
           },
           {
             "name": "Islet",
-            "item_count": 2
+            "item_count": 3
           },
           {
             "name": "Dead Fish",
             "item_count": 1
           },
           {
-            "name": "Swamp Lizbeth",
+            "name": "Lizbeth",
             "item_count": 1,
             "access_rules": ["fish"]
           }
@@ -245,7 +248,7 @@
         ],
         "sections": [
           {
-            "name": "Scrap",
+            "name": "Scraps",
             "item_count": 23
           },
           {
@@ -277,7 +280,7 @@
         ],
         "sections": [
           {
-            "name": "Scrap",
+            "name": "Scraps",
             "item_count": 17
           },
           {
@@ -299,7 +302,7 @@
         ],
         "sections": [
           {
-            "name": "Scrap",
+            "name": "Scraps",
             "item_count": 20
           },
           {
@@ -322,7 +325,7 @@
         ],
         "sections": [
           {
-            "name": "Scrap",
+            "name": "Scraps",
             "item_count": 10
           },
           {
@@ -345,7 +348,7 @@
         ],
         "sections": [
           {
-            "name": "Scrap",
+            "name": "Scraps",
             "item_count": 18
           },
           {
@@ -367,8 +370,8 @@
         ],
         "sections": [
           {
-            "name": "Scrap",
-            "item_count": 8
+            "name": "Scraps",
+            "item_count": 6
           },
           {
             "name": "Sasha Mission",
@@ -390,7 +393,7 @@
         ],
         "sections": [
           {
-            "name": "Scrap",
+            "name": "Scraps",
             "item_count": 19
           },
           {
@@ -398,7 +401,7 @@
             "item_count": 1
           },
           {
-            "name": "Sasha Mission",
+            "name": "Mission",
             "item_count": 1,
             "access_rules": ["journal"]
           }
@@ -417,7 +420,7 @@
         ],
         "sections": [
           {
-            "name": "Scrap",
+            "name": "Scraps",
             "item_count": 10
           },
           {
@@ -439,7 +442,7 @@
         ],
         "sections": [
           {
-            "name": "Scrap",
+            "name": "Scraps",
             "item_count": 2
           }
         ],
@@ -457,7 +460,7 @@
         ],
         "sections": [
           {
-            "name": "Scrap",
+            "name": "Scraps",
             "item_count": 10
           }
         ],
@@ -475,7 +478,7 @@
         ],
         "sections": [
           {
-            "name": "Scrap",
+            "name": "Scraps",
             "item_count": 18
           },
           {
@@ -498,7 +501,7 @@
         ],
         "sections": [
           {
-            "name": "Ground Scrap",
+            "name": "Ground Scraps",
             "item_count": 10
           },
           {
@@ -506,7 +509,7 @@
             "item_count": 1
           },
           {
-            "name": "Bunker Scrap",
+            "name": "Bunker Scraps",
             "item_count": 2,
             "access_rules": ["dynamite"]
           },
@@ -530,7 +533,7 @@
         ],
         "sections": [
           {
-            "name": "Scrap",
+            "name": "Scraps",
             "item_count": 6
           },
           {
@@ -553,7 +556,7 @@
         ],
         "sections": [
           {
-            "name": "Scrap",
+            "name": "Scraps",
             "item_count": 14
           },
           {
@@ -576,7 +579,7 @@
         ],
         "sections": [
           {
-            "name": "Scrap",
+            "name": "Scraps",
             "item_count": 6
           },
           {
@@ -598,7 +601,7 @@
         ],
         "sections": [
           {
-            "name": "Scrap",
+            "name": "Scraps",
             "item_count": 18
           },
           {
@@ -625,7 +628,7 @@
         ],
         "sections": [
           {
-            "name": "Scrap",
+            "name": "Scraps",
             "item_count": 34
           },
           {
@@ -648,7 +651,7 @@
         ],
         "sections": [
           {
-            "name": "Scrap",
+            "name": "Scraps",
             "item_count": 3
           }
         ],
@@ -666,12 +669,17 @@
         ],
         "sections": [
           {
-            "name": "Scrap",
+            "name": "Scraps",
             "item_count": 27
           },
           {
+            "name": "Contracts"
+          },
+          {
+            "name": "Paint Can"
+          },
+          {
             "name": "Ronny",
-            "item_count": 1,
             "access_rules": ["contracts"]
           }
         ],
@@ -689,7 +697,7 @@
         ],
         "sections": [
           {
-            "name": "Scrap",
+            "name": "Scraps",
             "item_count": 6
           }
         ],
@@ -707,8 +715,8 @@
         ],
         "sections": [
           {
-            "name": "Scrap",
-            "item_count": 14
+            "name": "Scraps",
+            "item_count": 9
           }
         ],
         "map_locations": [
@@ -725,25 +733,7 @@
         ],
         "sections": [
           {
-            "name": "Scrap",
-            "item_count": 9
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "aranearum",
-            "x": 265,
-            "y": 385
-          }
-        ]
-      },
-      {
-        "name": "Mine Elevator Exit",
-        "access_rules": [
-        ],
-        "sections": [
-          {
-            "name": "Scrap",
+            "name": "Scraps",
             "item_count": 9
           }
         ],
@@ -761,11 +751,11 @@
         ],
         "sections": [
           {
-            "name": "Scrap Outside",
+            "name": "Outside",
             "item_count": 17
           },
           {
-            "name": "Scrap Inside",
+            "name": "Inside",
             "item_count": 17,
             "access_rules": ["mountain_ruin_key"]
           },
@@ -773,6 +763,10 @@
             "name": "Paint Can",
             "item_count": 1,
             "access_rules": ["mountain_ruin_key|lockpicks"]
+          },
+          {
+            "name": "Red Egg",
+            "access_rules": ["mountain_ruin_key"]
           }
         ],
         "map_locations": [
@@ -789,8 +783,11 @@
         ],
         "sections": [
           {
-            "name": "Scrap",
+            "name": "Scraps",
             "item_count": 16
+          },
+          {
+            "name": "Key"
           },
           {
             "name": "Locked Room",
@@ -798,7 +795,7 @@
             "access_rules": ["mob_camp_key"]
           },
           {
-            "name": "Broken Bob",
+            "name": "Bob",
             "item_count": 1,
             "access_rules": ["mob_camp_key|bob"]
           }
@@ -817,7 +814,7 @@
         ],
         "sections": [
           {
-            "name": "Scrap",
+            "name": "Scraps",
             "item_count": 5
           },
           {
@@ -839,7 +836,7 @@
         ],
         "sections": [
           {
-            "name": "Scrap",
+            "name": "Scraps",
             "item_count": 12
           },
           {
@@ -861,7 +858,7 @@
         ],
         "sections": [
           {
-            "name": "Scrap",
+            "name": "Scraps",
             "item_count": 5
           },
           {
@@ -883,7 +880,7 @@
         ],
         "sections": [
           {
-            "name": "Scrap",
+            "name": "Scraps",
             "item_count": 8
           },
           {
@@ -906,7 +903,7 @@
         ],
         "sections": [
           {
-            "name": "Scrap",
+            "name": "Scraps",
             "item_count": 15
           },
           {
@@ -933,7 +930,7 @@
         ],
         "sections": [
           {
-            "name": "Scrap",
+            "name": "Scraps",
             "item_count": 13
           }
         ],
@@ -951,9 +948,16 @@
         ],
         "sections": [
           {
-            "name": "Scrap",
+            "name": "Scraps",
             "item_count": 12
+          },
+          {
+            "name": "Paul Mission Start"
+          },
+          {
+            "name": "Paul Mission End"
           }
+          
         ],
         "map_locations": [
           {
@@ -969,11 +973,11 @@
         ],
         "sections": [
           {
-            "name": "Scrap Outside",
-            "item_count": 14
+            "name": "Scraps",
+            "item_count": 13
           },
           {
-            "name": "Scrap Inside",
+            "name": "Chest",
             "item_count": 5,
             "access_rules": ["lockpicks"]
           }
@@ -1020,7 +1024,7 @@
         ],
         "sections": [
           {
-            "name": "Scrap",
+            "name": "Scraps",
             "item_count": 14
           },
           {
