@@ -194,7 +194,6 @@ function onItem(index, item_id, item_name, player_number)
 	end
 	local is_local = player_number == Archipelago.PlayerNumber
 	CUR_INDEX = index
-	print(item_id)
 	local mapping_entry = ITEM_MAPPING[item_id]
 	if not mapping_entry then
 		if AUTOTRACKER_ENABLE_DEBUG_LOGGING_AP then

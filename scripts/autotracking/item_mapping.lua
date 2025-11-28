@@ -1,6 +1,5 @@
-BASE_LOCATION_ID = 66600000
+BASE_ITEM_ID = 66600000
 ITEM_MAPPING = {
-	[66600001] = {{ "scrap" }},
 	[BASE_ITEM_ID + 6] = {{ "south_mine_key" }},
 	[BASE_ITEM_ID + 7] = {{ "north_mine_key" }},
 	[BASE_ITEM_ID + 8] = {{ "mountain_ruin_key"} },

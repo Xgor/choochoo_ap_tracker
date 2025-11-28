@@ -9,11 +9,11 @@
         ],
         "sections": [
           {
-            "name": "scrap 1",
+            "name": "Scraps Near Barrier",
             "item_count": 1
           },
           {
-            "name": "scrap 2",
+            "name": "Scraps Behind Tent",
             "item_count": 1
           }
         ],
@@ -22,29 +22,6 @@
             "map": "aranearum",
             "x": 500,
             "y": 750
-          }
-        ]
-      },
-      {
-        "name": "South House",
-        "access_rules": [
-
-        ],
-        "sections": [
-          {
-            "item_count": 12
-          },
-          {
-            "name": "Chest",
-            "item_count": 6,
-            "access_rules": ["lockpicks"]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "aranearum",
-            "x": 740,
-            "y": 950
           }
         ]
       },
@@ -71,6 +48,29 @@
             "map": "aranearum",
             "x": 690,
             "y": 730
+          }
+        ]
+      },
+      {
+        "name": "South House",
+        "access_rules": [
+
+        ],
+        "sections": [
+          {
+            "item_count": 12
+          },
+          {
+            "name": "Chest",
+            "item_count": 6,
+            "access_rules": ["lockpicks"]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "aranearum",
+            "x": 740,
+            "y": 950
           }
         ]
       },
