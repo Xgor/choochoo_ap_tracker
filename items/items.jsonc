@@ -31,40 +31,125 @@
     "codes": "temple_key"
   },
   {
-    "name": "south_mine_key",
+    "name": "South mine key",
     "type": "toggle",
     "img": "images/items/key.png",
     "codes": "south_mine_key"
   },
   {
-    "name": "north_mine_key",
+    "name": "North mine key",
     "type": "toggle",
     "img": "images/items/key.png",
     "codes": "north_mine_key"
   },
   {
-    "name": "mountain_ruin_key",
+    "name": "Mountain ruin key",
     "type": "toggle",
     "img": "images/items/key.png",
     "codes": "mountain_ruin_key"
   },
   {
-    "name": "barn_key",
+    "name": "Barn key",
     "type": "toggle",
     "img": "images/items/key.png",
     "codes": "barn_key"
   },
   {
-    "name": "candice_key",
+    "name": "Candice key",
     "type": "toggle",
     "img": "images/items/key.png",
     "codes": "candice_key"
   },
   {
-    "name": "mob_camp_key",
+    "name": "Mob camp key",
     "type": "toggle",
     "img": "images/items/key.png",
     "codes": "mob_camp_key"
+  },
+  {
+    "name": "Employee Contracts",
+    "type": "toggle",
+    "img": "images/items/contracts.png",
+    "codes": "contracts"
+  },
+  {
+    "name": "Tablet",
+    "type": "toggle",
+    "img": "images/items/tablet.png",
+    "codes": "tablet"
+  },
+  {
+    "name": "Pages",
+    "type": "consumable",
+    "img": "images/items/page.png",
+    "codes": "page",  
+    "max_quantity": 8,
+    "increment": 1,
+    "decrement": 1
+  },
+  {
+    "name": "Breakers",
+    "type": "consumable",
+    "img": "images/items/breaker.png",
+    "codes": "breaker",  
+    "max_quantity": 4,
+    "increment": 1,
+    "decrement": 1
+  },
+  {
+    "name": "Dead Fish",
+    "type": "toggle",
+    "img": "images/items/fish.png",
+    "codes": "fish"
+  },
+  {
+    "name": "Pickles",
+    "type": "toggle",
+    "img": "images/items/pickles.png",
+    "codes": "pickles"
+  },
+  {
+    "name": "Broken bob",
+    "type": "toggle",
+    "img": "images/items/bob.png",
+    "codes": "bob"
+  },
+  {
+    "name": "Blue Box",
+    "type": "toggle",
+    "img": "images/items/bluebox.png",
+    "codes": "blue_box"
+  },
+  {
+    "name": "Broken bob",
+    "type": "toggle",
+    "img": "images/items/bob.png",
+    "codes": "bob"
+  },
+  {
+    "name": "Blue Box",
+    "type": "toggle",
+    "img": "images/items/bluebox.png",
+    "codes": "blue_box"
+  },
+  {
+    "name": "Box of Rockets",
+    "type": "toggle",
+    "img": "images/items/rockets.png",
+    "codes": "rockets"
+  },
+  {
+    "name": "Santiago's Journal",
+    "type": "toggle",
+    "img": "images/items/journal.png",
+    "codes": "journal"
+  },
+  {
+    "name": "Timed Dynamite",
+    "type": "toggle",
+    "img": "images/items/dynamite.png",
+    "codes": "dynamite"
   }
+
 
 ]

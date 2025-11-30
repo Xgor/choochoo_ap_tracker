@@ -3,7 +3,7 @@
   // bigger example: https://github.com/Cyb3RGER/sm_ap_tracker/blob/main/layouts/items.json
   "shared_item_grid": {
     "type": "array",
-    "orientation": "vertical",
+    "orientation": "horizontal",
     "margin": "0,0",
     "content": [
       {
@@ -30,6 +30,21 @@
                 "barn_key",
                 "candice_key",
                 "mob_camp_key"
+              ],
+              [
+                "contracts",
+                "tablet",
+                "fish",
+                "pickles",
+                "blue_box",
+                "bob",
+                "rockets",
+                "journal",
+                "dynamite"
+              ],
+              [
+                "page",
+                "breaker"
               ]
             ]
           }
