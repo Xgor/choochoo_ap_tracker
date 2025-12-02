@@ -23,10 +23,8 @@ ITEM_MAPPING = {
 	[BASE_ITEM_ID + 38] = {{ "blue_egg" }},
 	[BASE_ITEM_ID + 39] = {{ "red_egg" }},
 	[BASE_ITEM_ID + 40] = {{ "explosive" }},
-	[BASE_ITEM_ID + 41] = {{ "explosive" }}, -- TODO impement x8 explosive
+	[BASE_ITEM_ID + 41] = {{ "explosives" }}, 
 	[BASE_ITEM_ID + 42] = {{ "temple_key" }},
 	[BASE_ITEM_ID + 43] = {{ "bug_spray" }},
 
-	-- multiple items on this id, add the consumable 3 times
-	-- [BASE_ITEM_ID + 00004] = { { "toggle" }, { "consumable", nil, 3 } }
 }

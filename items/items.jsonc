@@ -149,6 +149,12 @@
     "type": "toggle",
     "img": "images/items/dynamite.png",
     "codes": "dynamite"
+  },
+  {
+    "name": "Explosives",
+    "type": "toggle",
+    "img": "images/items/explosives.png",
+    "codes": "explosives"
   }
 
 

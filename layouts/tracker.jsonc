@@ -73,9 +73,315 @@
               "title": "Full map",
               "content": {
                 "type": "map",
-                "maps": [
-                  "aranearum"
+                "maps": ["aranearum"]
+              }
+            },
+            {
+              "title": "South",
+              "content": {
+                "type": "tabbed",
+                "dock": "top",
+                "tabs": [
+                  {
+                  "title": "Start camp",
+                  "content": {
+                    "type": "map",
+                    "maps": ["startcamp"]
+                    }
+                  },
+                  {
+                  "title": "Swamp",
+                  "content": {
+                    "type": "map",
+                    "maps": ["swamp"]
+                    }
+                  },
+                  {
+                  "title": "South Mine",
+                  "content": {
+                    "type": "map",
+                    "maps": ["south_mine_outside"]
+                    }
+                  },
+                  {
+                  "title": "Junkyard Area",
+                  "content": {
+                    "type": "map",
+                    "maps": ["junkyard_area"]
+                    }
+                  },
+                  {
+                  "title": "Junkyard Shed",
+                  "content": {
+                    "type": "map",
+                    "maps": ["junkyard_shed"]
+                    }
+                  },
+                  {
+                  "title": "South House",
+                  "content": {
+                    "type": "map",
+                    "maps": ["south_house"]
+                    }
+                  }
                 ]
+
+              }
+            },
+            {
+              "title": "Central",
+              "content": {
+                "type": "tabbed",
+                "dock": "top",
+                "tabs": [
+                  {
+                  "title": "Canyon",
+                  "content": {
+                    "type": "map",
+                    "maps": ["canyon"]
+                    }
+                  },
+                  {
+                  "title": "Haunted House",
+                  "content": {
+                    "type": "map",
+                    "maps": ["haunted_house"]
+                    }
+                  },
+                  {
+                  "title": "Lost Stairs",
+                  "content": {
+                    "type": "map",
+                    "maps": ["lost_stairs"]
+                    }
+                  },
+                  {
+                  "title": "Middle Station",
+                  "content": {
+                    "type": "map",
+                    "maps": ["middle_station"]
+                    }
+                  },
+                  {
+                  "title": "Pickle Val",
+                  "content": {
+                    "type": "map",
+                    "maps": ["pickle_val"]
+                    }
+                  },
+                  {
+                  "title": "Port",
+                  "content": {
+                    "type": "map",
+                    "maps": ["port"]
+                    }
+                  },
+                  {
+                  "title": "Prism Temple",
+                  "content": {
+                    "type": "map",
+                    "maps": ["prism_temple"]
+                    }
+                  },
+                  {
+                  "title": "Santiago House",
+                  "content": {
+                    "type": "map",
+                    "maps": ["santiago_house"]
+                    }
+                  },
+                  {
+                  "title": "Shrine near Temple",
+                  "content": {
+                    "type": "map",
+                    "maps": ["shrine"]
+                    }
+                  }
+                ]
+
+              }
+            },
+            {
+              "title": "East",
+              "content": {
+                "type": "tabbed",
+                "dock": "top",
+                "tabs": [
+                  {
+                  "title": "Doll Woods",
+                  "content": {
+                    "type": "map",
+                    "maps": ["doll_woods"]
+                    }
+                  },
+                  {
+                  "title": "East Tower",
+                  "content": {
+                    "type": "map",
+                    "maps": ["east_tower"]
+                    }
+                  },
+                  {
+                  "title": "Lighthouse",
+                  "content": {
+                    "type": "map",
+                    "maps": ["lighthouse"]
+                    }
+                  },
+                  {
+                  "title": "Rocket Testing Ground",
+                  "content": {
+                    "type": "map",
+                    "maps": ["testing_ground"]
+                    }
+                  },
+                  {
+                  "title": "Trench House",
+                  "content": {
+                    "type": "map",
+                    "maps": ["trench_house"]
+                    }
+                  },
+                  {
+                  "title": "Watchtower",
+                  "content": {
+                    "type": "map",
+                    "maps": ["watchtower"]
+                    }
+                  },
+                  {
+                  "title": "Workshop",
+                  "content": {
+                    "type": "map",
+                    "maps": ["workshop"]
+                    }
+                  }
+                ]
+
+              }
+            },
+            {
+              "title": "North",
+              "content": {
+                "type": "tabbed",
+                "dock": "top",
+                "tabs": [
+                  {
+                  "title": "Barbed Shelter",
+                  "content": {
+                    "type": "map",
+                    "maps": ["barbed_shelter"]
+                    }
+                  },
+                  {
+                  "title": "Caravan",
+                  "content": {
+                    "type": "map",
+                    "maps": ["caravan"]
+                    }
+                  },
+                  {
+                  "title": "Church",
+                  "content": {
+                    "type": "map",
+                    "maps": ["church"]
+                    }
+                  },
+                  {
+                  "title": "Mine Elevator Exit",
+                  "content": {
+                    "type": "map",
+                    "maps": ["mine_elevator_exit"]
+                    }
+                  },
+                  {
+                  "title": "Mine Shaft",
+                  "content": {
+                    "type": "map",
+                    "maps": ["mine_shaft"]
+                    }
+                  },
+                  {
+                  "title": "Mob Camp",
+                  "content": {
+                    "type": "map",
+                    "maps": ["mob_camp"]
+                    }
+                  },
+                  {
+                  "title": "Morse Bunker",
+                  "content": {
+                    "type": "map",
+                    "maps": ["morse_bunker"]
+                    }
+                  },
+                  {
+                  "title": "Mountain Ruin",
+                  "content": {
+                    "type": "map",
+                    "maps": ["mountain_ruin"]
+                    }
+                  },
+                  {
+                  "title": "Museum",
+                  "content": {
+                    "type": "map",
+                    "maps": ["museum"]
+                    }
+                  },
+                  {
+                  "title": "North Beach",
+                  "content": {
+                    "type": "map",
+                    "maps": ["north_beach"]
+                    }
+                  },
+                  {
+                  "title": "North Mine",
+                  "content": {
+                    "type": "map",
+                    "maps": ["north_mine"]
+                    }
+                  },
+                  {
+                  "title": "Towers",
+                  "content": {
+                    "type": "map",
+                    "maps": ["towers"]
+                    }
+                  },
+                  {
+                  "title": "Trailer Cabin",
+                  "content": {
+                    "type": "map",
+                    "maps": ["trailer_cabin"]
+                    }
+                  },
+                  {
+                  "title": "West Beach",
+                  "content": {
+                    "type": "map",
+                    "maps": ["west_beach"]
+                    }
+                  },
+                  {
+                  "title": "West Cottage",
+                  "content": {
+                    "type": "map",
+                    "maps": ["west_cottage"]
+                    }
+                  },
+                  {
+                  "title": "Wooden Bridge",
+                  "content": {
+                    "type": "map",
+                    "maps": ["wooden_bridge"]
+                    }
+                  }
+
+
+                ]
+
               }
             }
           ]

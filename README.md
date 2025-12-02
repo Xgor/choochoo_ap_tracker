@@ -2,3 +2,8 @@
 
 This is a Poptracker pack designed for use in tracking the Archipelago implementation of Choo Choo Charles.
 Install from the Releases tab into a Poptracker instance.
+
+# Credits
+Poptracker Impementation: Xgor
+Archipelago developer, Full Map: Yaranorgorth
+Location maps: Vilker

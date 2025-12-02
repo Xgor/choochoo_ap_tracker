@@ -1,0 +1,247 @@
+[
+
+  {
+    "name": "aranearum",
+    "location_size": 30,
+    "location_border_thickness": 4,
+    "img": "images/maps/aranearum.png"
+  },
+  // South
+  {
+    "name": "junkyard_area",
+    "location_size": 30,
+    "location_border_thickness": 4,
+    "img": "images/maps/south/junkyard_area.jpg"
+  },
+  {
+    "name": "junkyard_shed",
+    "location_size": 30,
+    "location_border_thickness": 4,
+    "img": "images/maps/south/junkyard_shed.jpg"
+  },
+  {
+    "name": "military_base",
+    "location_size": 30,
+    "location_border_thickness": 4,
+    "img": "images/maps/south/military_base.jpg"
+  },
+  {
+    "name": "south_house",
+    "location_size": 30,
+    "location_border_thickness": 4,
+    "img": "images/maps/south/south_house.jpg"
+  },
+  {
+    "name": "south_mine_outside",
+    "location_size": 30,
+    "location_border_thickness": 4,
+    "img": "images/maps/south/south_mine_outside.jpg"
+  },
+  {
+    "name": "startcamp",
+    "location_size": 30,
+    "location_border_thickness": 4,
+    "img": "images/maps/south/start_camp.jpg"
+  },
+  {
+    "name": "swamp",
+    "location_size": 30,
+    "location_border_thickness": 4,
+    "img": "images/maps/south/swamp.jpg"
+  },
+  // Central
+  {
+    "name": "canyon",
+    "location_size": 30,
+    "location_border_thickness": 4,
+    "img": "images/maps/central/canyon.jpg"
+  },
+  {
+    "name": "haunted_house",
+    "location_size": 30,
+    "location_border_thickness": 4,
+    "img": "images/maps/central/haunted_house.jpg"
+  },
+  {
+    "name": "lost_stairs",
+    "location_size": 30,
+    "location_border_thickness": 4,
+    "img": "images/maps/central/lost_stairs.jpg"
+  },
+  {
+    "name": "middle_station",
+    "location_size": 30,
+    "location_border_thickness": 4,
+    "img": "images/maps/central/middle_station.jpg"
+  },
+  {
+    "name": "pickle_val",
+    "location_size": 30,
+    "location_border_thickness": 4,
+    "img": "images/maps/central/pickle_val.jpg"
+  },
+  {
+    "name": "port",
+    "location_size": 30,
+    "location_border_thickness": 4,
+    "img": "images/maps/central/port.jpg"
+  },
+  {
+    "name": "prism_temple",
+    "location_size": 30,
+    "location_border_thickness": 4,
+    "img": "images/maps/central/prism_temple.jpg"
+  },
+  {
+    "name": "santiago_house",
+    "location_size": 30,
+    "location_border_thickness": 4,
+    "img": "images/maps/central/santiago_house.jpg"
+  },
+  {
+    "name": "shrine",
+    "location_size": 30,
+    "location_border_thickness": 4,
+    "img": "images/maps/central/shrine.jpg"
+  },
+  // East
+  {
+    "name": "doll_woods",
+    "location_size": 30,
+    "location_border_thickness": 4,
+    "img": "images/maps/east/doll_woods.jpg"
+  },
+  {
+    "name": "east_tower",
+    "location_size": 30,
+    "location_border_thickness": 4,
+    "img": "images/maps/east/east_tower.jpg"
+  },
+  {
+    "name": "lighthouse",
+    "location_size": 30,
+    "location_border_thickness": 4,
+    "img": "images/maps/east/lighthouse.jpg"
+  },
+  {
+    "name": "testing_ground",
+    "location_size": 30,
+    "location_border_thickness": 4,
+    "img": "images/maps/east/testing_ground.jpg"
+  },
+  {
+    "name": "trench_house",
+    "location_size": 30,
+    "location_border_thickness": 4,
+    "img": "images/maps/east/trench_house.jpg"
+  },
+  {
+    "name": "watchtower",
+    "location_size": 30,
+    "location_border_thickness": 4,
+    "img": "images/maps/east/watchtower.jpg"
+  },
+  {
+    "name": "workshop",
+    "location_size": 30,
+    "location_border_thickness": 4,
+    "img": "images/maps/east/workshop.jpg"
+  },
+  // North
+  {
+    "name": "barbed_shelter",
+    "location_size": 30,
+    "location_border_thickness": 4,
+    "img": "images/maps/north/barbed_shelter.jpg"
+  },
+  {
+    "name": "caravan",
+    "location_size": 30,
+    "location_border_thickness": 4,
+    "img": "images/maps/north/caravan.jpg"
+  },
+  {
+    "name": "church",
+    "location_size": 30,
+    "location_border_thickness": 4,
+    "img": "images/maps/north/church.jpg"
+  },
+  {
+    "name": "mine_elevator_exit",
+    "location_size": 30,
+    "location_border_thickness": 4,
+    "img": "images/maps/north/mine_elevator_exit.jpg"
+  },
+  {
+    "name": "mine_shaft",
+    "location_size": 30,
+    "location_border_thickness": 4,
+    "img": "images/maps/north/mine_shaft.jpg"
+  },
+  {
+    "name": "mob_camp",
+    "location_size": 30,
+    "location_border_thickness": 4,
+    "img": "images/maps/north/mob_camp.jpg"
+  },
+  {
+    "name": "morse_bunker",
+    "location_size": 30,
+    "location_border_thickness": 4,
+    "img": "images/maps/north/morse_bunker.jpg"
+  },
+  {
+    "name": "mountain_ruin",
+    "location_size": 30,
+    "location_border_thickness": 4,
+    "img": "images/maps/north/mountain_ruin.jpg"
+  },
+  {
+    "name": "museum",
+    "location_size": 30,
+    "location_border_thickness": 4,
+    "img": "images/maps/north/museum.jpg"
+  },
+  {
+    "name": "north_beach",
+    "location_size": 30,
+    "location_border_thickness": 4,
+    "img": "images/maps/north/north_beach.jpg"
+  },
+  {
+    "name": "north_mine",
+    "location_size": 30,
+    "location_border_thickness": 4,
+    "img": "images/maps/north/north_mine.jpg"
+  },
+  {
+    "name": "towers",
+    "location_size": 30,
+    "location_border_thickness": 4,
+    "img": "images/maps/north/towers.jpg"
+  },
+  {
+    "name": "trailer_cabin",
+    "location_size": 30,
+    "location_border_thickness": 4,
+    "img": "images/maps/north/trailer_cabin.jpg"
+  },
+  {
+    "name": "west_beach",
+    "location_size": 30,
+    "location_border_thickness": 4,
+    "img": "images/maps/north/west_beach.jpg"
+  },
+  {
+    "name": "west_cottage",
+    "location_size": 30,
+    "location_border_thickness": 4,
+    "img": "images/maps/north/west_cottage.jpg"
+  },
+  {
+    "name": "wooden_bridge",
+    "location_size": 30,
+    "location_border_thickness": 4,
+    "img": "images/maps/north/wooden_bridge.jpg"
+  }
+]

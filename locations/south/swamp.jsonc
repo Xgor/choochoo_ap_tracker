@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Swamp",
+    "children": [
+        {
+            "name": "Path To Candice",
+            "sections": [
+              {
+                "name": "Scraps"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "swamp",
+                "x": 220,
+                "y": 860
+              }
+            ]
+        }
+    ]
+  }
+]

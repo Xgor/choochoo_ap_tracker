@@ -9,12 +9,8 @@
         ],
         "sections": [
           {
-            "name": "Scraps Near Barrier",
-            "item_count": 1
-          },
-          {
-            "name": "Scraps Behind Tent",
-            "item_count": 1
+            "name": "Scraps",
+            "item_count": 2
           }
         ],
         "map_locations": [
@@ -163,6 +159,9 @@
           },
           {
             "name": "Paint Can"
+          },
+          {
+            "name": "Sgt Flint"
           }
         ],
         "map_locations": [
@@ -309,6 +308,10 @@
             "name": "Theodore",
             "item_count": 1,
             "access_rules": ["blue_box"]
+          },
+          {
+            "name": "Paint Can",
+            "item_count": 1
           }
         ],
         "map_locations": [
@@ -717,6 +720,11 @@
           {
             "name": "Scraps",
             "item_count": 9
+          },
+          {
+            "name": "Chest",
+            "item_count": 5,
+            "access_rules": ["lockpicks"]
           }
         ],
         "map_locations": [
@@ -955,7 +963,8 @@
             "name": "Paul Mission Start"
           },
           {
-            "name": "Paul Mission End"
+            "name": "Paul Mission End",
+            "access_rules": ["explosives"]
           }
           
         ],
@@ -1008,6 +1017,11 @@
             "name": "Paint Can",
             "item_count": 1,
             "access_rules": ["north_mine_key,lockpicks"]
+          },
+          {
+            "name": "Blue Egg",
+            "item_count": 1,
+            "access_rules": ["north_mine_key"]
           }
         ],
         "map_locations": [
