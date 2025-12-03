@@ -5,5 +5,5 @@ Install from the Releases tab into a Poptracker instance.
 
 # Credits
 Poptracker Impementation: Xgor
-Archipelago developer, Full Map: Yaranorgorth
+Archipelago developer, Island Map: Yaranorgorth
 Location maps: Vilker

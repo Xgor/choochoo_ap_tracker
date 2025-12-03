@@ -16,6 +16,521 @@
                 "y": 860
               }
             ]
+        },
+        {
+            "name": "South Near Cauldron",
+            "sections": [
+              {
+                "name": "Scraps"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "swamp",
+                "x": 395,
+                "y": 850
+              }
+            ]
+        },
+        {
+            "name": "South In Clovers",
+            "sections": [
+              {
+                "name": "Scraps"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "swamp",
+                "x": 440,
+                "y": 870
+              }
+            ]
+        },
+        {
+            "name": "South Crossroads",
+            "sections": [
+              {
+                "name": "Scraps"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "swamp",
+                "x": 480,
+                "y": 925
+              }
+            ]
+        },
+        {
+            "name": "South Near Lantern",
+            "sections": [
+              {
+                "name": "Scraps"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "swamp",
+                "x": 510,
+                "y": 875
+              }
+            ]
+        },
+        {
+            "name": "Southeast Near Minecart",
+            "sections": [
+              {
+                "name": "Scraps"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "swamp",
+                "x": 525,
+                "y": 715
+              }
+            ]
+        },
+        {
+            "name": "Southeast Crossroads",
+            "sections": [
+              {
+                "name": "Scraps"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "swamp",
+                "x": 575,
+                "y": 666
+              }
+            ]
+        },
+        {
+            "name": "East Above Path Cutoff",
+            "sections": [
+              {
+                "name": "Scraps"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "swamp",
+                "x": 480,
+                "y": 575
+              }
+            ]
+        },
+        {
+            "name": "East Crossroads",
+            "sections": [
+              {
+                "name": "Scraps"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "swamp",
+                "x": 455,
+                "y": 520
+              }
+            ]
+        },
+        {
+            "name": "East Under Lantern", // TODO FIX ERROR
+            "sections": [
+              {
+                "name": "Scraps"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "swamp",
+                "x": 550,
+                "y": 570
+              }
+            ]
+        },
+        {
+            "name": "East On Crates",
+            "sections": [
+              {
+                "name": "Scraps"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "swamp",
+                "x": 500,
+                "y": 440
+              }
+            ]
+        },
+        {
+            "name": "East Near Long Barrier",
+            "sections": [
+              {
+                "name": "Scraps"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "swamp",
+                "x": 430,
+                "y": 450
+              }
+            ]
+        },
+        {
+            "name": "Middle Near Bridge",
+            "sections": [
+              {
+                "name": "Scraps"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "swamp",
+                "x": 345,
+                "y": 410
+              }
+            ]
+        },
+        {
+            "name": "Northeast Behind Lantern",
+            "sections": [
+              {
+                "name": "Scraps"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "swamp",
+                "x": 395,
+                "y": 340
+              }
+            ]
+        },
+        {
+            "name": "Northeast Along Path",
+            "sections": [
+              {
+                "name": "Scraps"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "swamp",
+                "x": 405,
+                "y": 290
+              }
+            ]
+        },
+        {
+            "name": "Northeast Under Lantern",
+            "sections": [
+              {
+                "name": "Scraps"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "swamp",
+                "x": 420,
+                "y": 220
+              }
+            ]
+        },
+        {
+            "name": "Northeast Near Pond",
+            "sections": [
+              {
+                "name": "Scraps"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "swamp",
+                "x": 340,
+                "y": 210
+              }
+            ]
+        },
+        {
+            "name": "North Under Lantern",
+            "sections": [
+              {
+                "name": "Scraps"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "swamp",
+                "x": 350,
+                "y": 130
+              }
+            ]
+        },
+        {
+            "name": "North On Crates",
+            "sections": [
+              {
+                "name": "Scraps"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "swamp",
+                "x": 305,
+                "y": 75
+              }
+            ]
+        },
+        {
+            "name": "North Near Pond",
+            "sections": [
+              {
+                "name": "Scraps"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "swamp",
+                "x": 225,
+                "y": 70
+              }
+            ]
+        },
+        {
+            "name": "North Near Barrier",
+            "sections": [
+              {
+                "name": "Scraps"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "swamp",
+                "x": 160,
+                "y": 155
+              }
+            ]
+        },
+        {
+            "name": "Northwest In Clovers",
+            "sections": [
+              {
+                "name": "Scraps"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "swamp",
+                "x": 225,
+                "y": 200
+              }
+            ]
+        },
+        {
+            "name": "Northwest Near Pond",
+            "sections": [
+              {
+                "name": "Scraps"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "swamp",
+                "x": 290,
+                "y": 350
+              }
+            ]
+        },
+        {
+            "name": "West Near Minecart",
+            "sections": [
+              {
+                "name": "Scraps"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "swamp",
+                "x": 275,
+                "y": 400
+              }
+            ]
+        },
+        {
+            "name": "West Near Bridge",
+            "sections": [
+              {
+                "name": "Scraps"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "swamp",
+                "x": 275,
+                "y": 435
+              }
+            ]
+        },
+        {
+            "name": "West Under Lantern",
+            "sections": [
+              {
+                "name": "Scraps"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "swamp",
+                "x": 250,
+                "y": 440
+              }
+            ]
+        },
+        {
+            "name": "West Path To Barn",
+            "sections": [
+              {
+                "name": "Scraps"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "swamp",
+                "x": 165,
+                "y": 475
+              }
+            ]
+        },
+        {
+            "name": "West Behind Lantern",
+            "sections": [
+              {
+                "name": "Scraps"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "swamp",
+                "x": 225,
+                "y": 550
+              }
+            ]
+        },
+        {
+            "name": "West Between Crossroads",
+            "sections": [
+              {
+                "name": "Scraps"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "swamp",
+                "x": 95,
+                "y": 700
+              }
+            ]
+        },
+        {
+            "name": "Southwest Behind Crates",
+            "sections": [
+              {
+                "name": "Scraps"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "swamp",
+                "x": 210,
+                "y": 740
+              }
+            ]
+        },
+        {
+            "name": "Northeast Crossroads",
+            "sections": [
+              {
+                "name": "Scraps"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "swamp",
+                "x": 510,
+                "y": 160
+              }
+            ]
+        },
+        {
+            "name": "East Near Short Barrier",
+            "sections": [
+              {
+                "name": "Scraps"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "swamp",
+                "x": 485,
+                "y": 385
+              }
+            ]
+        },
+        {
+            "name": "Shack",
+            "sections": [
+              {
+                "name": "Scraps",
+                "item_count": 2
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "swamp",
+                "x": 340,
+                "y": 805
+              }
+            ]
+        },
+        {
+            "name": "Islet",
+            "sections": [
+              {
+                "name": "Scraps",
+                "item_count": 3
+              },
+              {
+                "name": "Dead Fish"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "swamp",
+                "x": 340,
+                "y": 690
+              }
+            ]
+        },
+        {
+            "name": "Lizbeth",
+            "sections": [
+              {
+                "access_rules": ["fish"]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "swamp",
+                "x": 340,
+                "y": 860
+              }
+            ]
         }
     ]
   }
