@@ -1,0 +1,220 @@
+[
+  {
+    "name": "Military Base",
+    "children": [
+      {
+        "name": "Sgt Flint",
+        "sections": [{
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "military_base",
+            "x": 480,
+            "y": 440
+          }
+        ]
+      },
+      {
+        "name": "Along Bottom Path",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "military_base",
+            "x": 20,
+            "y": 375
+          }
+        ]
+      },
+      {
+        "name": "Along Top Path",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "military_base",
+            "x": 280,
+            "y": 250
+          }
+        ]
+      },
+      {
+        "name": "Atop Rocks",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "military_base",
+            "x": 290,
+            "y": 640
+          }
+        ]
+      },
+      {
+        "name": "Near Burning Workshop",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "military_base",
+            "x": 590,
+            "y": 440
+          }
+        ]
+      },
+      {
+        "name": "On Stairs",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "military_base",
+            "x": 500,
+            "y": 290
+          }
+        ]
+      },
+      {
+        "name": "Near Water Tank",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "military_base",
+            "x": 624,
+            "y": 270
+          }
+        ]
+      },
+      {
+        "name": "Behind Beams",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "military_base",
+            "x": 660,
+            "y": 230
+          }
+        ]
+      },
+      {
+        "name": "Atop Downhill Path",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "military_base",
+            "x": 550,
+            "y": 40
+          }
+        ]
+      },
+      {
+        "name": "Inside Burning Workshop",
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png"
+          }
+        
+      ],
+        "map_locations": [
+          {
+            "map": "military_base",
+            "x": 570,
+            "y": 370
+          }
+        ]
+      },
+      {
+        "name": "Paint Can",
+        "sections": [
+          {
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "military_base",
+            "x": 590,
+            "y": 400
+          }
+        ]
+      },
+      {
+        "name": "Sheltered",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "military_base",
+            "x": 485,
+            "y": 560
+          }
+        ]
+      },
+      {
+        "name": "Between Gates",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "military_base",
+            "x": 690,
+            "y": 600
+          }
+        ]
+      },
+      {
+        "name": "Outside Path",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "military_base",
+            "x": 945,
+            "y": 490
+          }
+        ]
+      }
+    ] 
+  }
+]

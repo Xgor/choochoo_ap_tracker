@@ -123,6 +123,13 @@
                     "type": "map",
                     "maps": ["south_house"]
                     }
+                  },
+                  {
+                  "title": "Military Base",
+                  "content": {
+                    "type": "map",
+                    "maps": ["military_base"]
+                    }
                   }
                 ]
 

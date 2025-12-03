@@ -1,0 +1,201 @@
+[
+  {
+    "name": "South House",
+    "children": [
+      {
+        "name": "Chest",
+        "sections": [{
+          "item_count": 6,
+          "access_rules": ["lockpicks"]
+        }],
+        "map_locations": [
+          {
+            "map": "south_house",
+            "x": 245,
+            "y": 655
+          }
+        ]
+      },
+      {
+        "name": "Under Top Lantern",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "south_house",
+            "x": 575,
+            "y": 25
+          }
+        ]
+      },
+      {
+        "name": "Under Middle Lantern",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "south_house",
+            "x": 440,
+            "y": 340
+          }
+        ]
+      },
+      {
+        "name": "Under Bottom Lantern",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "south_house",
+            "x": 350,
+            "y": 490
+          }
+        ]
+      },      
+      {
+        "name": "Under House Lantern",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "south_house",
+            "x": 260,
+            "y": 560
+          }
+        ]
+      },
+      {
+        "name": "Near Water Tank",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "south_house",
+            "x": 325,
+            "y": 610
+          }
+        ]
+      },
+      {
+        "name": "Inside House",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "south_house",
+            "x": 240,
+            "y": 625
+          }
+        ]
+      },
+      {
+        "name": "On Balcony",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "south_house",
+            "x": 225,
+            "y": 675
+          }
+        ]
+      },
+      {
+        "name": "Atop Downhill Path",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "south_house",
+            "x": 140,
+            "y": 466
+          }
+        ]
+      },
+      {
+        "name": "Along Downhill Path", // Maybe better name later
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "south_house",
+            "x": 215,
+            "y": 690
+          }
+        ]
+      },
+      {
+        "name": "Near Blood Trail",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "south_house",
+            "x": 140,
+            "y": 835
+          }
+        ]
+      },
+      {
+        "name": "In Boat",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "south_house",
+            "x": 120,
+            "y": 855
+          }
+        ]
+      },
+      {
+        "name": "Behind Boat",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "south_house",
+            "x": 160,
+            "y": 860
+          }
+        ]
+      }
+    ] 
+  }
+]

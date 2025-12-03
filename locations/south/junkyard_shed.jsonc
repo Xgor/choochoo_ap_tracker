@@ -1,0 +1,141 @@
+[
+  {
+    "name": "Junkyard Shed",
+    "children": [
+      {
+        "name": "Helen",
+        "sections": [{
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "junkyard_shed",
+            "x": 200,
+            "y": 600
+          }
+        ]
+      },
+      {
+        "name": "On Platform",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "junkyard_shed",
+            "x": 140,
+            "y": 640
+          }
+        ]
+      },
+      {
+        "name": "Half Sheltered",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "junkyard_shed",
+            "x": 90,
+            "y": 570
+          }
+        ]
+      },
+      {
+        "name": "On Table",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "junkyard_shed",
+            "x": 60,
+            "y": 440
+          }
+        ]
+      },
+      {
+        "name": "Near Crates",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "junkyard_shed",
+            "x": 90,
+            "y": 410
+          }
+        ]
+      },
+      {
+        "name": "Behind Shed",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "junkyard_shed",
+            "x": 40,
+            "y": 400
+          }
+        ]
+      },
+      {
+        "name": "Near Lantern",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "junkyard_shed",
+            "x": 210,
+            "y": 65
+          }
+        ]
+      },
+      {
+        "name": "Along Path",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "junkyard_shed",
+            "x": 270,
+            "y": 250
+          }
+        ]
+      },
+      {
+        "name": "Near Platform",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "junkyard_shed",
+            "x": 270,
+            "y": 615
+          }
+        ]
+      }
+    ] 
+  }
+]

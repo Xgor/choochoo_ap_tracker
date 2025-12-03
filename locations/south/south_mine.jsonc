@@ -1,0 +1,142 @@
+[
+  {
+    "name": "South Mine",
+    "children": [
+      {
+        "name": "Along Main Rails",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "south_mine_outside",
+            "x": 600,
+            "y": 375
+          }
+        ]
+      },
+      {
+        "name": "Near Minecarts",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "south_mine_outside",
+            "x": 400,
+            "y": 420
+          }
+        ]
+      },
+      {
+        "name": "On Rocks",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "south_mine_outside",
+            "x": 395,
+            "y": 555
+          }
+        ]
+      },
+      {
+        "name": "Near Mine Door",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "south_mine_outside",
+            "x": 250,
+            "y": 440
+          }
+        ]
+      },
+      {
+        "name": "Inside Small Shelter",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "south_mine_outside",
+            "x": 225,
+            "y": 150
+          }
+        ]
+      },
+      {
+        "name": "Between Barriers",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "south_mine_outside",
+            "x": 510,
+            "y": 190
+          }
+        ]
+      },
+      {
+        "name": "Inside Rest Shelter",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "south_mine_outside",
+            "x": 540,
+            "y": 25
+          }
+        ]
+      },
+      {
+        "name": "Inside",
+        "access_rules": ["south_mine_key"],
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png",
+            "item_count": 7
+          },
+          {
+            "name": "Paint Can",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png",
+            "access_rules": ["lockpicks"]
+          },
+          {
+            "name": "Green Egg",
+            "chest_unopened_img": "images/items/green.png",
+            "chest_opened_img": "images/chests/scraps_true.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "south_mine_outside",
+            "x": 200,
+            "y": 475
+          }
+        ]
+      }
+    ] 
+  }
+]
