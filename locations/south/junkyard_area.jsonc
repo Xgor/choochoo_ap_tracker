@@ -1,0 +1,195 @@
+[
+  {
+    "name": "Junkyard Area",
+    "children": [
+      {
+        "name": "Daryl",
+        "sections": [
+          {
+            "name": "Mission Start",
+            "chest_unopened_img": "images/items/lockpicks.png",
+            "chest_opened_img": "images/chests/scraps_true.png"
+          },
+          {
+            "name": "Mission End",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png",
+            "access_rules": ["tablet"]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "junkyard_area",
+            "x": 560,
+            "y": 125
+          }
+        ]
+      },
+      {
+        "name": "Inside Workshop",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "junkyard_area",
+            "x": 605,
+            "y": 90
+          }
+        ]
+      },
+      {
+        "name": "On Table",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "junkyard_area",
+            "x": 640,
+            "y": 125
+          }
+        ]
+      },
+      {
+        "name": "Top Wagon",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "junkyard_area",
+            "x": 400,
+            "y": 100
+          }
+        ]
+      },
+      {
+        "name": "Middle Wagon",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "junkyard_area",
+            "x": 390,
+            "y": 175
+          }
+        ]
+      },
+      {
+        "name": "Bottom Wagon",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "junkyard_area",
+            "x": 450,
+            "y": 235
+          }
+        ]
+      },
+      {
+        "name": "Near Junk Stacks",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "junkyard_area",
+            "x": 115,
+            "y": 160
+          }
+        ]
+      },
+      {
+        "name": "On Junk Stacks",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "junkyard_area",
+            "x": 80,
+            "y": 320
+          }
+        ]
+      },
+      {
+        "name": "On Crates",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "junkyard_area",
+            "x": 375,
+            "y": 470
+          }
+        ]
+      },
+      {
+        "name": "Behind Beams",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "junkyard_area",
+            "x": 666,
+            "y": 350
+          }
+        ]
+      },
+      {
+        "name": "Near Campfire",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "junkyard_area",
+            "x": 715,
+            "y": 250
+          }
+        ]
+      },
+      {
+        "name": "Ancient Tablet",
+        "sections": [{
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png",
+          "access_rules": ["lockpicks"]
+        }],
+        "map_locations": [
+          {
+            "map": "junkyard_area",
+            "x": 305,
+            "y": 325
+          }
+        ]
+      }
+    ] 
+  }
+]

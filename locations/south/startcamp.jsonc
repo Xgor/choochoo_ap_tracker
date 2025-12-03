@@ -2,34 +2,36 @@
   {
     "name": "Start Camp",
     "children": [
-        {
-            "name": "Near Barrier",
-            "sections": [{
-              "name": "Scraps",
-              "chest_unopened_img": "images/chests/scraps.png",
-              "chest_opened_img": "images/chests/scraps_true.png"
-            }],
-            "map_locations": [
-              {
-                "map": "startcamp",
-                "x": 190,
-                "y": 120
-              }
-            ]
-        },
-        {
-            "name": "Behind Tent",
-            "sections": [{
-              "name": "Scraps"
-            }],
-            "map_locations": [
-              {
-                "map": "startcamp",
-                "x": 180,
-                "y": 340
-              }
-            ]
-        }
-    ]
+      {
+        "name": "Near Barrier",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "startcamp",
+            "x": 190,
+            "y": 120
+          }
+        ]
+      },
+      {
+        "name": "Behind Tent",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "startcamp",
+            "x": 180,
+            "y": 340
+          }
+        ]
+      }
+    ] 
   }
 ]
