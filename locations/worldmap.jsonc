@@ -42,8 +42,8 @@
         "map_locations": [
           {
             "map": "aranearum",
-            "x": 690,
-            "y": 730
+            "x": 680,
+            "y": 740
           }
         ]
       },
@@ -203,6 +203,7 @@
         "map_locations": [
           {
             "map": "aranearum",
+            "size": 80,
             "x": 750,
             "y": 770
           }
@@ -236,7 +237,9 @@
         "map_locations": [
           {
             "map": "aranearum",
-            "x": 835,
+            "shape":"trapezoid",
+            "size": 40,
+            "x": 840,
             "y": 735
           }
         ]
@@ -268,8 +271,9 @@
         "map_locations": [
           {
             "map": "aranearum",
-            "x": 600,
-            "y": 600
+            "size": 50,
+            "x": 605,
+            "y": 610
           }
         ]
       },
@@ -290,6 +294,7 @@
         "map_locations": [
           {
             "map": "aranearum",
+            "size": 70,
             "x": 460,
             "y": 600
           }
@@ -317,8 +322,9 @@
         "map_locations": [
           {
             "map": "aranearum",
-            "x": 530,
-            "y": 510
+            "size": 40,
+            "x": 528,
+            "y": 505
           }
         ]
       },
@@ -362,7 +368,8 @@
         "map_locations": [
           {
             "map": "aranearum",
-            "x": 600,
+            "size": 45,
+            "x": 592,
             "y": 450
           }
         ]
@@ -385,7 +392,7 @@
         "map_locations": [
           {
             "map": "aranearum",
-            "x": 590,
+            "x": 585,
             "y": 390
           }
         ]
@@ -412,8 +419,9 @@
         "map_locations": [
           {
             "map": "aranearum",
-            "x": 700,
-            "y": 490
+            "size": 50,
+            "x": 705,
+            "y": 485
           }
         ]
       },
@@ -525,6 +533,7 @@
         "map_locations": [
           {
             "map": "aranearum",
+            "size": 45,
             "x": 725,
             "y": 300
           }
@@ -571,6 +580,7 @@
         "map_locations": [
           {
             "map": "aranearum",
+            "size": 35,
             "x": 845,
             "y": 330
           }
@@ -620,8 +630,9 @@
         "map_locations": [
           {
             "map": "aranearum",
-            "x": 850,
-            "y": 250
+            "size": 40,
+            "x": 847,
+            "y": 240
           }
         ]
       },
@@ -643,8 +654,9 @@
         "map_locations": [
           {
             "map": "aranearum",
-            "x": 440,
-            "y": 450
+            "size": 65,
+            "x": 443,
+            "y": 453
           }
         ]
       },
@@ -689,8 +701,9 @@
         "map_locations": [
           {
             "map": "aranearum",
-            "x": 300,
-            "y": 440
+            "size": 43,
+            "x": 297,
+            "y": 444
           }
         ]
       },
@@ -730,6 +743,7 @@
         "map_locations": [
           {
             "map": "aranearum",
+            "size": 40,
             "x": 190,
             "y": 380
           }
@@ -780,8 +794,10 @@
         "map_locations": [
           {
             "map": "aranearum",
-            "x": 355,
-            "y": 345
+            "shape":"trapezoid",
+            "size": 60,
+            "x": 350,
+            "y": 350
           }
         ]
       },
@@ -811,8 +827,9 @@
         "map_locations": [
           {
             "map": "aranearum",
-            "x": 255,
-            "y": 325
+            "size": 40,
+            "x": 257,
+            "y": 323
           }
         ]
       },
@@ -927,8 +944,9 @@
         "map_locations": [
           {
             "map": "aranearum",
+            "size": 55,
             "x": 50,
-            "y": 50
+            "y": 45
           }
         ]
       },
@@ -945,8 +963,9 @@
         "map_locations": [
           {
             "map": "aranearum",
-            "x": 75,
-            "y": 150
+            "size": 35,
+            "x": 72,
+            "y": 147
           }
         ]
       },
@@ -971,8 +990,8 @@
         "map_locations": [
           {
             "map": "aranearum",
-            "x": 105,
-            "y": 180
+            "x": 107,
+            "y": 184
           }
         ]
       },
@@ -994,6 +1013,7 @@
         "map_locations": [
           {
             "map": "aranearum",
+            "size": 40,
             "x": 180,
             "y": 240
           }
@@ -1027,8 +1047,10 @@
         "map_locations": [
           {
             "map": "aranearum",
-            "x": 160,
-            "y": 140
+            "size": 60,
+            "shape":"trapezoid",
+            "x": 155,
+            "y": 150
           }
         ]
       },
@@ -1050,8 +1072,9 @@
         "map_locations": [
           {
             "map": "aranearum",
-            "x": 305,
-            "y": 240
+            "size": 40,
+            "x": 325,
+            "y": 250
           }
         ]
       }

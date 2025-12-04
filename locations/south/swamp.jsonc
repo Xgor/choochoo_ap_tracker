@@ -387,8 +387,8 @@
             "map_locations": [
               {
                 "map": "swamp",
-                "x": 250,
-                "y": 440
+                "x": 240,
+                "y": 445
               }
             ]
         },
@@ -493,6 +493,7 @@
             "map_locations": [
               {
                 "map": "swamp",
+                "size": 40,
                 "x": 340,
                 "y": 805
               }
@@ -512,6 +513,7 @@
             "map_locations": [
               {
                 "map": "swamp",
+                "size": 50,
                 "x": 340,
                 "y": 690
               }

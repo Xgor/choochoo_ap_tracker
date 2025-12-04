@@ -10,3 +10,4 @@ Tracker:AddLocations("locations/south/south_mine.jsonc")
 -- Central
 Tracker:AddLocations("locations/central/middle_station.jsonc")
 Tracker:AddLocations("locations/central/canyon.jsonc")
+Tracker:AddLocations("locations/central/watchtower.jsonc")

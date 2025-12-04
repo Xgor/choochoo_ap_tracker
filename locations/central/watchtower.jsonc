@@ -1,9 +1,9 @@
 [
   {
-    "name": "South Mine",
+    "name": "Watchtower",
     "children": [
       {
-        "name": "Along Main Rails",
+        "name": "Along South Path",
         "sections": [{
           "name": "Scraps",
           "chest_unopened_img": "images/chests/scraps.png",
@@ -11,14 +11,14 @@
         }],
         "map_locations": [
           {
-            "map": "south_mine_outside",
-            "x": 600,
-            "y": 375
+            "map": "watchtower",
+            "x": 265,
+            "y": 730
           }
         ]
       },
       {
-        "name": "Near Minecarts",
+        "name": "Behind Tents",
         "sections": [{
           "name": "Scraps",
           "chest_unopened_img": "images/chests/scraps.png",
@@ -26,9 +26,9 @@
         }],
         "map_locations": [
           {
-            "map": "south_mine_outside",
-            "x": 400,
-            "y": 420
+            "map": "watchtower",
+            "x": 255,
+            "y": 450
           }
         ]
       },
@@ -41,14 +41,14 @@
         }],
         "map_locations": [
           {
-            "map": "south_mine_outside",
-            "x": 395,
-            "y": 555
+            "map": "watchtower",
+            "x": 90,
+            "y": 280
           }
         ]
       },
       {
-        "name": "Near Mine Door",
+        "name": "Along North Path",
         "sections": [{
           "name": "Scraps",
           "chest_unopened_img": "images/chests/scraps.png",
@@ -56,86 +56,107 @@
         }],
         "map_locations": [
           {
-            "map": "south_mine_outside",
-            "x": 250,
-            "y": 440
-          }
-        ]
-      },
-      {
-        "name": "Inside Small Shelter",
-        "sections": [{
-          "name": "Scraps",
-          "chest_unopened_img": "images/chests/scraps.png",
-          "chest_opened_img": "images/chests/scraps_true.png"
-        }],
-        "map_locations": [
-          {
-            "map": "south_mine_outside",
-            "x": 225,
-            "y": 150
-          }
-        ]
-      },
-      {
-        "name": "Between Barriers",
-        "sections": [{
-          "name": "Scraps",
-          "chest_unopened_img": "images/chests/scraps.png",
-          "chest_opened_img": "images/chests/scraps_true.png"
-        }],
-        "map_locations": [
-          {
-            "map": "south_mine_outside",
-            "x": 510,
-            "y": 190
-          }
-        ]
-      },
-      {
-        "name": "Inside Rest Shelter",
-        "sections": [{
-          "name": "Scraps",
-          "chest_unopened_img": "images/chests/scraps.png",
-          "chest_opened_img": "images/chests/scraps_true.png"
-        }],
-        "map_locations": [
-          {
-            "map": "south_mine_outside",
-            "x": 540,
+            "map": "watchtower",
+            "x": 315,
             "y": 25
           }
         ]
       },
       {
-        "name": "Inside",
-        "type": "static",
-        "access_rules": ["south_mine_key"],
+        "name": "Behind Right Beams",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "watchtower",
+            "x": 425,
+            "y": 265
+          }
+        ]
+      },
+      {
+        "name": "Near Left Beams",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "watchtower",
+            "x": 280,
+            "y": 300
+          }
+        ]
+      },
+      {
+        "name": "In Stairs",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "watchtower",
+            "x": 295,
+            "y": 385
+          }
+        ]
+      },
+      {
+        "name": "Chest",
         "sections": [
           {
             "name": "Scraps",
             "chest_unopened_img": "images/chests/scraps.png",
-            "chest_opened_img": "images/chests/scraps_true.png",
-            "item_count": 7
+            "chest_opened_img": "images/chests/scraps_true.png"
           },
           {
             "name": "Paint Can",
+            "access_rules": ["lockpicks"],
             "chest_unopened_img": "images/chests/scraps.png",
-            "chest_opened_img": "images/chests/scraps_true.png",
-            "access_rules": ["lockpicks"]
-          },
-          {
-            "name": "Green Egg",
-            "chest_unopened_img": "images/items/green.png",
             "chest_opened_img": "images/chests/scraps_true.png"
           }
         ],
         "map_locations": [
           {
-            "map": "south_mine_outside",
-            "shape":"trapezoid",
-            "x": 200,
-            "y": 475
+            "map": "watchtower",
+            "x": 300,
+            "y": 430
+          }
+        ]
+      },
+      {
+        "name": "Under Schedule notes",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "watchtower",
+            "x": 335,
+            "y": 420
+          }
+        ]
+      },
+      {
+        "name": "Along West Path",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "watchtower",
+            "x": 611,
+            "y": 440
           }
         ]
       }
