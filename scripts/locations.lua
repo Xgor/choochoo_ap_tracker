@@ -7,3 +7,6 @@ Tracker:AddLocations("locations/south/junkyard_shed.jsonc")
 Tracker:AddLocations("locations/south/south_house.jsonc")
 Tracker:AddLocations("locations/south/military_base.jsonc")
 Tracker:AddLocations("locations/south/south_mine.jsonc")
+-- Central
+Tracker:AddLocations("locations/central/middle_station.jsonc")
+Tracker:AddLocations("locations/central/canyon.jsonc")

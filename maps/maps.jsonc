@@ -51,10 +51,22 @@
   },
   // Central
   {
+    "name": "boulder_field",
+    "location_size": 30,
+    "location_border_thickness": 4,
+    "img": "images/maps/central/boulder_field.jpg"
+  },
+  {
     "name": "canyon",
     "location_size": 30,
     "location_border_thickness": 4,
     "img": "images/maps/central/canyon.jpg"
+  },
+  {
+    "name": "watchtower",
+    "location_size": 30,
+    "location_border_thickness": 4,
+    "img": "images/maps/central/watchtower.jpg"
   },
   {
     "name": "haunted_house",
@@ -134,12 +146,6 @@
     "location_size": 30,
     "location_border_thickness": 4,
     "img": "images/maps/east/trench_house.jpg"
-  },
-  {
-    "name": "watchtower",
-    "location_size": 30,
-    "location_border_thickness": 4,
-    "img": "images/maps/east/watchtower.jpg"
   },
   {
     "name": "workshop",

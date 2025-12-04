@@ -142,10 +142,31 @@
                 "dock": "top",
                 "tabs": [
                   {
+                  "title": "Middle Station",
+                  "content": {
+                    "type": "map",
+                    "maps": ["middle_station"]
+                    }
+                  },
+                  {
                   "title": "Canyon",
                   "content": {
                     "type": "map",
                     "maps": ["canyon"]
+                    }
+                  },
+                  {
+                  "title": "Watchtower",
+                  "content": {
+                    "type": "map",
+                    "maps": ["watchtower"]
+                    }
+                  },
+                  {
+                  "title": "Boulder Field",
+                  "content": {
+                    "type": "map",
+                    "maps": ["boulder_field"]
                     }
                   },
                   {
@@ -160,13 +181,6 @@
                   "content": {
                     "type": "map",
                     "maps": ["lost_stairs"]
-                    }
-                  },
-                  {
-                  "title": "Middle Station",
-                  "content": {
-                    "type": "map",
-                    "maps": ["middle_station"]
                     }
                   },
                   {
@@ -247,13 +261,6 @@
                   "content": {
                     "type": "map",
                     "maps": ["trench_house"]
-                    }
-                  },
-                  {
-                  "title": "Watchtower",
-                  "content": {
-                    "type": "map",
-                    "maps": ["watchtower"]
                     }
                   },
                   {
