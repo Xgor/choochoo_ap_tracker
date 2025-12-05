@@ -1,24 +1,23 @@
 [
   {
-    "name": "Watchtower",
+    "name": "Santiago House",
     "children": [
       {
-        "name": "Along South Path",
+        "name": "Journal",
         "sections": [{
-          "name": "Scraps",
-          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_unopened_img": "images/items/journal.png",
           "chest_opened_img": "images/chests/scraps_true.png"
         }],
         "map_locations": [
           {
-            "map": "watchtower",
-            "x": 265,
-            "y": 730
+            "map": "santiago_house",
+            "x": 70,
+            "y": 225
           }
         ]
       },
       {
-        "name": "Between Tents",
+        "name": "On Shrine",
         "sections": [{
           "name": "Scraps",
           "chest_unopened_img": "images/chests/scraps.png",
@@ -26,9 +25,69 @@
         }],
         "map_locations": [
           {
-            "map": "watchtower",
-            "x": 255,
-            "y": 450
+            "map": "santiago_house",
+            "x": 329,
+            "y": 590
+          }
+        ]
+      },
+      {
+        "name": "Near Shrine",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "santiago_house",
+            "x": 430,
+            "y": 480
+          }
+        ]
+      },
+      {
+        "name": "Near Crates Outside",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "santiago_house",
+            "x": 180,
+            "y": 255
+          }
+        ]
+      },
+      {
+        "name": "Near House",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "santiago_house",
+            "x": 155,
+            "y": 175
+          }
+        ]
+      },
+      {
+        "name": "Behind House",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "santiago_house",
+            "x": 35,
+            "y": 217
           }
         ]
       },
@@ -41,14 +100,14 @@
         }],
         "map_locations": [
           {
-            "map": "watchtower",
-            "x": 90,
-            "y": 280
+            "map": "santiago_house",
+            "x": 160,
+            "y": 380
           }
         ]
       },
       {
-        "name": "Along North Path",
+        "name": "Near Table",
         "sections": [{
           "name": "Scraps",
           "chest_unopened_img": "images/chests/scraps.png",
@@ -56,14 +115,14 @@
         }],
         "map_locations": [
           {
-            "map": "watchtower",
-            "x": 315,
-            "y": 25
+            "map": "santiago_house",
+            "x": 110,
+            "y": 220
           }
         ]
       },
       {
-        "name": "Behind Right Beams",
+        "name": "Near Crates Inside",
         "sections": [{
           "name": "Scraps",
           "chest_unopened_img": "images/chests/scraps.png",
@@ -71,14 +130,14 @@
         }],
         "map_locations": [
           {
-            "map": "watchtower",
-            "x": 425,
-            "y": 265
+            "map": "santiago_house",
+            "x": 155,
+            "y": 250
           }
         ]
       },
       {
-        "name": "Near Left Beams",
+        "name": "On Crates",
         "sections": [{
           "name": "Scraps",
           "chest_unopened_img": "images/chests/scraps.png",
@@ -86,14 +145,14 @@
         }],
         "map_locations": [
           {
-            "map": "watchtower",
-            "x": 280,
-            "y": 300
+            "map": "santiago_house",
+            "x": 55,
+            "y": 257
           }
         ]
       },
       {
-        "name": "In Stairs",
+        "name": "Along Path",
         "sections": [{
           "name": "Scraps",
           "chest_unopened_img": "images/chests/scraps.png",
@@ -101,62 +160,9 @@
         }],
         "map_locations": [
           {
-            "map": "watchtower",
-            "x": 295,
-            "y": 385
-          }
-        ]
-      },
-      {
-        "name": "Chest",
-        "sections": [
-          {
-            "name": "Scraps",
-            "chest_unopened_img": "images/chests/scraps.png",
-            "chest_opened_img": "images/chests/scraps_true.png"
-          },
-          {
-            "name": "Paint Can",
-            "access_rules": ["lockpicks"],
-            "chest_unopened_img": "images/chests/scraps.png",
-            "chest_opened_img": "images/chests/scraps_true.png"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "watchtower",
-            "x": 300,
-            "y": 430
-          }
-        ]
-      },
-      {
-        "name": "Under Schedule notes",
-        "sections": [{
-          "name": "Scraps",
-          "chest_unopened_img": "images/chests/scraps.png",
-          "chest_opened_img": "images/chests/scraps_true.png"
-        }],
-        "map_locations": [
-          {
-            "map": "watchtower",
-            "x": 335,
-            "y": 420
-          }
-        ]
-      },
-      {
-        "name": "Along West Path",
-        "sections": [{
-          "name": "Scraps",
-          "chest_unopened_img": "images/chests/scraps.png",
-          "chest_opened_img": "images/chests/scraps_true.png"
-        }],
-        "map_locations": [
-          {
-            "map": "watchtower",
-            "x": 611,
-            "y": 440
+            "map": "santiago_house",
+            "x": 382,
+            "y": 35
           }
         ]
       }

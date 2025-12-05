@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Haunted House",
+    "children": [
+      {
+        "name": "Sasha",
+        "access_rules": ["$has_more_then_n|page|7"],
+        "sections": [{
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "haunted_house",
+            "x": 225,
+            "y": 500
+          }
+        ]
+      },
+      {
+        "name": "Behind House",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "haunted_house",
+            "x": 105,
+            "y": 500
+          }
+        ]
+      },
+      {
+        "name": "Under House Roof",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "haunted_house",
+            "x": 215,
+            "y": 350
+          }
+        ]
+      },
+      {
+        "name": "Near Crates",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "haunted_house",
+            "x": 295,
+            "y": 420
+          }
+        ]
+      },
+      {
+        "name": "Sheltered",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "haunted_house",
+            "x": 165,
+            "y": 200
+          }
+        ]
+      },
+      {
+        "name": "Bridge",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "haunted_house",
+            "x": 480,
+            "y": 130
+          }
+        ]
+      },
+      {
+        "name": "Under Bridge",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "haunted_house",
+            "x": 595,
+            "y": 115
+          }
+        ]
+      }
+    ] 
+  }
+]

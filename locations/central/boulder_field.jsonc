@@ -1,0 +1,397 @@
+[
+  {
+    "name": "Boulder Field",
+    "children": [
+      {
+        "name": "North",
+        "sections": [{
+          "name": "Page",
+          "chest_unopened_img": "images/items/page.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "boulder_field",
+            "x": 200,
+            "y": 185
+          }
+        ]
+      },
+      {
+        "name": "Northwest",
+        "sections": [{
+          "name": "Page",
+          "chest_unopened_img": "images/items/page.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "boulder_field",
+            "x": 369,
+            "y": 350
+          }
+        ]
+      },
+      {
+        "name": "Middle",
+        "sections": [{
+          "name": "Page",
+          "chest_unopened_img": "images/items/page.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "boulder_field",
+            "x": 240,
+            "y": 400
+          }
+        ]
+      },
+      {
+        "name": "West",
+        "sections": [{
+          "name": "Page",
+          "chest_unopened_img": "images/items/page.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "boulder_field",
+            "x": 135,
+            "y": 375
+          }
+        ]
+      },
+      {
+        "name": "Southeast",
+        "sections": [{
+          "name": "Page",
+          "chest_unopened_img": "images/items/page.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "boulder_field",
+            "x": 240,
+            "y": 650
+          }
+        ]
+      },
+      {
+        "name": "Southwest",
+        "sections": [{
+          "name": "Page",
+          "chest_unopened_img": "images/items/page.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "boulder_field",
+            "x": 115,
+            "y": 615
+          }
+        ]
+      },
+      {
+        "name": "South",
+        "sections": [{
+          "name": "Page",
+          "chest_unopened_img": "images/items/page.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "boulder_field",
+            "x": 150,
+            "y": 780
+          }
+        ]
+      },
+      {
+        "name": "East",
+        "sections": [{
+          "name": "Page",
+          "chest_unopened_img": "images/items/page.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "boulder_field",
+            "x": 330,
+            "y": 500
+          }
+        ]
+      },
+      {
+        "name": "Northwest On Rocks",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "boulder_field",
+            "x": 50,
+            "y": 320
+          }
+        ]
+      },
+      {
+        "name": "North Behind Lantern",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "boulder_field",
+            "x": 210,
+            "y": 130
+          }
+        ]
+      },
+      {
+        "name": "North Near Barrier",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "boulder_field",
+            "x": 150,
+            "y": 27
+          }
+        ]
+      },
+      {
+        "name": "Northwest Near Crates",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "boulder_field",
+            "x": 311,
+            "y": 360
+          }
+        ]
+      },
+      {
+        "name": "Middle Near Drawing",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "boulder_field",
+            "x": 254,
+            "y": 425
+          }
+        ]
+      },
+      {
+        "name": "West Near Drawing",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "boulder_field",
+            "x": 305,
+            "y": 505
+          }
+        ]
+      },
+      {
+        "name": "Middle Under Rocks",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "boulder_field",
+            "x": 250,
+            "y": 600
+          }
+        ]
+      },
+      {
+        "name": "South Between Rocks",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "boulder_field",
+            "x": 140,
+            "y": 580
+          }
+        ]
+      },
+      {
+        "name": "Southwest Lonely",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "boulder_field",
+            "x": 60,
+            "y": 595
+          }
+        ]
+      },
+      {
+        "name": "South Near Crates",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "boulder_field",
+            "x": 375,
+            "y": 708
+          }
+        ]
+      },
+      {
+        "name": "Southeast Hill",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "boulder_field",
+            "x": 352,
+            "y": 622
+          }
+        ]
+      },
+      {
+        "name": "South Hill Atop",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "boulder_field",
+            "x": 116,
+            "y": 732
+          }
+        ]
+      },
+      {
+        "name": "South Near Drawing",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "boulder_field",
+            "x": 175,
+            "y": 810
+          }
+        ]
+      },
+      {
+        "name": "South Hill Between Trees",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "boulder_field",
+            "x": 195,
+            "y": 735
+          }
+        ]
+      },
+      {
+        "name": "South Along Path",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "boulder_field",
+            "x": 313,
+            "y": 750
+          }
+        ]
+      },
+      {
+        "name": "North Hill",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "boulder_field",
+            "x": 160,
+            "y": 280
+          }
+        ]
+      },
+      {
+        "name": "North Behind Rock",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "boulder_field",
+            "x": 160,
+            "y": 160
+          }
+        ]
+      },
+      {
+        "name": "Middle Hill",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "boulder_field",
+            "x": 150,
+            "y": 490
+          }
+        ]
+      }
+    ] 
+  }
+]
