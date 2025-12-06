@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Lost Stairs",
+    "children": [
+      {
+        "name": "Near Rocks",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "shrine",
+            "x": 636,
+            "y": 116
+          }
+        ]
+      },
+      {
+        "name": "Along Path",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "shrine",
+            "x": 562,
+            "y": 270
+          }
+        ]
+      },
+      {
+        "name": "Near Barriers",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "shrine",
+            "x": 746,
+            "y": 275
+          }
+        ]
+      }
+    ] 
+  }
+]

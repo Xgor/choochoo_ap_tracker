@@ -254,7 +254,7 @@
             "item_count": 23
           },
           {
-            "name": "Paint Can",
+            "name": "Purple Paint Can",
             "item_count": 1
           },
           {
@@ -263,7 +263,7 @@
             "access_rules": ["lockpicks"]
           },
           {
-            "name": "Pickle Lady",
+            "name": "Pickle Lady Mission End",
             "item_count": 1,
             "access_rules": ["pickles"]
           }
@@ -507,12 +507,12 @@
         ]
       },
       {
-        "name": "Rockets Testing",
+        "name": "Rocket Grounds",
         "access_rules": [
         ],
         "sections": [
           {
-            "name": "Ground Scraps",
+            "name": "Scraps",
             "item_count": 10
           },
           {
@@ -549,7 +549,7 @@
             "item_count": 6
           },
           {
-            "name": "John Smith",
+            "name": "John Smith Mission End",
             "item_count": 1,
             "access_rules": ["rockets"]
           }
@@ -596,7 +596,7 @@
             "item_count": 6
           },
           {
-            "name": "Greg",
+            "name": "Greg Mission Start",
             "item_count": 1
           }
         ],
@@ -622,7 +622,7 @@
             "item_count": 4
           },
           {
-            "name": "Claire",
+            "name": "Claire Mission End",
             "item_count": 1,
             "access_rules": ["$has_more_then_n|breaker|3"]
           }
@@ -637,7 +637,7 @@
         ]
       },
       {
-        "name": "Prism Temple",
+        "name": "Temple",
         "access_rules": [
         ],
         "sections": [
@@ -661,7 +661,7 @@
         ]
       },
       {
-        "name": "Shrine",
+        "name": "Shrine Near Temple",
         "access_rules": [
         ],
         "sections": [
@@ -688,13 +688,13 @@
             "item_count": 27
           },
           {
-            "name": "Contracts"
+            "name": "Employment Contracts"
           },
           {
-            "name": "Paint Can"
+            "name": "Lime Paint Can"
           },
           {
-            "name": "Ronny",
+            "name": "Ronny Mission End",
             "access_rules": ["contracts"]
           }
         ],
@@ -782,7 +782,7 @@
             "access_rules": ["mountain_ruin_key"]
           },
           {
-            "name": "Paint Can",
+            "name": "Red Paint Can",
             "item_count": 1,
             "access_rules": ["mountain_ruin_key,lockpicks"]
           },
@@ -865,7 +865,7 @@
             "item_count": 12
           },
           {
-            "name": "Paint Can",
+            "name": "Black Paint Can",
             "item_count": 1
           }
         ],
@@ -932,7 +932,7 @@
             "item_count": 15
           },
           {
-            "name": "Paint Can",
+            "name": "Teal Paint Can",
             "item_count": 1
           },
           {
@@ -1034,7 +1034,7 @@
             "access_rules": ["north_mine_key"]
           },
           {
-            "name": "Paint Can",
+            "name": "Blue Paint Can",
             "item_count": 1,
             "access_rules": ["north_mine_key,lockpicks"]
           },
