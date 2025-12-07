@@ -4,6 +4,9 @@ This is a Poptracker pack designed for use in tracking the Archipelago implement
 Install from the Releases tab into a Poptracker instance.
 
 # Credits
-Poptracker Impementation: Xgor
-Archipelago developer, Island Map: Yaranorgorth
-Location maps: Vilker
+## Poptracker Impementation:
+Xgor
+## CCCharles Archipelago developer, Island Map 
+Yaranorgorth
+## Location maps
+Vilker

@@ -10,6 +10,8 @@
         "sections": [
           {
             "name": "Scraps",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png",
             "item_count": 2
           }
         ],
@@ -29,10 +31,14 @@
         "sections": [
           {
             "name": "Tony Tiddle",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png",
             "item_count": 1
           },
           {
             "name": "Inside",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png",
             "item_count": 9,
             "access_rules": ["barn_key"]
           }
@@ -54,7 +60,9 @@
         ],
         "sections": [
           {
-            "item_count": 12
+            "item_count": 12,
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png"
           },
           {
             "name": "Chest",
@@ -78,10 +86,14 @@
         "sections": [
           {
             "name": "Candice",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png",
             "item_count": 1
           },
           {
             "name": "House",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png",
             "item_count": 9,
             "access_rules": ["candice_key"]
           }
@@ -101,19 +113,27 @@
         ],
         "sections": [
           {
-            "item_count": 10
+            "item_count": 10,
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png"
           },
           {
             "name": "Daryl Mission Start",
+            "chest_unopened_img": "images/items/lockpicks.png",
+            "chest_opened_img": "images/chests/scraps_true.png",
             "item_count": 1
           },
           {
             "name": "Tablet",
+            "chest_unopened_img": "images/items/tablet.png",
+            "chest_opened_img": "images/chests/scraps_true.png",
             "item_count": 1,
             "access_rules": ["lockpicks"]
           },
           {
             "name": "Daryl Mission End",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png",
             "item_count": 1,
             "access_rules": ["tablet"]
           }
@@ -128,15 +148,16 @@
       },
       {
         "name": "Junkyard Shed",
-        "access_rules": [
-
-        ],
         "sections": [
           {
-            "item_count": 8
+            "item_count": 8,
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png"
           },
           {
             "name": "Helen",
+            "chest_unopened_img": "images/items/key.png",
+            "chest_opened_img": "images/chests/scraps_true.png",
             "item_count": 1
           }
         ],
@@ -155,13 +176,19 @@
         ],
         "sections": [
           {
-            "item_count": 12
+            "item_count": 12,
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png"
           },
           {
-            "name": "Paint Can"
+            "name": "Paint Can",
+            "chest_unopened_img": "images/chests/can.png",
+            "chest_opened_img": "images/chests/can_true.png"
           },
           {
-            "name": "Sgt Flint"
+            "name": "Sgt Flint",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png"
           }
         ],
         "map_locations": [
@@ -180,22 +207,32 @@
         "sections": [
           {
             "name": "Edges",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png",
             "item_count": 32
           },
           {
             "name": "Shack",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png",
             "item_count": 2
           },
           {
             "name": "Islet",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png",
             "item_count": 3
           },
           {
             "name": "Dead Fish",
+            "chest_unopened_img": "images/items/fish.png",
+            "chest_opened_img": "images/chests/scraps_true.png",
             "item_count": 1
           },
           {
             "name": "Lizbeth",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png",
             "item_count": 1,
             "access_rules": ["fish"]
           }
@@ -216,20 +253,28 @@
         "sections": [
           {
             "name": "Outside",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png",
             "item_count": 7
           },
           {
             "name": "Inside",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png",
             "item_count": 9,
             "access_rules": ["south_mine_key"]
           },
           {
             "name": "Paint Can",
+            "chest_unopened_img": "images/chests/can.png",
+            "chest_opened_img": "images/chests/can_true.png",
             "item_count": 1,
             "access_rules": ["south_mine_key, lockpicks"] // TODO FIX
           },
           {
             "name": "Green Egg",
+            "chest_unopened_img": "images/items/green.png",
+            "chest_opened_img": "images/chests/scraps_true.png",
             "item_count": 1,
             "access_rules": ["south_mine_key"]
           }
@@ -251,19 +296,27 @@
         "sections": [
           {
             "name": "Scraps",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png",
             "item_count": 23
           },
           {
             "name": "Purple Paint Can",
+            "chest_unopened_img": "images/chests/can.png",
+            "chest_opened_img": "images/chests/can_true.png",
             "item_count": 1
           },
           {
             "name": "Jar of Pickles",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png",
             "item_count": 1,
             "access_rules": ["lockpicks"]
           },
           {
             "name": "Pickle Lady Mission End",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png",
             "item_count": 1,
             "access_rules": ["pickles"]
           }
@@ -284,10 +337,14 @@
         "sections": [
           {
             "name": "Scraps",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png",
             "item_count": 17
           },
           {
             "name": "Blue Box",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png",
             "item_count": 1
           }
         ],
@@ -307,6 +364,8 @@
         "sections": [
           {
             "name": "Scraps",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png",
             "item_count": 20
           },
           {
@@ -316,6 +375,8 @@
           },
           {
             "name": "Paint Can",
+            "chest_unopened_img": "images/chests/can.png",
+            "chest_opened_img": "images/chests/can_true.png",
             "item_count": 1
           }
         ],
@@ -335,10 +396,14 @@
         "sections": [
           {
             "name": "Scraps",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png",
             "item_count": 10
           },
           {
             "name": "Paint Can",
+            "chest_unopened_img": "images/chests/can.png",
+            "chest_opened_img": "images/chests/can_true.png",
             "item_count": 1,
             "access_rules": ["lockpicks"]
           }
@@ -358,6 +423,8 @@
         "sections": [
           {
             "name": "Scraps",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png",
             "item_count": 18
           },
           {
@@ -381,6 +448,8 @@
         "sections": [
           {
             "name": "Scraps",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png",
             "item_count": 6
           },
           {
@@ -404,10 +473,14 @@
         "sections": [
           {
             "name": "Scraps",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png",
             "item_count": 19
           },
           {
             "name": "Paint Can",
+            "chest_unopened_img": "images/chests/can.png",
+            "chest_opened_img": "images/chests/can_true.png",
             "item_count": 1
           },
           {
@@ -432,6 +505,8 @@
         "sections": [
           {
             "name": "Scraps",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png",
             "item_count": 10
           },
           {
@@ -454,6 +529,8 @@
         "sections": [
           {
             "name": "Scraps",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png",
             "item_count": 2
           }
         ],
@@ -472,6 +549,8 @@
         "sections": [
           {
             "name": "Scraps",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png",
             "item_count": 10
           }
         ],
@@ -490,6 +569,8 @@
         "sections": [
           {
             "name": "Scraps",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png",
             "item_count": 18
           },
           {
@@ -513,19 +594,27 @@
         "sections": [
           {
             "name": "Scraps",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png",
             "item_count": 10
           },
           {
             "name": "Dynamite",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png",
             "item_count": 1
           },
           {
             "name": "Bunker Scraps",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png",
             "item_count": 2,
             "access_rules": ["dynamite"]
           },
           {
             "name": "Rockets",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png",
             "item_count": 1,
             "access_rules": ["dynamite"]
           }
@@ -546,10 +635,14 @@
         "sections": [
           {
             "name": "Scraps",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png",
             "item_count": 6
           },
           {
             "name": "John Smith Mission End",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png",
             "item_count": 1,
             "access_rules": ["rockets"]
           }
@@ -569,6 +662,8 @@
         "sections": [
           {
             "name": "Scraps",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png",
             "item_count": 14
           },
           {
@@ -593,10 +688,14 @@
         "sections": [
           {
             "name": "Scraps",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png",
             "item_count": 6
           },
           {
             "name": "Greg Mission Start",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png",
             "item_count": 1
           }
         ],
@@ -615,14 +714,20 @@
         "sections": [
           {
             "name": "Scraps",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png",
             "item_count": 18
           },
           {
             "name": "Breaker",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png",
             "item_count": 4
           },
           {
             "name": "Claire Mission End",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png",
             "item_count": 1,
             "access_rules": ["$has_more_then_n|breaker|3"]
           }
@@ -643,6 +748,8 @@
         "sections": [
           {
             "name": "Scraps",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png",
             "item_count": 34
           },
           {
@@ -667,6 +774,8 @@
         "sections": [
           {
             "name": "Scraps",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png",
             "item_count": 3
           }
         ],
@@ -685,16 +794,24 @@
         "sections": [
           {
             "name": "Scraps",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png",
             "item_count": 27
           },
           {
-            "name": "Employment Contracts"
+            "name": "Employment Contracts",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png"
           },
           {
-            "name": "Lime Paint Can"
+            "name": "Lime Paint Can",
+            "chest_unopened_img": "images/chests/can.png",
+            "chest_opened_img": "images/chests/can_true.png"
           },
           {
             "name": "Ronny Mission End",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png",
             "access_rules": ["contracts"]
           }
         ],
@@ -714,6 +831,8 @@
         "sections": [
           {
             "name": "Scraps",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png",
             "item_count": 6
           }
         ],
@@ -732,6 +851,8 @@
         "sections": [
           {
             "name": "Scraps",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png",
             "item_count": 9
           },
           {
@@ -756,6 +877,8 @@
         "sections": [
           {
             "name": "Scraps",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png",
             "item_count": 9
           }
         ],
@@ -774,20 +897,27 @@
         "sections": [
           {
             "name": "Outside",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png",
             "item_count": 17
           },
           {
             "name": "Inside",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png",
             "item_count": 17,
             "access_rules": ["mountain_ruin_key"]
           },
           {
             "name": "Red Paint Can",
+            "chest_unopened_img": "images/chests/can.png",
+            "chest_opened_img": "images/chests/can_true.png",
             "item_count": 1,
             "access_rules": ["mountain_ruin_key,lockpicks"]
           },
           {
             "name": "Red Egg",
+            "chest_unopened_img": "images/items/red.png",
             "access_rules": ["mountain_ruin_key"]
           }
         ],
@@ -808,18 +938,25 @@
         "sections": [
           {
             "name": "Scraps",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png",
             "item_count": 16
           },
           {
-            "name": "Key"
+            "name": "Key",
+            "chest_unopened_img": "images/items/key.png"
           },
           {
             "name": "Locked Room",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png",
             "item_count": 2,
             "access_rules": ["mob_camp_key"]
           },
           {
             "name": "Bob",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png",
             "item_count": 1,
             "access_rules": ["mob_camp_key,bob"]
           }
@@ -840,10 +977,14 @@
         "sections": [
           {
             "name": "Scraps",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png",
             "item_count": 5
           },
           {
             "name": "Gale",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png",
             "item_count": 1
           }
         ],
@@ -862,10 +1003,14 @@
         "sections": [
           {
             "name": "Scraps",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png",
             "item_count": 12
           },
           {
             "name": "Black Paint Can",
+            "chest_unopened_img": "images/chests/can.png",
+            "chest_opened_img": "images/chests/can_true.png",
             "item_count": 1
           }
         ],
@@ -884,10 +1029,14 @@
         "sections": [
           {
             "name": "Scraps",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png",
             "item_count": 5
           },
           {
             "name": "Gertrude",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png",
             "item_count": 1
           }
         ],
@@ -906,6 +1055,8 @@
         "sections": [
           {
             "name": "Scraps",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png",
             "item_count": 8
           },
           {
@@ -929,10 +1080,14 @@
         "sections": [
           {
             "name": "Scraps",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png",
             "item_count": 15
           },
           {
             "name": "Teal Paint Can",
+            "chest_unopened_img": "images/chests/can.png",
+            "chest_opened_img": "images/chests/can_true.png",
             "item_count": 1
           },
           {
@@ -957,6 +1112,8 @@
         "sections": [
           {
             "name": "Scraps",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png",
             "item_count": 13
           }
         ],
@@ -976,13 +1133,19 @@
         "sections": [
           {
             "name": "Scraps",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png",
             "item_count": 12
           },
           {
-            "name": "Paul Mission Start"
+            "name": "Paul Mission Start",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png"
           },
           {
             "name": "Paul Mission End",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png",
             "access_rules": ["explosives"]
           }
           
@@ -1002,6 +1165,8 @@
         "sections": [
           {
             "name": "Scraps",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png",
             "item_count": 13
           },
           {
@@ -1026,20 +1191,27 @@
         "sections": [
           {
             "name": "Outside",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png",
             "item_count": 15
           },
           {
             "name": "Inside",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png",
             "item_count": 14,
             "access_rules": ["north_mine_key"]
           },
           {
             "name": "Blue Paint Can",
+            "chest_unopened_img": "images/chests/can.png",
+            "chest_opened_img": "images/chests/can_true.png",
             "item_count": 1,
             "access_rules": ["north_mine_key,lockpicks"]
           },
           {
             "name": "Blue Egg",
+            "chest_unopened_img": "images/items/blue.png",
             "item_count": 1,
             "access_rules": ["north_mine_key"]
           }
@@ -1061,6 +1233,8 @@
         "sections": [
           {
             "name": "Scraps",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png",
             "item_count": 14
           },
           {

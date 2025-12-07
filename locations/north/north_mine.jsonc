@@ -239,7 +239,7 @@
             "y": 66
           }
         ]
-      },
+      } /*, # This scrap is currently not impemented in the current version of CCCharles, will be added when the official archipelago CCCharles is updated
       {
         "name": "North East On Rocks",
         "sections": [{
@@ -255,7 +255,7 @@
           }
         ]
       }
-
+  */
     ] 
   }
 ]

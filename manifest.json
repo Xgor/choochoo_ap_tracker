@@ -1,9 +1,9 @@
 {
     "name": "Choo-Choo Charles Archipelago",
     "game_name": "Choo-Choo Charles",
-    "package_version": "0.1.1",
+    "package_version": "1.0.0",
     "package_uid": "choo-choo charles_ap",
-    "author": "builder_script",
+    "author": "Xgor",
     "variants": {
         "Map Tracker": {
             "display_name": "Map Tracker",
@@ -18,5 +18,5 @@
             ]
         }
     },
-    "min_poptracker_version": "0.31.0"
+    "min_poptracker_version": "0.32.0"
 }

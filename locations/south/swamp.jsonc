@@ -6,7 +6,9 @@
             "name": "Path To Candice",
             "sections": [
               {
-                "name": "Scraps"
+                "name": "Scraps",
+                "chest_unopened_img": "images/chests/scraps.png",
+                "chest_opened_img": "images/chests/scraps_true.png"
               }
             ],
             "map_locations": [
@@ -21,7 +23,9 @@
             "name": "South Near Cauldron",
             "sections": [
               {
-                "name": "Scraps"
+                "name": "Scraps",
+                "chest_unopened_img": "images/chests/scraps.png",
+                "chest_opened_img": "images/chests/scraps_true.png"
               }
             ],
             "map_locations": [
@@ -36,7 +40,9 @@
             "name": "South In Clovers",
             "sections": [
               {
-                "name": "Scraps"
+                "name": "Scraps",
+                "chest_unopened_img": "images/chests/scraps.png",
+                "chest_opened_img": "images/chests/scraps_true.png"
               }
             ],
             "map_locations": [
@@ -51,7 +57,9 @@
             "name": "South Crossroads",
             "sections": [
               {
-                "name": "Scraps"
+                "name": "Scraps",
+                "chest_unopened_img": "images/chests/scraps.png",
+                "chest_opened_img": "images/chests/scraps_true.png"
               }
             ],
             "map_locations": [
@@ -66,7 +74,9 @@
             "name": "South Near Lantern",
             "sections": [
               {
-                "name": "Scraps"
+                "name": "Scraps",
+                "chest_unopened_img": "images/chests/scraps.png",
+                "chest_opened_img": "images/chests/scraps_true.png"
               }
             ],
             "map_locations": [
@@ -81,7 +91,9 @@
             "name": "Southeast Near Minecart",
             "sections": [
               {
-                "name": "Scraps"
+                "name": "Scraps",
+                "chest_unopened_img": "images/chests/scraps.png",
+                "chest_opened_img": "images/chests/scraps_true.png"
               }
             ],
             "map_locations": [
@@ -96,7 +108,9 @@
             "name": "Southeast Crossroads",
             "sections": [
               {
-                "name": "Scraps"
+                "name": "Scraps",
+                "chest_unopened_img": "images/chests/scraps.png",
+                "chest_opened_img": "images/chests/scraps_true.png"
               }
             ],
             "map_locations": [
@@ -111,7 +125,9 @@
             "name": "East Above Path Cutoff",
             "sections": [
               {
-                "name": "Scraps"
+                "name": "Scraps",
+                "chest_unopened_img": "images/chests/scraps.png",
+                "chest_opened_img": "images/chests/scraps_true.png"
               }
             ],
             "map_locations": [
@@ -126,7 +142,9 @@
             "name": "East Crossroads",
             "sections": [
               {
-                "name": "Scraps"
+                "name": "Scraps",
+                "chest_unopened_img": "images/chests/scraps.png",
+                "chest_opened_img": "images/chests/scraps_true.png"
               }
             ],
             "map_locations": [
@@ -138,10 +156,12 @@
             ]
         },
         {
-            "name": "East Under Lantern", // TODO FIX ERROR
+            "name": "East Under Lantern",
             "sections": [
               {
-                "name": "Scraps"
+                "name": "Scraps",
+                "chest_unopened_img": "images/chests/scraps.png",
+                "chest_opened_img": "images/chests/scraps_true.png"
               }
             ],
             "map_locations": [
@@ -156,7 +176,9 @@
             "name": "East On Crates",
             "sections": [
               {
-                "name": "Scraps"
+                "name": "Scraps",
+                "chest_unopened_img": "images/chests/scraps.png",
+                "chest_opened_img": "images/chests/scraps_true.png"
               }
             ],
             "map_locations": [
@@ -171,7 +193,9 @@
             "name": "East Near Long Barrier",
             "sections": [
               {
-                "name": "Scraps"
+                "name": "Scraps",
+                "chest_unopened_img": "images/chests/scraps.png",
+                "chest_opened_img": "images/chests/scraps_true.png"
               }
             ],
             "map_locations": [
@@ -186,7 +210,9 @@
             "name": "Middle Near Bridge",
             "sections": [
               {
-                "name": "Scraps"
+                "name": "Scraps",
+                "chest_unopened_img": "images/chests/scraps.png",
+                "chest_opened_img": "images/chests/scraps_true.png"
               }
             ],
             "map_locations": [
@@ -201,7 +227,9 @@
             "name": "Northeast Behind Lantern",
             "sections": [
               {
-                "name": "Scraps"
+                "name": "Scraps",
+                "chest_unopened_img": "images/chests/scraps.png",
+                "chest_opened_img": "images/chests/scraps_true.png"
               }
             ],
             "map_locations": [
@@ -216,7 +244,9 @@
             "name": "Northeast Along Path",
             "sections": [
               {
-                "name": "Scraps"
+                "name": "Scraps",
+                "chest_unopened_img": "images/chests/scraps.png",
+                "chest_opened_img": "images/chests/scraps_true.png"
               }
             ],
             "map_locations": [
@@ -231,7 +261,9 @@
             "name": "Northeast Under Lantern",
             "sections": [
               {
-                "name": "Scraps"
+                "name": "Scraps",
+                "chest_unopened_img": "images/chests/scraps.png",
+                "chest_opened_img": "images/chests/scraps_true.png"
               }
             ],
             "map_locations": [
@@ -246,7 +278,9 @@
             "name": "Northeast Near Pond",
             "sections": [
               {
-                "name": "Scraps"
+                "name": "Scraps",
+                "chest_unopened_img": "images/chests/scraps.png",
+                "chest_opened_img": "images/chests/scraps_true.png"
               }
             ],
             "map_locations": [
@@ -261,7 +295,9 @@
             "name": "North Under Lantern",
             "sections": [
               {
-                "name": "Scraps"
+                "name": "Scraps",
+                "chest_unopened_img": "images/chests/scraps.png",
+                "chest_opened_img": "images/chests/scraps_true.png"
               }
             ],
             "map_locations": [
@@ -276,7 +312,9 @@
             "name": "North On Crates",
             "sections": [
               {
-                "name": "Scraps"
+                "name": "Scraps",
+                "chest_unopened_img": "images/chests/scraps.png",
+                "chest_opened_img": "images/chests/scraps_true.png"
               }
             ],
             "map_locations": [
@@ -291,7 +329,9 @@
             "name": "North Near Pond",
             "sections": [
               {
-                "name": "Scraps"
+                "name": "Scraps",
+                "chest_unopened_img": "images/chests/scraps.png",
+                "chest_opened_img": "images/chests/scraps_true.png"
               }
             ],
             "map_locations": [
@@ -306,7 +346,9 @@
             "name": "North Near Barrier",
             "sections": [
               {
-                "name": "Scraps"
+                "name": "Scraps",
+                "chest_unopened_img": "images/chests/scraps.png",
+                "chest_opened_img": "images/chests/scraps_true.png"
               }
             ],
             "map_locations": [
@@ -321,7 +363,9 @@
             "name": "Northwest In Clovers",
             "sections": [
               {
-                "name": "Scraps"
+                "name": "Scraps",
+                "chest_unopened_img": "images/chests/scraps.png",
+                "chest_opened_img": "images/chests/scraps_true.png"
               }
             ],
             "map_locations": [
@@ -336,7 +380,9 @@
             "name": "Northwest Near Pond",
             "sections": [
               {
-                "name": "Scraps"
+                "name": "Scraps",
+                "chest_unopened_img": "images/chests/scraps.png",
+                "chest_opened_img": "images/chests/scraps_true.png"
               }
             ],
             "map_locations": [
@@ -351,7 +397,9 @@
             "name": "West Near Minecart",
             "sections": [
               {
-                "name": "Scraps"
+                "name": "Scraps",
+                "chest_unopened_img": "images/chests/scraps.png",
+                "chest_opened_img": "images/chests/scraps_true.png"
               }
             ],
             "map_locations": [
@@ -366,7 +414,9 @@
             "name": "West Near Bridge",
             "sections": [
               {
-                "name": "Scraps"
+                "name": "Scraps",
+                "chest_unopened_img": "images/chests/scraps.png",
+                "chest_opened_img": "images/chests/scraps_true.png"
               }
             ],
             "map_locations": [
@@ -381,7 +431,9 @@
             "name": "West Under Lantern",
             "sections": [
               {
-                "name": "Scraps"
+                "name": "Scraps",
+                "chest_unopened_img": "images/chests/scraps.png",
+                "chest_opened_img": "images/chests/scraps_true.png"
               }
             ],
             "map_locations": [
@@ -396,7 +448,9 @@
             "name": "West Path To Barn",
             "sections": [
               {
-                "name": "Scraps"
+                "name": "Scraps",
+                "chest_unopened_img": "images/chests/scraps.png",
+                "chest_opened_img": "images/chests/scraps_true.png"
               }
             ],
             "map_locations": [
@@ -411,7 +465,9 @@
             "name": "West Behind Lantern",
             "sections": [
               {
-                "name": "Scraps"
+                "name": "Scraps",
+                "chest_unopened_img": "images/chests/scraps.png",
+                "chest_opened_img": "images/chests/scraps_true.png"
               }
             ],
             "map_locations": [
@@ -426,7 +482,9 @@
             "name": "West Between Crossroads",
             "sections": [
               {
-                "name": "Scraps"
+                "name": "Scraps",
+                "chest_unopened_img": "images/chests/scraps.png",
+                "chest_opened_img": "images/chests/scraps_true.png"
               }
             ],
             "map_locations": [
@@ -441,7 +499,9 @@
             "name": "Southwest Behind Crates",
             "sections": [
               {
-                "name": "Scraps"
+                "name": "Scraps",
+                "chest_unopened_img": "images/chests/scraps.png",
+                "chest_opened_img": "images/chests/scraps_true.png"
               }
             ],
             "map_locations": [
@@ -456,7 +516,9 @@
             "name": "Northeast Crossroads",
             "sections": [
               {
-                "name": "Scraps"
+                "name": "Scraps",
+                "chest_unopened_img": "images/chests/scraps.png",
+                "chest_opened_img": "images/chests/scraps_true.png"
               }
             ],
             "map_locations": [
@@ -471,7 +533,9 @@
             "name": "East Near Short Barrier",
             "sections": [
               {
-                "name": "Scraps"
+                "name": "Scraps",
+                "chest_unopened_img": "images/chests/scraps.png",
+                "chest_opened_img": "images/chests/scraps_true.png"
               }
             ],
             "map_locations": [
@@ -487,6 +551,8 @@
             "sections": [
               {
                 "name": "Scraps",
+                "chest_unopened_img": "images/chests/scraps.png",
+                "chest_opened_img": "images/chests/scraps_true.png",
                 "item_count": 2
               }
             ],
@@ -504,10 +570,14 @@
             "sections": [
               {
                 "name": "Scraps",
+                "chest_unopened_img": "images/chests/scraps.png",
+                "chest_opened_img": "images/chests/scraps_true.png",
                 "item_count": 3
               },
               {
-                "name": "Dead Fish"
+                "name": "Dead Fish",
+                "chest_unopened_img": "images/items/fish.png",
+                "chest_opened_img": "images/chests/scraps_true.png"
               }
             ],
             "map_locations": [
@@ -523,7 +593,9 @@
             "name": "Lizbeth",
             "sections": [
               {
-                "access_rules": ["fish"]
+                "access_rules": ["fish"],
+                "chest_unopened_img": "images/chests/scraps.png",
+                "chest_opened_img": "images/chests/scraps_true.png"
               }
             ],
             "map_locations": [
