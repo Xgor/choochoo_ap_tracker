@@ -1,0 +1,97 @@
+[
+  {
+    "name": "West Cottage",
+    "children": [
+      {
+        "name": "Gale",
+        "sections": [{
+          "name": "Mission Start",
+          "chest_unopened_img": "images/items/key.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "west_cottage",
+            "x": 321,
+            "y": 473
+          }
+        ]
+      },
+      {
+        "name": "Near Tent",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "west_cottage",
+            "x": 137,
+            "y": 37
+          }
+        ]
+      },
+      {
+        "name": "Near Crate",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "west_cottage",
+            "x": 269,
+            "y": 459
+          }
+        ]
+      },
+      {
+        "name": "Near Beams",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "west_cottage",
+            "x": 223,
+            "y": 591
+          }
+        ]
+      },
+      {
+        "name": "Near Far Barrier",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "west_cottage",
+            "x": 642,
+            "y": 1065
+          }
+        ]
+      },
+      {
+        "name": "Near Note",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "west_cottage",
+            "x": 458,
+            "y": 464
+          }
+        ]
+      }
+    ] 
+  }
+]

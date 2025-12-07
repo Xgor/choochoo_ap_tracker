@@ -1,0 +1,201 @@
+[
+  {
+    "name": "Church",
+    "children": [
+      {
+        "name": "Black Paint Can",
+        "sections": [{
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "church",
+            "x": 183,
+            "y": 196
+          }
+        ]
+      },
+      {
+        "name": "Around On Downhill Path",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "church",
+            "x": 498,
+            "y": 148
+          }
+        ]
+      },
+      {
+        "name": "Around On Back Path 1",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "church",
+            "x": 225,
+            "y": 64
+          }
+        ]
+      },
+      {
+        "name": "Around Near Door",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "church",
+            "x": 64,
+            "y": 170
+          }
+        ]
+      },
+      {
+        "name": "Graveyard On Path",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "church",
+            "x": 152,
+            "y": 351
+          }
+        ]
+      },
+      {
+        "name": "Around Under Window",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "church",
+            "x": 190,
+            "y": 248
+          }
+        ]
+      },
+      {
+        "name": "Graveyard Near Graves 1",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "church",
+            "x": 321,
+            "y": 479
+          }
+        ]
+      },
+      {
+        "name": "Graveyard Near Graves 2",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "church",
+            "x": 381,
+            "y": 623
+          }
+        ]
+      },
+      {
+        "name": "Graveyard Near Graves 3",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "church",
+            "x": 415,
+            "y": 468
+          }
+        ]
+      },
+      {
+        "name": "Inside Near Door",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "church",
+            "x": 95,
+            "y": 211
+          }
+        ]
+      },
+      {
+        "name": "Inside Near Sermon Note",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "church",
+            "x": 201,
+            "y": 123
+          }
+        ]
+      },
+      {
+        "name": "Inside In Black Corner",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "church",
+            "x": 129,
+            "y": 231
+          }
+        ]
+      },
+      {
+        "name": "Around On Back Path 2",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "church",
+            "x": 323,
+            "y": 157
+          }
+        ]
+      }
+    ] 
+  }
+]

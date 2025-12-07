@@ -198,10 +198,10 @@
                     }
                   },
                   {
-                  "title": "Prism Temple",
+                  "title": "Temple",
                   "content": {
                     "type": "map",
-                    "maps": ["prism_temple"]
+                    "maps": ["temple"]
                     }
                   },
                   {
@@ -253,7 +253,7 @@
                   "title": "Rocket Testing Ground",
                   "content": {
                     "type": "map",
-                    "maps": ["testing_ground"]
+                    "maps": ["rocket_grounds"]
                     }
                   },
                   {
@@ -389,7 +389,7 @@
                   "title": "Wooden Bridge",
                   "content": {
                     "type": "map",
-                    "maps": ["wooden_bridge"]
+                    "maps": ["wood_bridge"]
                     }
                   }
 

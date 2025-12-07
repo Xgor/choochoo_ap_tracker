@@ -99,7 +99,7 @@
     "img": "images/maps/central/port.jpg"
   },
   {
-    "name": "prism_temple",
+    "name": "temple",
     "location_size": 30,
     "location_border_thickness": 4,
     "img": "images/maps/central/prism_temple.jpg"
@@ -136,7 +136,7 @@
     "img": "images/maps/east/lighthouse.jpg"
   },
   {
-    "name": "testing_ground",
+    "name": "rocket_grounds",
     "location_size": 30,
     "location_border_thickness": 4,
     "img": "images/maps/east/testing_ground.jpg"
@@ -245,7 +245,7 @@
     "img": "images/maps/north/west_cottage.jpg"
   },
   {
-    "name": "wooden_bridge",
+    "name": "wood_bridge",
     "location_size": 30,
     "location_border_thickness": 4,
     "img": "images/maps/north/wooden_bridge.jpg"

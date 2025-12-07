@@ -1,0 +1,210 @@
+[
+  {
+    "name": "Museum",
+    "children": [
+      {
+        "name": "Around Near Unlit Lantern",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "museum",
+            "x": 77,
+            "y": 121
+          }
+        ]
+      },
+      {
+        "name": "Around Behind Sign",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "museum",
+            "x": 244,
+            "y": 173
+          }
+        ]
+      },
+      {
+        "name": "Around Near Platform",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "museum",
+            "x": 353,
+            "y": 123
+          }
+        ]
+      },
+      {
+        "name": "Around Near Trees",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "museum",
+            "x": 559,
+            "y": 155
+          }
+        ]
+      },
+      {
+        "name": "Around Behind Museum",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "museum",
+            "x": 440,
+            "y": 299
+          }
+        ]
+      },
+      {
+        "name": "Inside Near Mutiny Note",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "museum",
+            "x": 315,
+            "y": 355
+          }
+        ]
+      },
+      {
+        "name": "Inside Under Stairs",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "museum",
+            "x": 390,
+            "y": 293
+          }
+        ]
+      },
+      {
+        "name": "Inside On Table",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "museum",
+            "x": 393,
+            "y": 212
+          }
+        ]
+      },
+      {
+        "name": "Inside Behind Tables",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "museum",
+            "x": 376,
+            "y": 171
+          }
+        ]
+      },
+      {
+        "name": "Inside On Balcony",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "museum",
+            "x": 369,
+            "y": 144
+          }
+        ]
+      },
+      {
+        "name": "Hill 1",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "museum",
+            "x": 1064,
+            "y": 273
+          }
+        ]
+      },
+      {
+        "name": "Hill 2",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "museum",
+            "x": 994,
+            "y": 324
+          }
+        ]
+      },
+      {
+        "name": "Paul",
+        "sections": [
+        {
+          "name": "Mission Start",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        },
+        {
+          "name": "Mission End",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png",
+          "access_rules": ["explosives"]
+        }
+        ],
+        "map_locations": [
+          {
+            "map": "museum",
+            "x": 309,
+            "y": 184
+          }
+        ]
+      }
+    ] 
+  }
+]

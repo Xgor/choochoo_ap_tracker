@@ -1,0 +1,531 @@
+[
+  {
+    "name": "Temple",
+    "children": [
+      {
+        "name": "Chest",
+        "sections": [{
+          "item_count": 3,
+          "access_rules": ["lockpicks"]
+        }],
+        "map_locations": [
+          {
+            "map": "temple",
+            "x": 367,
+            "y": 0
+          }
+        ]
+      },
+      {
+        "name": "Around Southwest On Path",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "temple",
+            "x": 16,
+            "y": 470
+          }
+        ]
+      },
+      {
+        "name": "Around South Lonely",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "temple",
+            "x": 460,
+            "y": 472
+          }
+        ]
+      },
+      {
+        "name": "Around Southeast Between Tents",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "temple",
+            "x": 531,
+            "y": 390
+          }
+        ]
+      },
+      {
+        "name": "Around East Near Sheltered Boxes",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "temple",
+            "x": 593,
+            "y": 305
+          }
+        ]
+      },
+      {
+        "name": "Around East Between Sheltered Junks",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "temple",
+            "x": 598,
+            "y": 273
+          }
+        ]
+      },
+      {
+        "name": "Around East Near Barriers",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "temple",
+            "x": 646,
+            "y": 161
+          }
+        ]
+      },
+      {
+        "name": "Around West Near Rest Shelter Door",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "temple",
+            "x": 139,
+            "y": 181
+          }
+        ]
+      },
+      {
+        "name": "Around West Near Rest Shelter Beds",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "temple",
+            "x": 156,
+            "y": 227
+          }
+        ]
+      },
+      {
+        "name": "Around West In Explosive Shelter",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "temple",
+            "x": 179,
+            "y": 144
+          }
+        ]
+      },
+      {
+        "name": "Around West In Empty Shelter",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "temple",
+            "x": 150,
+            "y": 109
+          }
+        ]
+      },
+      {
+        "name": "Around Northwest On Path",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "temple",
+            "x": 273,
+            "y": 19
+          }
+        ]
+      },
+      {
+        "name": "Around North Behind Beams",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "temple",
+            "x": 368,
+            "y": 35
+          }
+        ]
+      },
+      {
+        "name": "Around North Near House Door",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "temple",
+            "x": 349,
+            "y": 12
+          }
+        ]
+      },
+      {
+        "name": "Around North Between House Lockers",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "temple",
+            "x": 389,
+            "y": 13
+          }
+        ]
+      },
+      {
+        "name": "Around West Near Shelters",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "temple",
+            "x": 208,
+            "y": 111
+          }
+        ]
+      },
+      {
+        "name": "Top Northwest Under Lantern",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "temple",
+            "x": 312,
+            "y": 198
+          }
+        ]
+      },
+      {
+        "name": "Top North On Scaffolding",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "temple",
+            "x": 371,
+            "y": 174
+          }
+        ]
+      },
+      {
+        "name": "Top Northeast Near Telescope",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "temple",
+            "x": 421,
+            "y": 224
+          }
+        ]
+      },
+      {
+        "name": "Top Southeast Near Boxes",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "temple",
+            "x": 409,
+            "y": 279
+          }
+        ]
+      },
+      {
+        "name": "Top South On Scaffolding",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "temple",
+            "x": 366,
+            "y": 334
+          }
+        ]
+      },
+      {
+        "name": "Top Southwest Near Lantern",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "temple",
+            "x": 310,
+            "y": 309
+          }
+        ]
+      },
+      {
+        "name": "Middle Topmost",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "temple",
+            "x": 388,
+            "y": 278
+          }
+        ]
+      },
+      {
+        "name": "Bottom Northeast Under Stairs",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "temple",
+            "x": 431,
+            "y": 163
+          }
+        ]
+      },
+      {
+        "name": "Bottom Northeast In Corner",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "temple",
+            "x": 445,
+            "y": 231
+          }
+        ]
+      },
+      {
+        "name": "Bottom Southeast Near Crates",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "temple",
+            "x": 410,
+            "y": 341
+          }
+        ]
+      },
+      {
+        "name": "Around South Foot Of Stairs",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "temple",
+            "x": 348,
+            "y": 388
+          }
+        ]
+      },
+      {
+        "name": "Bottom Northwest In Clover",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "temple",
+            "x": 285,
+            "y": 164
+          }
+        ]
+      },
+      {
+        "name": "Around Northeast Near Tables Outside",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "temple",
+            "x": 535,
+            "y": 167
+          }
+        ]
+      },
+      {
+        "name": "Around Northeast Under House Roof",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "temple",
+            "x": 589,
+            "y": 181
+          }
+        ]
+      },
+      {
+        "name": "Around Northeast Between Crates Inside",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "temple",
+            "x": 552,
+            "y": 194
+          }
+        ]
+      },
+      {
+        "name": "Around Northeast Near Table Inside",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "temple",
+            "x": 568,
+            "y": 158
+          }
+        ]
+      },
+      {
+        "name": "Around Northeast Near Beams 1",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "temple",
+            "x": 475,
+            "y": 118
+          }
+        ]
+      },
+      {
+        "name": "Around Northeast Near Beams 2",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "temple",
+            "x": 507,
+            "y": 121
+          }
+        ]
+      },
+      {
+        "name": "Around East On Path",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "temple",
+            "x": 745,
+            "y": 169
+          }
+        ]
+      }
+    ]
+  }
+]

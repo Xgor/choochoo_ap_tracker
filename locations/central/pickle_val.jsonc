@@ -1,38 +1,9 @@
 [
   {
-    "name": "Port",
+    "name": "Pickle Val",
     "children": [
       {
-        "name": "Santiago",
-        "sections": [{
-          "access_rules": ["journal"],
-          "chest_unopened_img": "images/chests/scraps.png",
-          "chest_opened_img": "images/chests/scraps_true.png"
-        }],
-        "map_locations": [
-          {
-            "map": "port",
-            "x": 730,
-            "y": 315
-          }
-        ]
-      },
-      {
-        "name": "Paint Can",
-        "sections": [{
-          "chest_unopened_img": "images/chests/scraps.png",
-          "chest_opened_img": "images/chests/scraps_true.png"
-        }],
-        "map_locations": [
-          {
-            "map": "port",
-            "x": 560,
-            "y": 330
-          }
-        ]
-      },
-      {
-        "name": "Station Near Shelter",
+        "name": "House Near Platform",
         "sections": [{
           "name": "Scraps",
           "chest_unopened_img": "images/chests/scraps.png",
@@ -40,14 +11,14 @@
         }],
         "map_locations": [
           {
-            "map": "port",
-            "x": 121,
-            "y": 183
+            "map": "pickle_val",
+            "x": 864,
+            "y": 211
           }
         ]
       },
       {
-        "name": "Station Half Sheltered",
+        "name": "House Near Water Tank",
         "sections": [{
           "name": "Scraps",
           "chest_unopened_img": "images/chests/scraps.png",
@@ -55,14 +26,14 @@
         }],
         "map_locations": [
           {
-            "map": "port",
-            "x": 147,
-            "y": 165
+            "map": "pickle_val",
+            "x": 803,
+            "y": 173
           }
         ]
       },
       {
-        "name": "Station Near Tent",
+        "name": "Main Path Under Unlit Lantern",
         "sections": [{
           "name": "Scraps",
           "chest_unopened_img": "images/chests/scraps.png",
@@ -70,14 +41,14 @@
         }],
         "map_locations": [
           {
-            "map": "port",
-            "x": 103,
-            "y": 61
+            "map": "pickle_val",
+            "x": 726,
+            "y": 102
           }
         ]
       },
       {
-        "name": "Station Near Beams",
+        "name": "Main Path On Rocks",
         "sections": [{
           "name": "Scraps",
           "chest_unopened_img": "images/chests/scraps.png",
@@ -85,89 +56,14 @@
         }],
         "map_locations": [
           {
-            "map": "port",
-            "x": 46,
-            "y": 32
-          }
-        ]
-      },
-      {
-        "name": "Station Near Note",
-        "sections": [{
-          "name": "Scraps",
-          "chest_unopened_img": "images/chests/scraps.png",
-          "chest_opened_img": "images/chests/scraps_true.png"
-        }],
-        "map_locations": [
-          {
-            "map": "port",
-            "x": 79,
-            "y": 117
-          }
-        ]
-      },
-      {
-        "name": "Path Summit",
-        "sections": [{
-          "name": "Scraps",
-          "chest_unopened_img": "images/chests/scraps.png",
-          "chest_opened_img": "images/chests/scraps_true.png"
-        }],
-        "map_locations": [
-          {
-            "map": "port",
-            "x": 279,
-            "y": 518
-          }
-        ]
-      },
-      {
-        "name": "Path Near Lit Lantern",
-        "sections": [{
-          "name": "Scraps",
-          "chest_unopened_img": "images/chests/scraps.png",
-          "chest_opened_img": "images/chests/scraps_true.png"
-        }],
-        "map_locations": [
-          {
-            "map": "port",
-            "x": 313,
-            "y": 359
-          }
-        ]
-      },
-      {
-        "name": "Path Under Unlit Lantern",
-        "sections": [{
-          "name": "Scraps",
-          "chest_unopened_img": "images/chests/scraps.png",
-          "chest_opened_img": "images/chests/scraps_true.png"
-        }],
-        "map_locations": [
-          {
-            "map": "port",
-            "x": 456,
-            "y": 586
-          }
-        ]
-      },
-      {
-        "name": "Path Near Tent",
-        "sections": [{
-          "name": "Scraps",
-          "chest_unopened_img": "images/chests/scraps.png",
-          "chest_opened_img": "images/chests/scraps_true.png"
-        }],
-        "map_locations": [
-          {
-            "map": "port",
+            "map": "pickle_val",
             "x": 628,
-            "y": 489
+            "y": 120
           }
         ]
       },
       {
-        "name": "Docks Near Shelter",
+        "name": "Main Path Under Lit Lantern",
         "sections": [{
           "name": "Scraps",
           "chest_unopened_img": "images/chests/scraps.png",
@@ -175,14 +71,14 @@
         }],
         "map_locations": [
           {
-            "map": "port",
-            "x": 536,
-            "y": 381
+            "map": "pickle_val",
+            "x": 502,
+            "y": 89
           }
         ]
       },
       {
-        "name": "Docks Sheltered",
+        "name": "Main Path Behind Barrier",
         "sections": [{
           "name": "Scraps",
           "chest_unopened_img": "images/chests/scraps.png",
@@ -190,14 +86,14 @@
         }],
         "map_locations": [
           {
-            "map": "port",
-            "x": 529,
-            "y": 330
+            "map": "pickle_val",
+            "x": 337,
+            "y": 125
           }
         ]
       },
       {
-        "name": "Docks Platform Start",
+        "name": "Rising Slope Path Intersection",
         "sections": [{
           "name": "Scraps",
           "chest_unopened_img": "images/chests/scraps.png",
@@ -205,14 +101,14 @@
         }],
         "map_locations": [
           {
-            "map": "port",
-            "x": 676,
-            "y": 366
+            "map": "pickle_val",
+            "x": 332,
+            "y": 192
           }
         ]
       },
       {
-        "name": "Docks Under Platform",
+        "name": "Rising Slope Path Under Sign",
         "sections": [{
           "name": "Scraps",
           "chest_unopened_img": "images/chests/scraps.png",
@@ -220,14 +116,14 @@
         }],
         "map_locations": [
           {
-            "map": "port",
-            "x": 710,
-            "y": 317
+            "map": "pickle_val",
+            "x": 298,
+            "y": 433
           }
         ]
       },
       {
-        "name": "Docks Near Beds",
+        "name": "Cross-Val Path Near Two Signs",
         "sections": [{
           "name": "Scraps",
           "chest_unopened_img": "images/chests/scraps.png",
@@ -235,14 +131,14 @@
         }],
         "map_locations": [
           {
-            "map": "port",
-            "x": 658,
-            "y": 276
+            "map": "pickle_val",
+            "x": 166,
+            "y": 681
           }
         ]
       },
       {
-        "name": "Docks Between Lanterns",
+        "name": "Cross-Val Path Near Tent",
         "sections": [{
           "name": "Scraps",
           "chest_unopened_img": "images/chests/scraps.png",
@@ -250,14 +146,14 @@
         }],
         "map_locations": [
           {
-            "map": "port",
-            "x": 782,
-            "y": 286
+            "map": "pickle_val",
+            "x": 198,
+            "y": 416
           }
         ]
       },
       {
-        "name": "Docks Near Crates",
+        "name": "Cross-Val Path Unstacked Crates",
         "sections": [{
           "name": "Scraps",
           "chest_unopened_img": "images/chests/scraps.png",
@@ -265,14 +161,14 @@
         }],
         "map_locations": [
           {
-            "map": "port",
-            "x": 876,
-            "y": 276
+            "map": "pickle_val",
+            "x": 237,
+            "y": 374
           }
         ]
       },
       {
-        "name": "Docks On Gangway",
+        "name": "Main Path Under High Tree",
         "sections": [{
           "name": "Scraps",
           "chest_unopened_img": "images/chests/scraps.png",
@@ -280,14 +176,14 @@
         }],
         "map_locations": [
           {
-            "map": "port",
-            "x": 845,
-            "y": 212
+            "map": "pickle_val",
+            "x": 139,
+            "y": 423
           }
         ]
       },
       {
-        "name": "Docks Behind House",
+        "name": "Main Path Near Beams",
         "sections": [{
           "name": "Scraps",
           "chest_unopened_img": "images/chests/scraps.png",
@@ -295,14 +191,14 @@
         }],
         "map_locations": [
           {
-            "map": "port",
-            "x": 645,
-            "y": 248
+            "map": "pickle_val",
+            "x": 166,
+            "y": 494
           }
         ]
       },
       {
-        "name": "Docks In Gangway Corner",
+        "name": "Cave Near Crates",
         "sections": [{
           "name": "Scraps",
           "chest_unopened_img": "images/chests/scraps.png",
@@ -310,9 +206,189 @@
         }],
         "map_locations": [
           {
-            "map": "port",
-            "x": 899,
-            "y": 185
+            "map": "pickle_val",
+            "shape": "trapezoid",
+            "x": 49,
+            "y": 421
+          }
+        ]
+      },
+      {
+        "name": "Cave Near Table",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "pickle_val",
+            "shape": "trapezoid",
+            "x": 50,
+            "y": 387
+          }
+        ]
+      },
+      {
+        "name": "Cross-Val Path Near Small Tree",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "pickle_val",
+            "x": 189,
+            "y": 209
+          }
+        ]
+      },
+      {
+        "name": "Lower Hollow Path Near Explosives",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "pickle_val",
+            "x": 262,
+            "y": 96
+          }
+        ]
+      },
+      {
+        "name": "Lower Hollow Path Near Lantern",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "pickle_val",
+            "x": 289,
+            "y": 30
+          }
+        ]
+      },
+      {
+        "name": "Cross-Val Path Under Sign",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "pickle_val",
+            "x": 222,
+            "y": 120
+          }
+        ]
+      },
+      {
+        "name": "Main Path Near Crossroads Crates",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "pickle_val",
+            "x": 243,
+            "y": 231
+          }
+        ]
+      },
+      {
+        "name": "Height Above Pickle Cave",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "pickle_val",
+            "x": 76,
+            "y": 504
+          }
+        ]
+      },
+      {
+        "name": "House Inside Near Table",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "pickle_val",
+            "x": 841,
+            "y": 215
+          }
+        ]
+      },
+      {
+        "name": "House Inside Near Beds",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "pickle_val",
+            "x": 829,
+            "y": 191
+          }
+        ]
+      },
+      {
+        "name": "Purple Paint Can",
+        "sections": [{
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "pickle_val",
+            "x": 129,
+            "y": 452
+          }
+        ]
+      },
+      {
+        "name": "Jar of Pickles",
+        "sections": [{
+          "chest_unopened_img": "images/items/pickles.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "pickle_val",
+            "x": 94,
+            "y": 429
+          }
+        ]
+      },
+      {
+        "name": "Pickle Lady Mission End",
+        "sections": [{
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png",
+          "access_rules": ["pickles"]
+        }],
+        "map_locations": [
+          {
+            "map": "pickle_val",
+            "x": 838,
+            "y": 161
           }
         ]
       }

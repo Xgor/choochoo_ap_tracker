@@ -1,0 +1,142 @@
+[
+  {
+    "name": "Mine Elevator Exit",
+    "children": [
+      {
+        "name": "Near Campfire",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "mine_elevator_exit",
+            "x": 595,
+            "y": 412
+          }
+        ]
+      },
+      {
+        "name": "Behind Shelter",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "mine_elevator_exit",
+            "x": 469,
+            "y": 410
+          }
+        ]
+      },
+      {
+        "name": "Near Tents",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "mine_elevator_exit",
+            "x": 572,
+            "y": 290
+          }
+        ]
+      },
+      {
+        "name": "Sheltered",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "mine_elevator_exit",
+            "x": 434,
+            "y": 378
+          }
+        ]
+      },
+      {
+        "name": "Near Hole",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "mine_elevator_exit",
+            "x": 344,
+            "y": 258
+          }
+        ]
+      },
+      {
+        "name": "Behind Minecart",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "mine_elevator_exit",
+            "x": 262,
+            "y": 180
+          }
+        ]
+      },
+      {
+        "name": "Behind Dirt Heaps",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "mine_elevator_exit",
+            "x": 142,
+            "y": 212
+          }
+        ]
+      },
+      {
+        "name": "Behind Rocks",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "mine_elevator_exit",
+            "x": 330,
+            "y": 480
+          }
+        ]
+      },
+      {
+        "name": "On Downhill Path",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "mine_elevator_exit",
+            "x": 531,
+            "y": 29
+          }
+        ]
+      }
+    ] 
+  }
+]

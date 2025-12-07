@@ -1,0 +1,97 @@
+[
+  {
+    "name": "Barbed Shelter",
+    "children": [
+      {
+        "name": "Gertrude",
+        "sections": [{
+          "name": "Mission Start",
+          "chest_unopened_img": "images/items/bob.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "barbed_shelter",
+            "x": 405,
+            "y": 134
+          }
+        ]
+      },
+      {
+        "name": "Near Rails",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "barbed_shelter",
+            "x": 732,
+            "y": 32
+          }
+        ]
+      },
+      {
+        "name": "Under Barbed Wire",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "barbed_shelter",
+            "x": 340,
+            "y": 158
+          }
+        ]
+      },
+      {
+        "name": "On Path",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "barbed_shelter",
+            "x": 125,
+            "y": 247
+          }
+        ]
+      },
+      {
+        "name": "Behind Beams",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "barbed_shelter",
+            "x": 408,
+            "y": 326
+          }
+        ]
+      },
+      {
+        "name": "Sheltered",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "barbed_shelter",
+            "x": 319,
+            "y": 200
+          }
+        ]
+      }
+    ] 
+  }
+]

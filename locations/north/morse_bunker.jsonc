@@ -1,0 +1,219 @@
+[
+  {
+    "name": "Morse Bunker",
+    "children": [
+      {
+        "name": "Chest",
+        "sections": [{
+            "item_count": 5,
+            "access_rules": ["lockpicks"]
+        }],
+        "map_locations": [
+          {
+            "map": "morse_bunker",
+            "shape": "trapezoid",
+            "x": 116,
+            "y": 115
+          }
+        ]
+      },
+      {
+        "name": "Inside Near Morse Note",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "morse_bunker",
+            "shape": "trapezoid",
+            "x": 136,
+            "y": 109
+          }
+        ]
+      },
+      {
+        "name": "Inside Near Minecart",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "morse_bunker",
+            "shape": "trapezoid",
+            "x": 123,
+            "y": 138
+          }
+        ]
+      },
+      {
+        "name": "Near Short Barriers",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "morse_bunker",
+            "x": 180,
+            "y": 166
+          }
+        ]
+      },
+      {
+        "name": "Under Tree",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "morse_bunker",
+            "x": 200,
+            "y": 112
+          }
+        ]
+      },
+      {
+        "name": "Above Doors",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "morse_bunker",
+            "x": 141,
+            "y": 132
+          }
+        ]
+      },
+      {
+        "name": "Downhill Path Near",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "morse_bunker",
+            "x": 236,
+            "y": 251
+          }
+        ]
+      },
+      {
+        "name": "Main Path",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "morse_bunker",
+            "x": 308,
+            "y": 136
+          }
+        ]
+      },
+      {
+        "name": "Near Long Barrier",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "morse_bunker",
+            "x": 389,
+            "y": 224
+          }
+        ]
+      },
+      {
+        "name": "At Crossroads",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "morse_bunker",
+            "x": 309,
+            "y": 401
+          }
+        ]
+      },
+      {
+        "name": "Downhill Path Top",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "morse_bunker",
+            "x": 213,
+            "y": 309
+          }
+        ]
+      },
+      {
+        "name": "Downhill Path Bottom",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "morse_bunker",
+            "x": 57,
+            "y": 224
+          }
+        ]
+      },
+      {
+        "name": "On Rocks",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "morse_bunker",
+            "x": 236,
+            "y": 70
+          }
+        ]
+      },
+      {
+        "name": "Under Lantern",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "morse_bunker",
+            "x": 414,
+            "y": 91
+          }
+        ]
+      }
+    ] 
+  }
+]

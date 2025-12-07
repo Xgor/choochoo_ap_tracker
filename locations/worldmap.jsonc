@@ -1026,11 +1026,11 @@
         "sections": [
           {
             "name": "Outside",
-            "item_count": 13
+            "item_count": 15
           },
           {
             "name": "Inside",
-            "item_count": 13,
+            "item_count": 14,
             "access_rules": ["north_mine_key"]
           },
           {

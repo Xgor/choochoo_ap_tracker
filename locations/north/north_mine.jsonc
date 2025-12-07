@@ -1,38 +1,37 @@
 [
   {
-    "name": "Port",
+    "name": "North Mine",
     "children": [
       {
-        "name": "Santiago",
-        "sections": [{
-          "access_rules": ["journal"],
-          "chest_unopened_img": "images/chests/scraps.png",
-          "chest_opened_img": "images/chests/scraps_true.png"
-        }],
+        "name": "Inside",
+        "access_rules": ["north_mine_key"],
+        "sections": [
+          {
+            "name": "Scraps",
+            "item_count": 13
+          },
+          {
+            "name": "Blue Paint Can",
+            "item_count": 1,
+            "access_rules": ["lockpicks"]
+          },
+          {
+            "name": "Blue Egg",
+            "item_count": 1
+          }
+        ],
         "map_locations": [
           {
-            "map": "port",
-            "x": 730,
-            "y": 315
+            "map": "north_mine",
+            "size": 45,
+            "shape": "trapezoid",
+            "x": 318,
+            "y": 595
           }
         ]
       },
       {
-        "name": "Paint Can",
-        "sections": [{
-          "chest_unopened_img": "images/chests/scraps.png",
-          "chest_opened_img": "images/chests/scraps_true.png"
-        }],
-        "map_locations": [
-          {
-            "map": "port",
-            "x": 560,
-            "y": 330
-          }
-        ]
-      },
-      {
-        "name": "Station Near Shelter",
+        "name": "South Near Crossroads",
         "sections": [{
           "name": "Scraps",
           "chest_unopened_img": "images/chests/scraps.png",
@@ -40,14 +39,14 @@
         }],
         "map_locations": [
           {
-            "map": "port",
-            "x": 121,
-            "y": 183
+            "map": "north_mine",
+            "x": 654,
+            "y": 864
           }
         ]
       },
       {
-        "name": "Station Half Sheltered",
+        "name": "South On Downhill Path 1",
         "sections": [{
           "name": "Scraps",
           "chest_unopened_img": "images/chests/scraps.png",
@@ -55,14 +54,14 @@
         }],
         "map_locations": [
           {
-            "map": "port",
-            "x": 147,
-            "y": 165
+            "map": "north_mine",
+            "x": 558,
+            "y": 855
           }
         ]
       },
       {
-        "name": "Station Near Tent",
+        "name": "South Above Door",
         "sections": [{
           "name": "Scraps",
           "chest_unopened_img": "images/chests/scraps.png",
@@ -70,14 +69,14 @@
         }],
         "map_locations": [
           {
-            "map": "port",
-            "x": 103,
-            "y": 61
+            "map": "north_mine",
+            "x": 321,
+            "y": 636
           }
         ]
       },
       {
-        "name": "Station Near Beams",
+        "name": "South On Downhill Path 2",
         "sections": [{
           "name": "Scraps",
           "chest_unopened_img": "images/chests/scraps.png",
@@ -85,14 +84,14 @@
         }],
         "map_locations": [
           {
-            "map": "port",
-            "x": 46,
-            "y": 32
+            "map": "north_mine",
+            "x": 275,
+            "y": 740
           }
         ]
       },
       {
-        "name": "Station Near Note",
+        "name": "South On Downhill Path 3",
         "sections": [{
           "name": "Scraps",
           "chest_unopened_img": "images/chests/scraps.png",
@@ -100,14 +99,14 @@
         }],
         "map_locations": [
           {
-            "map": "port",
-            "x": 79,
-            "y": 117
+            "map": "north_mine",
+            "x": 179,
+            "y": 668
           }
         ]
       },
       {
-        "name": "Path Summit",
+        "name": "South Near Lantern",
         "sections": [{
           "name": "Scraps",
           "chest_unopened_img": "images/chests/scraps.png",
@@ -115,14 +114,14 @@
         }],
         "map_locations": [
           {
-            "map": "port",
-            "x": 279,
-            "y": 518
+            "map": "north_mine",
+            "x": 480,
+            "y": 653
           }
         ]
       },
       {
-        "name": "Path Near Lit Lantern",
+        "name": "Middle Near Shelter",
         "sections": [{
           "name": "Scraps",
           "chest_unopened_img": "images/chests/scraps.png",
@@ -130,14 +129,14 @@
         }],
         "map_locations": [
           {
-            "map": "port",
-            "x": 313,
-            "y": 359
+            "map": "north_mine",
+            "x": 444,
+            "y": 487
           }
         ]
       },
       {
-        "name": "Path Under Unlit Lantern",
+        "name": "Middle In Rock Pit",
         "sections": [{
           "name": "Scraps",
           "chest_unopened_img": "images/chests/scraps.png",
@@ -145,14 +144,14 @@
         }],
         "map_locations": [
           {
-            "map": "port",
-            "x": 456,
-            "y": 586
+            "map": "north_mine",
+            "x": 384,
+            "y": 377
           }
         ]
       },
       {
-        "name": "Path Near Tent",
+        "name": "North East On Arch Path",
         "sections": [{
           "name": "Scraps",
           "chest_unopened_img": "images/chests/scraps.png",
@@ -160,14 +159,14 @@
         }],
         "map_locations": [
           {
-            "map": "port",
-            "x": 628,
-            "y": 489
+            "map": "north_mine",
+            "x": 503,
+            "y": 297
           }
         ]
       },
       {
-        "name": "Docks Near Shelter",
+        "name": "North East Near Barrier",
         "sections": [{
           "name": "Scraps",
           "chest_unopened_img": "images/chests/scraps.png",
@@ -175,14 +174,14 @@
         }],
         "map_locations": [
           {
-            "map": "port",
-            "x": 536,
-            "y": 381
+            "map": "north_mine",
+            "x": 691,
+            "y": 122
           }
         ]
       },
       {
-        "name": "Docks Sheltered",
+        "name": "North East Near Pillars",
         "sections": [{
           "name": "Scraps",
           "chest_unopened_img": "images/chests/scraps.png",
@@ -190,14 +189,14 @@
         }],
         "map_locations": [
           {
-            "map": "port",
-            "x": 529,
-            "y": 330
+            "map": "north_mine",
+            "x": 537,
+            "y": 177
           }
         ]
       },
       {
-        "name": "Docks Platform Start",
+        "name": "Middle On Path",
         "sections": [{
           "name": "Scraps",
           "chest_unopened_img": "images/chests/scraps.png",
@@ -205,14 +204,14 @@
         }],
         "map_locations": [
           {
-            "map": "port",
-            "x": 676,
-            "y": 366
+            "map": "north_mine",
+            "x": 293,
+            "y": 422
           }
         ]
       },
       {
-        "name": "Docks Under Platform",
+        "name": "Middle Near Minecart",
         "sections": [{
           "name": "Scraps",
           "chest_unopened_img": "images/chests/scraps.png",
@@ -220,14 +219,14 @@
         }],
         "map_locations": [
           {
-            "map": "port",
-            "x": 710,
-            "y": 317
+            "map": "north_mine",
+            "x": 441,
+            "y": 310
           }
         ]
       },
       {
-        "name": "Docks Near Beds",
+        "name": "North East Sheltered",
         "sections": [{
           "name": "Scraps",
           "chest_unopened_img": "images/chests/scraps.png",
@@ -235,14 +234,14 @@
         }],
         "map_locations": [
           {
-            "map": "port",
-            "x": 658,
-            "y": 276
+            "map": "north_mine",
+            "x": 655,
+            "y": 66
           }
         ]
       },
       {
-        "name": "Docks Between Lanterns",
+        "name": "North East On Rocks",
         "sections": [{
           "name": "Scraps",
           "chest_unopened_img": "images/chests/scraps.png",
@@ -250,72 +249,13 @@
         }],
         "map_locations": [
           {
-            "map": "port",
-            "x": 782,
-            "y": 286
-          }
-        ]
-      },
-      {
-        "name": "Docks Near Crates",
-        "sections": [{
-          "name": "Scraps",
-          "chest_unopened_img": "images/chests/scraps.png",
-          "chest_opened_img": "images/chests/scraps_true.png"
-        }],
-        "map_locations": [
-          {
-            "map": "port",
-            "x": 876,
-            "y": 276
-          }
-        ]
-      },
-      {
-        "name": "Docks On Gangway",
-        "sections": [{
-          "name": "Scraps",
-          "chest_unopened_img": "images/chests/scraps.png",
-          "chest_opened_img": "images/chests/scraps_true.png"
-        }],
-        "map_locations": [
-          {
-            "map": "port",
-            "x": 845,
-            "y": 212
-          }
-        ]
-      },
-      {
-        "name": "Docks Behind House",
-        "sections": [{
-          "name": "Scraps",
-          "chest_unopened_img": "images/chests/scraps.png",
-          "chest_opened_img": "images/chests/scraps_true.png"
-        }],
-        "map_locations": [
-          {
-            "map": "port",
-            "x": 645,
-            "y": 248
-          }
-        ]
-      },
-      {
-        "name": "Docks In Gangway Corner",
-        "sections": [{
-          "name": "Scraps",
-          "chest_unopened_img": "images/chests/scraps.png",
-          "chest_opened_img": "images/chests/scraps_true.png"
-        }],
-        "map_locations": [
-          {
-            "map": "port",
-            "x": 899,
-            "y": 185
+            "map": "north_mine",
+            "x": 575,
+            "y": 373
           }
         ]
       }
+
     ] 
   }
 ]

@@ -1,24 +1,24 @@
 [
   {
-    "name": "Trench House",
+    "name": "Mine Shaft",
     "children": [
       {
-        "name": "South On Path 1",
+        "name": "Chest",
         "sections": [{
-          "name": "Scraps",
-          "chest_unopened_img": "images/chests/scraps.png",
-          "chest_opened_img": "images/chests/scraps_true.png"
+            "item_count": 7,
+            "access_rules": ["lockpicks"]
         }],
         "map_locations": [
           {
-            "map": "trench_house",
-            "x": 586,
-            "y": 1000
+            "map": "mine_shaft",
+            "shape": "trapezoid",
+            "x": 188,
+            "y": 336
           }
         ]
       },
       {
-        "name": "South On Path 2",
+        "name": "Outside Near Beams",
         "sections": [{
           "name": "Scraps",
           "chest_unopened_img": "images/chests/scraps.png",
@@ -26,14 +26,14 @@
         }],
         "map_locations": [
           {
-            "map": "trench_house",
-            "x": 566,
-            "y": 926
+            "map": "mine_shaft",
+            "x": 136,
+            "y": 490
           }
         ]
       },
       {
-        "name": "South On Path 3",
+        "name": "Outside Near Minecarts",
         "sections": [{
           "name": "Scraps",
           "chest_unopened_img": "images/chests/scraps.png",
@@ -41,14 +41,14 @@
         }],
         "map_locations": [
           {
-            "map": "trench_house",
-            "x": 466,
-            "y": 852
+            "map": "mine_shaft",
+            "x": 72,
+            "y": 473
           }
         ]
       },
       {
-        "name": "South Behind Rock",
+        "name": "Outside Near Platform",
         "sections": [{
           "name": "Scraps",
           "chest_unopened_img": "images/chests/scraps.png",
@@ -56,14 +56,14 @@
         }],
         "map_locations": [
           {
-            "map": "trench_house",
-            "x": 507,
-            "y": 666
+            "map": "mine_shaft",
+            "x": 186,
+            "y": 411
           }
         ]
       },
       {
-        "name": "South Lonely",
+        "name": "Outside Near Crates",
         "sections": [{
           "name": "Scraps",
           "chest_unopened_img": "images/chests/scraps.png",
@@ -71,14 +71,14 @@
         }],
         "map_locations": [
           {
-            "map": "trench_house",
-            "x": 403,
-            "y": 621
+            "map": "mine_shaft",
+            "x": 71,
+            "y": 423
           }
         ]
       },
       {
-        "name": "East Near Trench",
+        "name": "Inside Topmost",
         "sections": [{
           "name": "Scraps",
           "chest_unopened_img": "images/chests/scraps.png",
@@ -86,104 +86,31 @@
         }],
         "map_locations": [
           {
-            "map": "trench_house",
-            "x": 599,
-            "y": 375
+            "map": "mine_shaft",
+            "x": 104,
+            "y": 445
           }
         ]
       },
       {
-        "name": "West Near Shrine",
+        "name": "Inside After Freefall",
         "sections": [{
           "name": "Scraps",
+          
           "chest_unopened_img": "images/chests/scraps.png",
           "chest_opened_img": "images/chests/scraps_true.png"
         }],
         "map_locations": [
           {
-            "map": "trench_house",
-            "x": 248,
-            "y": 319
-          }
-        ]
-      },
-      {
-        "name": "West On Shrine",
-        "sections": [{
-          "name": "Scraps",
-          "chest_unopened_img": "images/chests/scraps.png",
-          "chest_opened_img": "images/chests/scraps_true.png"
-        }],
-        "map_locations": [
-          {
-            "map": "trench_house",
-            "x": 199,
-            "y": 381
-          }
-        ]
-      },
-      {
-        "name": "Middle Near Door",
-        "sections": [{
-          "name": "Scraps",
-          "chest_unopened_img": "images/chests/scraps.png",
-          "chest_opened_img": "images/chests/scraps_true.png"
-        }],
-        "map_locations": [
-          {
-            "map": "trench_house",
-            "x": 495,
-            "y": 440
-          }
-        ]
-      },
-      {
-        "name": "Middle Behind House",
-        "sections": [{
-          "name": "Scraps",
-          "chest_unopened_img": "images/chests/scraps.png",
-          "chest_opened_img": "images/chests/scraps_true.png"
-        }],
-        "map_locations": [
-          {
-            "map": "trench_house",
-            "x": 472,
-            "y": 351
-          }
-        ]
-      },
-      {
-        "name": "Middle Near Water Tank",
-        "sections": [{
-          "name": "Scraps",
-          "chest_unopened_img": "images/chests/scraps.png",
-          "chest_opened_img": "images/chests/scraps_true.png"
-        }],
-        "map_locations": [
-          {
-            "map": "trench_house",
-            "x": 429,
-            "y": 420
-          }
-        ]
-      },
-      {
-        "name": "Inside Under Table",
-        "sections": [{
-          "name": "Scraps",
-          "chest_unopened_img": "images/chests/scraps.png",
-          "chest_opened_img": "images/chests/scraps_true.png"
-        }],
-        "map_locations": [
-          {
-            "map": "trench_house",
-            "x": 470,
+            "map": "mine_shaft",
+            "shape": "trapezoid",
+            "x": 126,
             "y": 386
           }
         ]
       },
       {
-        "name": "Inside Above Stairs",
+        "name": "Inside Near Table",
         "sections": [{
           "name": "Scraps",
           "chest_unopened_img": "images/chests/scraps.png",
@@ -191,15 +118,15 @@
         }],
         "map_locations": [
           {
-            "map": "trench_house",
+            "map": "mine_shaft",
             "shape": "trapezoid",
-            "x": 446,
-            "y": 407
+            "x": 97,
+            "y": 338
           }
         ]
       },
       {
-        "name": "Inside Behind Crates",
+        "name": "Inside Near Chest",
         "sections": [{
           "name": "Scraps",
           "chest_unopened_img": "images/chests/scraps.png",
@@ -207,15 +134,15 @@
         }],
         "map_locations": [
           {
-            "map": "trench_house",
+            "map": "mine_shaft",
             "shape": "trapezoid",
-            "x": 486,
-            "y": 521
+            "x": 158,
+            "y": 336
           }
         ]
       },
       {
-        "name": "Inside Near Tables",
+        "name": "Inside On Rocks",
         "sections": [{
           "name": "Scraps",
           "chest_unopened_img": "images/chests/scraps.png",
@@ -223,14 +150,15 @@
         }],
         "map_locations": [
           {
-            "map": "trench_house",
-            "x": 535,
-            "y": 522
+            "map": "mine_shaft",
+            "shape": "trapezoid",
+            "x": 175,
+            "y": 290
           }
         ]
       },
       {
-        "name": "Northwest Under Lantern",
+        "name": "Inside Near Rails 1",
         "sections": [{
           "name": "Scraps",
           "chest_unopened_img": "images/chests/scraps.png",
@@ -238,14 +166,15 @@
         }],
         "map_locations": [
           {
-            "map": "trench_house",
-            "x": 108,
-            "y": 163
+            "map": "mine_shaft",
+            "shape": "trapezoid",
+            "x": 373,
+            "y": 174
           }
         ]
       },
       {
-        "name": "Northwest Near Rock",
+        "name": "Inside Near Rails 2",
         "sections": [{
           "name": "Scraps",
           "chest_unopened_img": "images/chests/scraps.png",
@@ -253,14 +182,15 @@
         }],
         "map_locations": [
           {
-            "map": "trench_house",
-            "x": 27,
-            "y": 21
+            "map": "mine_shaft",
+            "shape": "trapezoid",
+            "x": 457,
+            "y": 145
           }
         ]
       },
       {
-        "name": "Southwest Near Rock",
+        "name": "Inside Near Rails 3",
         "sections": [{
           "name": "Scraps",
           "chest_unopened_img": "images/chests/scraps.png",
@@ -268,23 +198,40 @@
         }],
         "map_locations": [
           {
-            "map": "trench_house",
-            "x": 83,
-            "y": 831
+            "map": "mine_shaft",
+            "shape": "trapezoid",
+            "x": 485,
+            "y": 121
           }
         ]
       },
       {
-        "name": "Chest",
+        "name": "Exit End Rails",
         "sections": [{
-          "access_rules": ["lockpicks"],
-          "item_count": 6
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
         }],
         "map_locations": [
           {
-            "map": "trench_house",
-            "x": 433,
-            "y": 375
+            "map": "mine_shaft",
+            "x": 521,
+            "y": 107
+          }
+        ]
+      },
+      {
+        "name": "Exit Near Minecart",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "mine_shaft",
+            "x": 546,
+            "y": 71
           }
         ]
       }

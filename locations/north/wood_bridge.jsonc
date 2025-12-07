@@ -1,0 +1,206 @@
+[
+  {
+    "name": "Wood Bridge",
+    "children": [
+      {
+        "name": "Arch Near Barrier",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "wood_bridge",
+            "x": 809,
+            "y": 310
+          }
+        ]
+      },
+      {
+        "name": "Arch On Path",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "wood_bridge",
+            "x": 656,
+            "y": 181
+          }
+        ]
+      },
+      {
+        "name": "Arch Left Pillar",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "wood_bridge",
+            "x": 588,
+            "y": 117
+          }
+        ]
+      },
+      {
+        "name": "Arch Right Pillar",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "wood_bridge",
+            "x": 454,
+            "y": 58
+          }
+        ]
+      },
+      {
+        "name": "Bottom Near High Tree",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "wood_bridge",
+            "x": 361,
+            "y": 624
+          }
+        ]
+      },
+      {
+        "name": "Bottom Near Small Tree",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "wood_bridge",
+            "x": 231,
+            "y": 540
+          }
+        ]
+      },
+      {
+        "name": "Bottom Further",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "wood_bridge",
+            "x": 38,
+            "y": 510
+          }
+        ]
+      },
+      {
+        "name": "Bottom Under Lantern",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "wood_bridge",
+            "x": 657,
+            "y": 795
+          }
+        ]
+      },
+      {
+        "name": "Top Under Lantern",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "wood_bridge",
+            "x": 321,
+            "y": 946
+          }
+        ]
+      },
+      {
+        "name": "Top Near Middle",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "wood_bridge",
+            "x": 323,
+            "y": 601
+          }
+        ]
+      },
+      {
+        "name": "Top Near Stairs",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "wood_bridge",
+            "x": 301,
+            "y": 434
+          }
+        ]
+      },
+      {
+        "name": "Scaffolding Near Stairs",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "wood_bridge",
+            "size": 40,
+            "shape": "trapezoid",
+            "x": 218,
+            "y": 711
+          }
+        ]
+      },
+      {
+        "name": "Scaffolding Near Middle",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "wood_bridge",
+            "size": 40,
+            "shape": "trapezoid",
+            "x": 316,
+            "y": 626
+          }
+        ]
+      }
+    ] 
+  }
+]

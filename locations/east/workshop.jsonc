@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Workshop",
+    "children": [
+      {
+        "name": "Sheltered",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "workshop",
+            "x": 413,
+            "y": 588
+          }
+        ]
+      },
+      {
+        "name": "On Platform",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "workshop",
+            "x": 427,
+            "y": 282
+          }
+        ]
+      },
+      {
+        "name": "On Side Path",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "workshop",
+            "x": 183,
+            "y": 53
+          }
+        ]
+      },
+      {
+        "name": "Near Water Tank",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "workshop",
+            "x": 228,
+            "y": 419
+          }
+        ]
+      },
+      {
+        "name": "Under Lantern",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "workshop",
+            "x": 92,
+            "y": 350
+          }
+        ]
+      },
+      {
+        "name": "Near Beds",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "workshop",
+            "x": 309,
+            "y": 426
+          }
+        ]
+      },
+      {
+        "name": "John Smith Mission End",
+        "sections": [{
+          "access_rules": ["rockets"],
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "workshop",
+            "x": 347,
+            "y": 386
+          }
+        ]
+      }
+    ] 
+  }
+]

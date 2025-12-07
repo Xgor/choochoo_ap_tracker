@@ -1,0 +1,141 @@
+[
+  {
+    "name": "West Beach",
+    "children": [
+      {
+        "name": "Chest",
+        "sections": [{
+            "item_count": 6,
+            "access_rules": ["lockpicks"]
+        }],
+        "map_locations": [
+          {
+            "map": "west_beach",
+            "x": 329,
+            "y": 232
+          }
+        ]
+      },
+      {
+        "name": "Top Near Footbridge 1",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "west_beach",
+            "x": 333,
+            "y": 195
+          }
+        ]
+      },
+      {
+        "name": "Top Near Footbridge 2",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "west_beach",
+            "x": 342,
+            "y": 269
+          }
+        ]
+      },
+      {
+        "name": "Bottom Foot Of Stairs",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "west_beach",
+            "x": 321,
+            "y": 287
+          }
+        ]
+      },
+      {
+        "name": "Bottom Near Minecart",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "west_beach",
+            "x": 263,
+            "y": 235
+          }
+        ]
+      },
+      {
+        "name": "Bottom In Corner",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "west_beach",
+            "x": 187,
+            "y": 245
+          }
+        ]
+      },
+      {
+        "name": "Laying On Sand",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "west_beach",
+            "x": 344,
+            "y": 481
+          }
+        ]
+      },
+      {
+        "name": "Laying Under Stairs",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "west_beach",
+            "x": 160,
+            "y": 313
+          }
+        ]
+      },
+      {
+        "name": "Top Near Beams",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "west_beach",
+            "x": 453,
+            "y": 69
+          }
+        ]
+      }
+    ] 
+  }
+]

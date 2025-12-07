@@ -1,0 +1,111 @@
+[
+  {
+    "name": "East Tower",
+    "children": [
+      {
+        "name": "Greg Mission Start",
+        "sections": [{
+          "chest_unopened_img": "images/items/key.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "east_tower",
+            "x": 180,
+            "y": 320
+          }
+        ]
+      },
+      {
+        "name": "Between Crates",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "east_tower",
+            "x": 70,
+            "y": 253
+          }
+        ]
+      },
+      {
+        "name": "Near Minecart",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "east_tower",
+            "x": 209,
+            "y": 393
+          }
+        ]
+      },
+      {
+        "name": "Near Barrier 1",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "east_tower",
+            "x": 529,
+            "y": 271
+          }
+        ]
+      },
+      {
+        "name": "Near Barrier 2",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "east_tower",
+            "x": 323,
+            "y": 69
+          }
+        ]
+      },
+      {
+        "name": "On Stairs",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "east_tower",
+            "x": 230,
+            "y": 371
+          }
+        ]
+      },
+      {
+        "name": "Near Note",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "east_tower",
+            "x": 172,
+            "y": 295
+          }
+        ]
+      }
+    ] 
+  }
+]

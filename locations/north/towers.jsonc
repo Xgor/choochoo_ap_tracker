@@ -1,38 +1,129 @@
 [
   {
-    "name": "Port",
+    "name": "Towers",
     "children": [
       {
-        "name": "Santiago",
+        "name": "Middle Under Footbridge",
         "sections": [{
-          "access_rules": ["journal"],
+          "name": "Scraps",
           "chest_unopened_img": "images/chests/scraps.png",
           "chest_opened_img": "images/chests/scraps_true.png"
         }],
         "map_locations": [
           {
-            "map": "port",
-            "x": 730,
-            "y": 315
+            "map": "towers",
+            "x": 246,
+            "y": 542
           }
         ]
       },
       {
-        "name": "Paint Can",
+        "name": "East On Downhill Path",
         "sections": [{
+          "name": "Scraps",
           "chest_unopened_img": "images/chests/scraps.png",
           "chest_opened_img": "images/chests/scraps_true.png"
         }],
         "map_locations": [
           {
-            "map": "port",
-            "x": 560,
+            "map": "towers",
+            "x": 433,
+            "y": 543
+          }
+        ]
+      },
+      {
+        "name": "East Near Beams",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "towers",
+            "x": 493,
+            "y": 430
+          }
+        ]
+      },
+      {
+        "name": "East Near Tree",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "towers",
+            "x": 487,
+            "y": 564
+          }
+        ]
+      },
+      {
+        "name": "East Under Lantern",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "towers",
+            "x": 563,
+            "y": 580
+          }
+        ]
+      },
+      {
+        "name": "Southeast Near Beams",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "towers",
+            "x": 303,
+            "y": 675
+          }
+        ]
+      },
+      {
+        "name": "Middle On Path",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "towers",
+            "x": 327,
+            "y": 462
+          }
+        ]
+      },
+      {
+        "name": "Northeast Near Barrier",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "towers",
+            "x": 404,
             "y": 330
           }
         ]
       },
       {
-        "name": "Station Near Shelter",
+        "name": "North On Rocks",
         "sections": [{
           "name": "Scraps",
           "chest_unopened_img": "images/chests/scraps.png",
@@ -40,14 +131,14 @@
         }],
         "map_locations": [
           {
-            "map": "port",
-            "x": 121,
-            "y": 183
+            "map": "towers",
+            "x": 291,
+            "y": 325
           }
         ]
       },
       {
-        "name": "Station Half Sheltered",
+        "name": "North Near Minecart",
         "sections": [{
           "name": "Scraps",
           "chest_unopened_img": "images/chests/scraps.png",
@@ -55,14 +146,14 @@
         }],
         "map_locations": [
           {
-            "map": "port",
-            "x": 147,
-            "y": 165
+            "map": "towers",
+            "x": 197,
+            "y": 325
           }
         ]
       },
       {
-        "name": "Station Near Tent",
+        "name": "North On Path",
         "sections": [{
           "name": "Scraps",
           "chest_unopened_img": "images/chests/scraps.png",
@@ -70,14 +161,14 @@
         }],
         "map_locations": [
           {
-            "map": "port",
-            "x": 103,
-            "y": 61
+            "map": "towers",
+            "x": 134,
+            "y": 164
           }
         ]
       },
       {
-        "name": "Station Near Beams",
+        "name": "Northwest On Rocks",
         "sections": [{
           "name": "Scraps",
           "chest_unopened_img": "images/chests/scraps.png",
@@ -85,44 +176,58 @@
         }],
         "map_locations": [
           {
-            "map": "port",
-            "x": 46,
-            "y": 32
+            "map": "towers",
+            "x": 98,
+            "y": 450
           }
         ]
       },
       {
-        "name": "Station Near Note",
-        "sections": [{
-          "name": "Scraps",
-          "chest_unopened_img": "images/chests/scraps.png",
-          "chest_opened_img": "images/chests/scraps_true.png"
-        }],
+        "name": "Left Tower",
+        "sections": [
+          {
+            "name": "Scraps",
+            "item_count": 7,
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png"
+          },
+          {
+            "name": "Employment Contracts"
+          }
+        ],
         "map_locations": [
           {
-            "map": "port",
-            "x": 79,
-            "y": 117
+            "map": "towers",
+            "size": 60,
+            "x": 275,
+            "y": 444
           }
         ]
       },
       {
-        "name": "Path Summit",
-        "sections": [{
-          "name": "Scraps",
-          "chest_unopened_img": "images/chests/scraps.png",
-          "chest_opened_img": "images/chests/scraps_true.png"
-        }],
+        "name": "Right Tower",
+        "sections": [
+          {
+            "name": "Scraps",
+            "item_count": 6,
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png"
+          },
+          {
+            "name": "Lime Paint Can"
+          }
+        ],
         "map_locations": [
           {
-            "map": "port",
-            "x": 279,
-            "y": 518
+            "map": "towers",
+            "size": 60,
+            "x": 356,
+            "y": 508
           }
         ]
       },
       {
-        "name": "Path Near Lit Lantern",
+        "name": "Northeast Under Lit Lantern",
         "sections": [{
           "name": "Scraps",
           "chest_unopened_img": "images/chests/scraps.png",
@@ -130,189 +235,39 @@
         }],
         "map_locations": [
           {
-            "map": "port",
-            "x": 313,
-            "y": 359
-          }
-        ]
-      },
-      {
-        "name": "Path Under Unlit Lantern",
-        "sections": [{
-          "name": "Scraps",
-          "chest_unopened_img": "images/chests/scraps.png",
-          "chest_opened_img": "images/chests/scraps_true.png"
-        }],
-        "map_locations": [
-          {
-            "map": "port",
-            "x": 456,
-            "y": 586
-          }
-        ]
-      },
-      {
-        "name": "Path Near Tent",
-        "sections": [{
-          "name": "Scraps",
-          "chest_unopened_img": "images/chests/scraps.png",
-          "chest_opened_img": "images/chests/scraps_true.png"
-        }],
-        "map_locations": [
-          {
-            "map": "port",
-            "x": 628,
-            "y": 489
-          }
-        ]
-      },
-      {
-        "name": "Docks Near Shelter",
-        "sections": [{
-          "name": "Scraps",
-          "chest_unopened_img": "images/chests/scraps.png",
-          "chest_opened_img": "images/chests/scraps_true.png"
-        }],
-        "map_locations": [
-          {
-            "map": "port",
-            "x": 536,
-            "y": 381
-          }
-        ]
-      },
-      {
-        "name": "Docks Sheltered",
-        "sections": [{
-          "name": "Scraps",
-          "chest_unopened_img": "images/chests/scraps.png",
-          "chest_opened_img": "images/chests/scraps_true.png"
-        }],
-        "map_locations": [
-          {
-            "map": "port",
-            "x": 529,
-            "y": 330
-          }
-        ]
-      },
-      {
-        "name": "Docks Platform Start",
-        "sections": [{
-          "name": "Scraps",
-          "chest_unopened_img": "images/chests/scraps.png",
-          "chest_opened_img": "images/chests/scraps_true.png"
-        }],
-        "map_locations": [
-          {
-            "map": "port",
-            "x": 676,
-            "y": 366
-          }
-        ]
-      },
-      {
-        "name": "Docks Under Platform",
-        "sections": [{
-          "name": "Scraps",
-          "chest_unopened_img": "images/chests/scraps.png",
-          "chest_opened_img": "images/chests/scraps_true.png"
-        }],
-        "map_locations": [
-          {
-            "map": "port",
-            "x": 710,
-            "y": 317
-          }
-        ]
-      },
-      {
-        "name": "Docks Near Beds",
-        "sections": [{
-          "name": "Scraps",
-          "chest_unopened_img": "images/chests/scraps.png",
-          "chest_opened_img": "images/chests/scraps_true.png"
-        }],
-        "map_locations": [
-          {
-            "map": "port",
-            "x": 658,
-            "y": 276
-          }
-        ]
-      },
-      {
-        "name": "Docks Between Lanterns",
-        "sections": [{
-          "name": "Scraps",
-          "chest_unopened_img": "images/chests/scraps.png",
-          "chest_opened_img": "images/chests/scraps_true.png"
-        }],
-        "map_locations": [
-          {
-            "map": "port",
-            "x": 782,
-            "y": 286
-          }
-        ]
-      },
-      {
-        "name": "Docks Near Crates",
-        "sections": [{
-          "name": "Scraps",
-          "chest_unopened_img": "images/chests/scraps.png",
-          "chest_opened_img": "images/chests/scraps_true.png"
-        }],
-        "map_locations": [
-          {
-            "map": "port",
-            "x": 876,
-            "y": 276
-          }
-        ]
-      },
-      {
-        "name": "Docks On Gangway",
-        "sections": [{
-          "name": "Scraps",
-          "chest_unopened_img": "images/chests/scraps.png",
-          "chest_opened_img": "images/chests/scraps_true.png"
-        }],
-        "map_locations": [
-          {
-            "map": "port",
-            "x": 845,
-            "y": 212
-          }
-        ]
-      },
-      {
-        "name": "Docks Behind House",
-        "sections": [{
-          "name": "Scraps",
-          "chest_unopened_img": "images/chests/scraps.png",
-          "chest_opened_img": "images/chests/scraps_true.png"
-        }],
-        "map_locations": [
-          {
-            "map": "port",
-            "x": 645,
-            "y": 248
-          }
-        ]
-      },
-      {
-        "name": "Docks In Gangway Corner",
-        "sections": [{
-          "name": "Scraps",
-          "chest_unopened_img": "images/chests/scraps.png",
-          "chest_opened_img": "images/chests/scraps_true.png"
-        }],
-        "map_locations": [
-          {
-            "map": "port",
-            "x": 899,
+            "map": "towers",
+            "x": 502,
             "y": 185
+          }
+        ]
+      },
+      {
+        "name": "Northeast Near Unlit Lantern",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "towers",
+            "x": 564,
+            "y": 63
+          }
+        ]
+      },
+      {
+        "name": "Ronny Mission End",
+        "access_rules": ["contracts"],
+        "sections": [{
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "towers",
+            "x": 231,
+            "y": 518
           }
         ]
       }

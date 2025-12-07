@@ -1,38 +1,9 @@
 [
   {
-    "name": "Port",
+    "name": "Mountain Ruin",
     "children": [
       {
-        "name": "Santiago",
-        "sections": [{
-          "access_rules": ["journal"],
-          "chest_unopened_img": "images/chests/scraps.png",
-          "chest_opened_img": "images/chests/scraps_true.png"
-        }],
-        "map_locations": [
-          {
-            "map": "port",
-            "x": 730,
-            "y": 315
-          }
-        ]
-      },
-      {
-        "name": "Paint Can",
-        "sections": [{
-          "chest_unopened_img": "images/chests/scraps.png",
-          "chest_opened_img": "images/chests/scraps_true.png"
-        }],
-        "map_locations": [
-          {
-            "map": "port",
-            "x": 560,
-            "y": 330
-          }
-        ]
-      },
-      {
-        "name": "Station Near Shelter",
+        "name": "Bottom Sheltered",
         "sections": [{
           "name": "Scraps",
           "chest_unopened_img": "images/chests/scraps.png",
@@ -40,179 +11,14 @@
         }],
         "map_locations": [
           {
-            "map": "port",
-            "x": 121,
-            "y": 183
-          }
-        ]
-      },
-      {
-        "name": "Station Half Sheltered",
-        "sections": [{
-          "name": "Scraps",
-          "chest_unopened_img": "images/chests/scraps.png",
-          "chest_opened_img": "images/chests/scraps_true.png"
-        }],
-        "map_locations": [
-          {
-            "map": "port",
-            "x": 147,
-            "y": 165
-          }
-        ]
-      },
-      {
-        "name": "Station Near Tent",
-        "sections": [{
-          "name": "Scraps",
-          "chest_unopened_img": "images/chests/scraps.png",
-          "chest_opened_img": "images/chests/scraps_true.png"
-        }],
-        "map_locations": [
-          {
-            "map": "port",
-            "x": 103,
-            "y": 61
-          }
-        ]
-      },
-      {
-        "name": "Station Near Beams",
-        "sections": [{
-          "name": "Scraps",
-          "chest_unopened_img": "images/chests/scraps.png",
-          "chest_opened_img": "images/chests/scraps_true.png"
-        }],
-        "map_locations": [
-          {
-            "map": "port",
-            "x": 46,
-            "y": 32
-          }
-        ]
-      },
-      {
-        "name": "Station Near Note",
-        "sections": [{
-          "name": "Scraps",
-          "chest_unopened_img": "images/chests/scraps.png",
-          "chest_opened_img": "images/chests/scraps_true.png"
-        }],
-        "map_locations": [
-          {
-            "map": "port",
-            "x": 79,
-            "y": 117
-          }
-        ]
-      },
-      {
-        "name": "Path Summit",
-        "sections": [{
-          "name": "Scraps",
-          "chest_unopened_img": "images/chests/scraps.png",
-          "chest_opened_img": "images/chests/scraps_true.png"
-        }],
-        "map_locations": [
-          {
-            "map": "port",
-            "x": 279,
-            "y": 518
-          }
-        ]
-      },
-      {
-        "name": "Path Near Lit Lantern",
-        "sections": [{
-          "name": "Scraps",
-          "chest_unopened_img": "images/chests/scraps.png",
-          "chest_opened_img": "images/chests/scraps_true.png"
-        }],
-        "map_locations": [
-          {
-            "map": "port",
-            "x": 313,
-            "y": 359
-          }
-        ]
-      },
-      {
-        "name": "Path Under Unlit Lantern",
-        "sections": [{
-          "name": "Scraps",
-          "chest_unopened_img": "images/chests/scraps.png",
-          "chest_opened_img": "images/chests/scraps_true.png"
-        }],
-        "map_locations": [
-          {
-            "map": "port",
-            "x": 456,
-            "y": 586
-          }
-        ]
-      },
-      {
-        "name": "Path Near Tent",
-        "sections": [{
-          "name": "Scraps",
-          "chest_unopened_img": "images/chests/scraps.png",
-          "chest_opened_img": "images/chests/scraps_true.png"
-        }],
-        "map_locations": [
-          {
-            "map": "port",
-            "x": 628,
-            "y": 489
-          }
-        ]
-      },
-      {
-        "name": "Docks Near Shelter",
-        "sections": [{
-          "name": "Scraps",
-          "chest_unopened_img": "images/chests/scraps.png",
-          "chest_opened_img": "images/chests/scraps_true.png"
-        }],
-        "map_locations": [
-          {
-            "map": "port",
-            "x": 536,
-            "y": 381
-          }
-        ]
-      },
-      {
-        "name": "Docks Sheltered",
-        "sections": [{
-          "name": "Scraps",
-          "chest_unopened_img": "images/chests/scraps.png",
-          "chest_opened_img": "images/chests/scraps_true.png"
-        }],
-        "map_locations": [
-          {
-            "map": "port",
-            "x": 529,
-            "y": 330
-          }
-        ]
-      },
-      {
-        "name": "Docks Platform Start",
-        "sections": [{
-          "name": "Scraps",
-          "chest_unopened_img": "images/chests/scraps.png",
-          "chest_opened_img": "images/chests/scraps_true.png"
-        }],
-        "map_locations": [
-          {
-            "map": "port",
+            "map": "mountain_ruin",
             "x": 676,
-            "y": 366
+            "y": 852
           }
         ]
       },
       {
-        "name": "Docks Under Platform",
+        "name": "Bottom Near Minecarts",
         "sections": [{
           "name": "Scraps",
           "chest_unopened_img": "images/chests/scraps.png",
@@ -220,14 +26,14 @@
         }],
         "map_locations": [
           {
-            "map": "port",
-            "x": 710,
-            "y": 317
+            "map": "mountain_ruin",
+            "x": 659,
+            "y": 752
           }
         ]
       },
       {
-        "name": "Docks Near Beds",
+        "name": "Bottom Near Tents 1",
         "sections": [{
           "name": "Scraps",
           "chest_unopened_img": "images/chests/scraps.png",
@@ -235,14 +41,14 @@
         }],
         "map_locations": [
           {
-            "map": "port",
-            "x": 658,
-            "y": 276
+            "map": "mountain_ruin",
+            "x": 638,
+            "y": 646
           }
         ]
       },
       {
-        "name": "Docks Between Lanterns",
+        "name": "Bottom Near Crates",
         "sections": [{
           "name": "Scraps",
           "chest_unopened_img": "images/chests/scraps.png",
@@ -250,14 +56,14 @@
         }],
         "map_locations": [
           {
-            "map": "port",
-            "x": 782,
-            "y": 286
+            "map": "mountain_ruin",
+            "x": 622,
+            "y": 765
           }
         ]
       },
       {
-        "name": "Docks Near Crates",
+        "name": "Bottom Collapsed Mines",
         "sections": [{
           "name": "Scraps",
           "chest_unopened_img": "images/chests/scraps.png",
@@ -265,14 +71,15 @@
         }],
         "map_locations": [
           {
-            "map": "port",
-            "x": 876,
-            "y": 276
+            "map": "mountain_ruin",
+            "shape": "trapezoid",
+            "x": 451,
+            "y": 733
           }
         ]
       },
       {
-        "name": "Docks On Gangway",
+        "name": "Bottom Near Tents 2",
         "sections": [{
           "name": "Scraps",
           "chest_unopened_img": "images/chests/scraps.png",
@@ -280,14 +87,14 @@
         }],
         "map_locations": [
           {
-            "map": "port",
-            "x": 845,
-            "y": 212
+            "map": "mountain_ruin",
+            "x": 692,
+            "y": 652
           }
         ]
       },
       {
-        "name": "Docks Behind House",
+        "name": "Bottom Under Lantern",
         "sections": [{
           "name": "Scraps",
           "chest_unopened_img": "images/chests/scraps.png",
@@ -295,14 +102,14 @@
         }],
         "map_locations": [
           {
-            "map": "port",
-            "x": 645,
-            "y": 248
+            "map": "mountain_ruin",
+            "x": 593,
+            "y": 543
           }
         ]
       },
       {
-        "name": "Docks In Gangway Corner",
+        "name": "Downhill Path On Rocks 1",
         "sections": [{
           "name": "Scraps",
           "chest_unopened_img": "images/chests/scraps.png",
@@ -310,9 +117,173 @@
         }],
         "map_locations": [
           {
-            "map": "port",
-            "x": 899,
-            "y": 185
+            "map": "mountain_ruin",
+            "x": 526,
+            "y": 468
+          }
+        ]
+      },
+      {
+        "name": "Downhill Path Near Barrier",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "mountain_ruin",
+            "x": 478,
+            "y": 271
+          }
+        ]
+      },
+      {
+        "name": "Pillars Near Minecart",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "mountain_ruin",
+            "x": 310,
+            "y": 259
+          }
+        ]
+      },
+      {
+        "name": "Pillars Near Crate",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "mountain_ruin",
+            "x": 237,
+            "y": 245
+          }
+        ]
+      },
+      {
+        "name": "Pillars Near Dirt Heaps",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "mountain_ruin",
+            "x": 253,
+            "y": 44
+          }
+        ]
+      },
+      {
+        "name": "Pillars Near Tents 1",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "mountain_ruin",
+            "x": 166,
+            "y": 94
+          }
+        ]
+      },
+      {
+        "name": "Pillars Near Tents 2",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "mountain_ruin",
+            "x": 164,
+            "y": 70
+          }
+        ]
+      },
+      {
+        "name": "Pillars Behind Tent",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "mountain_ruin",
+            "x": 95,
+            "y": 123
+          }
+        ]
+      },
+      {
+        "name": "Downhill Path On Rocks 2",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "mountain_ruin",
+            "x": 581,
+            "y": 501
+          }
+        ]
+      },
+      {
+        "name": "Topmost On Rocks",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "mountain_ruin",
+            "x": 254,
+            "y": 498
+          }
+        ]
+      },
+      {
+        "name": "Inside",
+        "access_rules": ["mountain_ruin_key"],
+        "sections": [
+          {
+            "name": "Scraps",
+            "chest_unopened_img": "images/chests/scraps.png",
+            "chest_opened_img": "images/chests/scraps_true.png",
+            "item_count": 17
+          },
+          {
+            "name": "Red Paint Can",
+            "item_count": 1,
+            "access_rules": ["lockpicks"]
+          },
+          {
+            "name": "Red Egg"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "mountain_ruin",
+            "size": 50,
+            "shape": "trapezoid",
+            "x": 203,
+            "y": 315
           }
         ]
       }

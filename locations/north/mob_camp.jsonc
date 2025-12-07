@@ -1,38 +1,50 @@
 [
   {
-    "name": "Port",
+    "name": "Mob Camp",
     "children": [
-      {
-        "name": "Santiago",
-        "sections": [{
-          "access_rules": ["journal"],
-          "chest_unopened_img": "images/chests/scraps.png",
-          "chest_opened_img": "images/chests/scraps_true.png"
-        }],
+              {
+        "name": "Locked Room",
+        "access_rules": ["mob_camp_key"],
+        "sections": [
+            {
+              "name": "Scraps",
+              "chest_unopened_img": "images/chests/scraps.png",
+              "chest_opened_img": "images/chests/scraps_true.png",
+              "item_count": 2
+            },
+            {
+                "chest_unopened_img": "images/items/bob.png",
+                "chest_opened_img": "images/chests/scraps_true.png",
+                "name": "Bob",
+                "access_rules": ["bob"]
+            }
+        ],
         "map_locations": [
           {
-            "map": "port",
-            "x": 730,
-            "y": 315
+            "map": "mob_camp",
+            "shape": "trapezoid",
+            "size": 80,
+            "x": 176,
+            "y": 60
           }
         ]
       },
       {
-        "name": "Paint Can",
+        "name": "Key",
         "sections": [{
-          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_unopened_img": "images/items/key.png",
           "chest_opened_img": "images/chests/scraps_true.png"
         }],
         "map_locations": [
           {
-            "map": "port",
-            "x": 560,
-            "y": 330
+            "map": "mob_camp",
+            "x": 496,
+            "y": 769
           }
         ]
       },
       {
-        "name": "Station Near Shelter",
+        "name": "Topmost Near Campfire",
         "sections": [{
           "name": "Scraps",
           "chest_unopened_img": "images/chests/scraps.png",
@@ -40,14 +52,14 @@
         }],
         "map_locations": [
           {
-            "map": "port",
-            "x": 121,
-            "y": 183
+            "map": "mob_camp",
+            "x": 679,
+            "y": 820
           }
         ]
       },
       {
-        "name": "Station Half Sheltered",
+        "name": "Topmost Near Beds",
         "sections": [{
           "name": "Scraps",
           "chest_unopened_img": "images/chests/scraps.png",
@@ -55,14 +67,14 @@
         }],
         "map_locations": [
           {
-            "map": "port",
-            "x": 147,
-            "y": 165
+            "map": "mob_camp",
+            "x": 520,
+            "y": 837
           }
         ]
       },
       {
-        "name": "Station Near Tent",
+        "name": "Topmost On Balcony",
         "sections": [{
           "name": "Scraps",
           "chest_unopened_img": "images/chests/scraps.png",
@@ -70,14 +82,14 @@
         }],
         "map_locations": [
           {
-            "map": "port",
-            "x": 103,
-            "y": 61
+            "map": "mob_camp",
+            "x": 415,
+            "y": 789
           }
         ]
       },
       {
-        "name": "Station Near Beams",
+        "name": "Mask Tower Near Note",
         "sections": [{
           "name": "Scraps",
           "chest_unopened_img": "images/chests/scraps.png",
@@ -85,14 +97,14 @@
         }],
         "map_locations": [
           {
-            "map": "port",
-            "x": 46,
-            "y": 32
+            "map": "mob_camp",
+            "x": 206,
+            "y": 555
           }
         ]
       },
       {
-        "name": "Station Near Note",
+        "name": "Mask Tower On Stairs",
         "sections": [{
           "name": "Scraps",
           "chest_unopened_img": "images/chests/scraps.png",
@@ -100,14 +112,14 @@
         }],
         "map_locations": [
           {
-            "map": "port",
-            "x": 79,
-            "y": 117
+            "map": "mob_camp",
+            "x": 166,
+            "y": 545
           }
         ]
       },
       {
-        "name": "Path Summit",
+        "name": "Mask Tower Sheltered 1",
         "sections": [{
           "name": "Scraps",
           "chest_unopened_img": "images/chests/scraps.png",
@@ -115,14 +127,14 @@
         }],
         "map_locations": [
           {
-            "map": "port",
-            "x": 279,
-            "y": 518
+            "map": "mob_camp",
+            "x": 227,
+            "y": 542
           }
         ]
       },
       {
-        "name": "Path Near Lit Lantern",
+        "name": "Mask Tower Sheltered 2",
         "sections": [{
           "name": "Scraps",
           "chest_unopened_img": "images/chests/scraps.png",
@@ -130,14 +142,29 @@
         }],
         "map_locations": [
           {
-            "map": "port",
-            "x": 313,
+            "map": "mob_camp",
+            "x": 203,
+            "y": 530
+          }
+        ]
+      },
+      {
+        "name": "Rest Shelter Between Tents 1",
+        "sections": [{
+          "name": "Scraps",
+          "chest_unopened_img": "images/chests/scraps.png",
+          "chest_opened_img": "images/chests/scraps_true.png"
+        }],
+        "map_locations": [
+          {
+            "map": "mob_camp",
+            "x": 74,
             "y": 359
           }
         ]
       },
       {
-        "name": "Path Under Unlit Lantern",
+        "name": "Rest Shelter Between Tents 2",
         "sections": [{
           "name": "Scraps",
           "chest_unopened_img": "images/chests/scraps.png",
@@ -145,14 +172,14 @@
         }],
         "map_locations": [
           {
-            "map": "port",
-            "x": 456,
-            "y": 586
+            "map": "mob_camp",
+            "x": 61,
+            "y": 225
           }
         ]
       },
       {
-        "name": "Path Near Tent",
+        "name": "Workshop Near Beams",
         "sections": [{
           "name": "Scraps",
           "chest_unopened_img": "images/chests/scraps.png",
@@ -160,14 +187,14 @@
         }],
         "map_locations": [
           {
-            "map": "port",
-            "x": 628,
-            "y": 489
+            "map": "mob_camp",
+            "x": 124,
+            "y": 49
           }
         ]
       },
       {
-        "name": "Docks Near Shelter",
+        "name": "Workshop Under Stairs",
         "sections": [{
           "name": "Scraps",
           "chest_unopened_img": "images/chests/scraps.png",
@@ -175,14 +202,14 @@
         }],
         "map_locations": [
           {
-            "map": "port",
-            "x": 536,
-            "y": 381
+            "map": "mob_camp",
+            "x": 285,
+            "y": 46
           }
         ]
       },
       {
-        "name": "Docks Sheltered",
+        "name": "Workshop Near Water Tank",
         "sections": [{
           "name": "Scraps",
           "chest_unopened_img": "images/chests/scraps.png",
@@ -190,14 +217,14 @@
         }],
         "map_locations": [
           {
-            "map": "port",
-            "x": 529,
-            "y": 330
+            "map": "mob_camp",
+            "x": 180,
+            "y": 146
           }
         ]
       },
       {
-        "name": "Docks Platform Start",
+        "name": "Rest Shelter Near Campfire",
         "sections": [{
           "name": "Scraps",
           "chest_unopened_img": "images/chests/scraps.png",
@@ -205,14 +232,14 @@
         }],
         "map_locations": [
           {
-            "map": "port",
-            "x": 676,
-            "y": 366
+            "map": "mob_camp",
+            "x": 254,
+            "y": 334
           }
         ]
       },
       {
-        "name": "Docks Under Platform",
+        "name": "Workshop In Tower",
         "sections": [{
           "name": "Scraps",
           "chest_unopened_img": "images/chests/scraps.png",
@@ -220,14 +247,14 @@
         }],
         "map_locations": [
           {
-            "map": "port",
-            "x": 710,
-            "y": 317
+            "map": "mob_camp",
+            "x": 240,
+            "y": 44
           }
         ]
       },
       {
-        "name": "Docks Near Beds",
+        "name": "Rest Shelter Inside",
         "sections": [{
           "name": "Scraps",
           "chest_unopened_img": "images/chests/scraps.png",
@@ -235,14 +262,14 @@
         }],
         "map_locations": [
           {
-            "map": "port",
-            "x": 658,
-            "y": 276
+            "map": "mob_camp",
+            "x": 182,
+            "y": 353
           }
         ]
       },
       {
-        "name": "Docks Between Lanterns",
+        "name": "Topmost On Bridge",
         "sections": [{
           "name": "Scraps",
           "chest_unopened_img": "images/chests/scraps.png",
@@ -250,69 +277,9 @@
         }],
         "map_locations": [
           {
-            "map": "port",
-            "x": 782,
-            "y": 286
-          }
-        ]
-      },
-      {
-        "name": "Docks Near Crates",
-        "sections": [{
-          "name": "Scraps",
-          "chest_unopened_img": "images/chests/scraps.png",
-          "chest_opened_img": "images/chests/scraps_true.png"
-        }],
-        "map_locations": [
-          {
-            "map": "port",
-            "x": 876,
-            "y": 276
-          }
-        ]
-      },
-      {
-        "name": "Docks On Gangway",
-        "sections": [{
-          "name": "Scraps",
-          "chest_unopened_img": "images/chests/scraps.png",
-          "chest_opened_img": "images/chests/scraps_true.png"
-        }],
-        "map_locations": [
-          {
-            "map": "port",
-            "x": 845,
-            "y": 212
-          }
-        ]
-      },
-      {
-        "name": "Docks Behind House",
-        "sections": [{
-          "name": "Scraps",
-          "chest_unopened_img": "images/chests/scraps.png",
-          "chest_opened_img": "images/chests/scraps_true.png"
-        }],
-        "map_locations": [
-          {
-            "map": "port",
-            "x": 645,
-            "y": 248
-          }
-        ]
-      },
-      {
-        "name": "Docks In Gangway Corner",
-        "sections": [{
-          "name": "Scraps",
-          "chest_unopened_img": "images/chests/scraps.png",
-          "chest_opened_img": "images/chests/scraps_true.png"
-        }],
-        "map_locations": [
-          {
-            "map": "port",
-            "x": 899,
-            "y": 185
+            "map": "mob_camp",
+            "x": 478,
+            "y": 609
           }
         ]
       }

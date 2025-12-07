@@ -1,6 +1,7 @@
 # This is a helper function to convert Choo-Choo Charles location.py file to use with location_mapping.lua and the location jsons
 # Not called in the poptracker but is useful for others want to tinker with their own poptracker the way i did it
 import tkinter as tk
+import pyperclip
 from tkinter.filedialog import askopenfilename
 from tkinter.simpledialog import askstring
 tk.Tk().withdraw()
@@ -13,6 +14,7 @@ is_scrap = False
 location = ""
 location_cap= ""
 base_id = 66600000
+prnt = ""
 with open(fn) as f:
   for line in f.readlines():
     if "loc_" in line:
@@ -47,3 +49,6 @@ with open(fn) as f:
     # Use this for location .json files
     l = '      {{\n        "name": "{3}",\n        "sections": [{{\n          "name": "{2}",\n          "chest_unopened_img": "images/chests/scraps.png",\n          "chest_opened_img": "images/chests/scraps_true.png"\n        }}],\n        "map_locations": [\n          {{\n            "map": "{1}",\n            "x": 0,\n            "y": 0\n          }}\n        ]\n      }},'.format(id,location,(check, "Scraps")[is_scrap],check,("", "Scraps")[is_scrap])
     print(l)
+    prnt += l + "\n"
+    
+  pyperclip.copy(prnt)
