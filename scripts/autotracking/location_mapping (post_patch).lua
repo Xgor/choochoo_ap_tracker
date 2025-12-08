@@ -1,5 +1,5 @@
 BASE_LOCATION_ID = 66600000
-LOCATION_MAPPING = {
+LOCATION_MAPPING2 = {
     [66601000] = {{"@Aranerarum/Start Camp/Scraps"},{"@Start Camp/Near Barrier/Scraps"}},
 	[66601001] = {{"@Aranerarum/Start Camp/Scraps"},{"@Start Camp/Behind Tent/Scraps"}},
 	[66601002] = {{"@Aranerarum/Barn/Tony Tiddle"}},

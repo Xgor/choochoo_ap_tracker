@@ -254,10 +254,15 @@ function onLocation(location_id, location_name)
 		end
 		return
 	end
+	local last_code
+	
+
 	for _, location_table in pairs(mapping_entry) do
 		if location_table then
 			local location_code = location_table[1]
+			print(location_table)
 			if location_code then
+				print(location_code)
 				local obj = Tracker:FindObjectForCode(location_code)
 				if obj then
 					if location_code:sub(1, 1) == "@" then
@@ -273,6 +278,7 @@ function onLocation(location_id, location_name)
 			elseif AUTOTRACKER_ENABLE_DEBUG_LOGGING_AP then
 				print(string.format("onLocation: skipping location_table with no location_code"))
 			end
+			last_code = location_code
 		elseif AUTOTRACKER_ENABLE_DEBUG_LOGGING_AP then
 			print(string.format("onLocation: skipping empty location_table"))
 		end

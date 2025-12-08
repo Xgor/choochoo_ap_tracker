@@ -29,8 +29,6 @@ Tracker:AddItems("items/items.jsonc")
 
 Tracker:AddMaps("maps/maps.jsonc")
 
-ScriptHost:LoadScript("scripts/autotracking.lua")
-
 ScriptHost:LoadScript("scripts/locations.lua")
 
 -- Layout
