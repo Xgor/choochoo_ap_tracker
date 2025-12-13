@@ -365,6 +365,7 @@
       },
       {
         "name": "Jar of Pickles",
+        "access_rules": ["lockpicks"],
         "sections": [{
           "chest_unopened_img": "images/items/pickles.png",
           "chest_opened_img": "images/chests/scraps_true.png"
